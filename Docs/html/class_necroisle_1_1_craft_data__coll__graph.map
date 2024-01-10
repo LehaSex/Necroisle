@@ -1,0 +1,13 @@
+<map id="Necroisle.CraftData" name="Necroisle.CraftData">
+<area shape="rect" id="Node000001" title="Crafting cost." alt="" coords="5,717,132,1023"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_id_data.html" title="IdData adds an ID to the class." alt="" coords="38,235,89,300"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,315,70,717,65,717,61,315"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_craft_data.html" title="Crafting cost." alt="" coords="85,349,212,655"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="83,313,96,349,91,350,78,315"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_s_data.html" title="SData is the base scriptable object data for this engine." alt="" coords="38,120,89,185"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="66,201,66,235,61,235,61,201"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="8,5,119,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="66,86,66,120,61,120,61,86"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="118,655,108,701,103,700,113,654"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="213,467,231,478,237,489,239,502,236,517,229,528,225,525,231,515,233,502,232,490,227,482,210,472"/>
+</map>

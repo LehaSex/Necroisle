@@ -1,0 +1,9 @@
+<map id="Necroisle.PhysTool.LayerToLayerMask" name="Necroisle.PhysTool.LayerToLayerMask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="487,37,657,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_phys_tool.html#a204244cc535034cd18d130bc6898a1d6" title=" " alt="" coords="259,37,439,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="472,60,439,60,439,55,472,55"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_phys_tool.html#ac4c0cc43da6729bd68da04784cd5762e" title=" " alt="" coords="5,5,211,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,46,211,42,211,36,244,41"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_phys_tool.html#aed42c1f5b87aca9d75d8fbcbb0465a88" title=" " alt="" coords="23,69,193,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="243,74,194,81,193,75,243,69"/>
+</map>

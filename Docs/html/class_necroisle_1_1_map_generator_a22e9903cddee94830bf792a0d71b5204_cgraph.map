@@ -1,0 +1,23 @@
+<map id="Necroisle.MapGenerator.Learn" name="Necroisle.MapGenerator.Learn">
+<area shape="rect" id="Node000001" title="Learn map." alt="" coords="5,159,204,185"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_generator.html#a95c8fcccd4dac3c192f862f77d9a303a" title="Find adjacent chunks." alt="" coords="272,5,463,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,157,172,108,210,79,251,55,264,49,266,54,253,60,213,84,176,112,121,161"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_generator.html#a581ccf173da80edfb7eb17ca89d0fbb6" title="Find winner chunk." alt="" coords="272,69,463,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,156,251,120,279,112,280,117,253,125,145,161"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_map_generator.html#afd332927f47a0f9e0263df54e9a331f1" title="Recolor all chunks." alt="" coords="252,134,483,159"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="204,160,236,157,237,162,205,165"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_map_chunk.html#a21a59cc21b02e1a0fedf9cb789a1b776" title=" " alt="" coords="275,183,459,209"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="205,178,260,184,259,189,204,184"/>
+<area shape="rect" id="Node000010" href="$class_necroisle_1_1_map_chunk.html#ada81484169e228a8c933defc1841de97" title=" " alt="" coords="275,233,459,258"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="142,183,253,219,282,226,281,231,251,224,140,188"/>
+<area shape="rect" id="Node000011" href="$class_necroisle_1_1_map_chunk.html#a3335a617ea3d05c257a7b9ef65f536f4" title=" " alt="" coords="275,282,459,307"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="123,183,178,225,214,249,253,268,271,275,269,280,251,273,212,253,175,230,119,187"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_chunk.html#a6397651be70fb457d8f2a561676629c5" title=" " alt="" coords="531,6,715,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="442,66,482,55,530,40,555,33,557,38,531,45,483,60,444,71"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_map_chunk.html#a4ae401a777a4a14591c9372b28a3b37b" title=" " alt="" coords="531,55,715,81"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="463,79,516,74,516,80,463,84"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_map_chunk.html#a9731c6db0f243e98aa174899d2039d98" title=" " alt="" coords="531,105,715,130"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="463,97,516,103,515,108,463,102"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_map_chunk.html#a53345771f55afb6fc7cd7e51c7c4ceda" title="Renew chunk&#39;s color." alt="" coords="531,154,716,179"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="483,153,515,156,515,161,483,158"/>
+</map>

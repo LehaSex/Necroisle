@@ -1,0 +1,7 @@
+<map id="Necroisle.RegrowthData" name="Necroisle.RegrowthData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="102,253,255,439"/>
+<area shape="rect" id="Node000002" href="$struct_necroisle_1_1_vector3_data.html" title="Just a serializable version of a Vector3 Useful for the file system." alt="" coords="5,15,163,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,179,140,237,135,239,113,181"/>
+<area shape="rect" id="Node000003" href="$struct_necroisle_1_1_quaternion_data.html" title=" " alt="" coords="187,5,362,191"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,191,223,238,218,236,237,189"/>
+</map>

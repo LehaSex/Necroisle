@@ -1,0 +1,5 @@
+<map id="Necroisle.MapChunk.initNeuronWeights" name="Necroisle.MapChunk.initNeuronWeights">
+<area shape="rect" id="Node000001" title="Initialize chunk&#39;s weights." alt="" coords="261,5,465,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_chunk.html#a2ca558de38e27c1a698f922f247e6a11" title="Chunk&#39;s colors and coordinates." alt="" coords="5,13,213,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,28,214,28,214,23,246,23"/>
+</map>

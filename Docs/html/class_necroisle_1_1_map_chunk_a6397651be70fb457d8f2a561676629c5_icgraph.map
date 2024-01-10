@@ -1,0 +1,7 @@
+<map id="Necroisle.MapChunk.getW1" name="Necroisle.MapChunk.getW1">
+<area shape="rect" id="Node000001" title=" " alt="" coords="491,13,675,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_generator.html#a581ccf173da80edfb7eb17ca89d0fbb6" title="Find winner chunk." alt="" coords="252,5,443,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="475,28,443,28,443,23,475,23"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_generator.html#a22e9903cddee94830bf792a0d71b5204" title="Learn map." alt="" coords="5,13,204,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,28,204,28,204,23,236,23"/>
+</map>

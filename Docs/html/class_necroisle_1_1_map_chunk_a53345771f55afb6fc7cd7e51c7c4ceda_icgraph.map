@@ -1,0 +1,7 @@
+<map id="Necroisle.MapChunk.recolor" name="Necroisle.MapChunk.recolor">
+<area shape="rect" id="Node000001" title="Renew chunk&#39;s color." alt="" coords="531,5,716,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_generator.html#afd332927f47a0f9e0263df54e9a331f1" title="Recolor all chunks." alt="" coords="252,5,483,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="515,21,483,21,483,15,515,15"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_generator.html#a22e9903cddee94830bf792a0d71b5204" title="Learn map." alt="" coords="5,5,204,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="236,21,205,21,205,15,236,15"/>
+</map>

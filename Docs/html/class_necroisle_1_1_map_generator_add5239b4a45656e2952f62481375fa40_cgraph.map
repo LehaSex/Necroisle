@@ -1,0 +1,5 @@
+<map id="Necroisle.MapGenerator.GetChunk" name="Necroisle.MapGenerator.GetChunk">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,192,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_chunk.html#a77236971fde9032c839429ee4e32f7ff" title=" " alt="" coords="240,13,437,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,23,225,23,225,28,192,28"/>
+</map>

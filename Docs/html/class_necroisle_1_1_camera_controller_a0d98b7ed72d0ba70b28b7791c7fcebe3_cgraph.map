@@ -1,0 +1,5 @@
+<map id="Necroisle.CameraController.GetAimDir" name="Necroisle.CameraController.GetAimDir">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,189,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_controller.html#abc35b6cd0b633b87b0e234aa089c8de9" title=" " alt="" coords="237,5,413,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,23,221,23,221,28,190,28"/>
+</map>

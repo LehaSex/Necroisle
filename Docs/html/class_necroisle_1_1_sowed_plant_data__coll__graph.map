@@ -1,0 +1,7 @@
+<map id="Necroisle.SowedPlantData" name="Necroisle.SowedPlantData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,253,263,379"/>
+<area shape="rect" id="Node000002" href="$struct_necroisle_1_1_vector3_data.html" title="Just a serializable version of a Vector3 Useful for the file system." alt="" coords="5,15,163,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,179,147,237,143,239,117,181"/>
+<area shape="rect" id="Node000003" href="$struct_necroisle_1_1_quaternion_data.html" title=" " alt="" coords="187,5,362,191"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,192,215,239,210,237,232,190"/>
+</map>

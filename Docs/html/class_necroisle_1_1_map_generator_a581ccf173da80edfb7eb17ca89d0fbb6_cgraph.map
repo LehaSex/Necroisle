@@ -1,0 +1,9 @@
+<map id="Necroisle.MapGenerator.FindWinner" name="Necroisle.MapGenerator.FindWinner">
+<area shape="rect" id="Node000001" title="Find winner chunk." alt="" coords="5,47,196,87"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_chunk.html#a6397651be70fb457d8f2a561676629c5" title=" " alt="" coords="244,5,428,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,45,257,32,258,37,197,50"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_chunk.html#a4ae401a777a4a14591c9372b28a3b37b" title=" " alt="" coords="244,55,428,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,65,228,65,228,70,197,70"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_chunk.html#a9731c6db0f243e98aa174899d2039d98" title=" " alt="" coords="244,104,428,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,85,258,98,257,103,196,90"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerController.GetColliderCenter" name="Necroisle.PlayerController.GetColliderCenter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="237,5,413,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_camera_controller.html#a0d98b7ed72d0ba70b28b7791c7fcebe3" title=" " alt="" coords="5,5,189,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,28,190,28,190,23,222,23"/>
+</map>

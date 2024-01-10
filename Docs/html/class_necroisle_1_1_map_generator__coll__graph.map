@@ -1,0 +1,5 @@
+<map id="Necroisle.MapGenerator" name="Necroisle.MapGenerator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,173,160,399"/>
+<area shape="rect" id="Node000002" href="$struct_necroisle_1_1_r_g_b.html" title="Color of chunk." alt="" coords="33,5,133,111"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,110,85,156,80,156,80,110"/>
+</map>

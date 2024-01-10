@@ -1,0 +1,11 @@
+<map id="Necroisle.SData" name="Necroisle.SData">
+<area shape="rect" id="Node000001" title="SData is the base scriptable object data for this engine." alt="" coords="98,119,206,184"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_id_data.html" title="IdData adds an ID to the class." alt="" coords="97,232,207,297"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,198,155,232,149,232,149,198"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="97,5,207,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,85,155,119,149,119,149,85"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_craft_data.html" title="Crafting cost." alt="" coords="5,345,139,671"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="139,312,128,346,123,345,134,310"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_spawn_data.html" title="This is a generic spawn data to spawn any generic prefabs that are not Constructions,..." alt="" coords="163,455,301,561"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="170,310,218,455,213,456,164,312"/>
+</map>

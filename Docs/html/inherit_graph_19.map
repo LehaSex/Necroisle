@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,42,124,67"/>
+<area shape="rect" id="Node000001" href="$class_necroisle_1_1_editor_tool_1_1_create_object_settings.html" title="Default Settings file for the CreatObject editor script." alt="" coords="172,5,352,45"/>
+<area shape="poly" id="edge10_Node000000_Node000001" title=" " alt="" coords="139,41,171,36,172,41,140,46"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_s_data.html" title="SData is the base scriptable object data for this engine." alt="" coords="204,70,320,95"/>
+<area shape="poly" id="edge11_Node000000_Node000002" title=" " alt="" coords="140,63,204,72,203,77,139,68"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_id_data.html" title="IdData adds an ID to the class." alt="" coords="400,70,517,95"/>
+<area shape="poly" id="edge12_Node000002_Node000003" title=" " alt="" coords="336,80,400,80,400,85,336,85"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_craft_data.html" title="Crafting cost." alt="" coords="571,45,706,70"/>
+<area shape="poly" id="edge13_Node000003_Node000004" title=" " alt="" coords="532,70,570,64,571,69,533,75"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_spawn_data.html" title="This is a generic spawn data to spawn any generic prefabs that are not Constructions,..." alt="" coords="565,94,712,119"/>
+<area shape="poly" id="edge14_Node000003_Node000005" title=" " alt="" coords="533,90,565,94,565,100,532,95"/>
+</map>

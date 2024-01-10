@@ -1,0 +1,9 @@
+<map id="Necroisle.EditorTool.CreateObject" name="Necroisle.EditorTool.CreateObject">
+<area shape="rect" id="Node000001" title="Tool to create new objects." alt="" coords="28,563,200,703"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,277,119,343"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="72,357,106,563,100,564,67,358"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_editor_tool_1_1_create_object_settings.html" title="Default Settings file for the CreatObject editor script." alt="" coords="143,120,315,500"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,501,147,548,142,546,159,499"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="173,5,284,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,86,231,120,226,120,226,86"/>
+</map>

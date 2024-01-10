@@ -1,0 +1,5 @@
+<map id="Necroisle.MapGenerator.FindAdjacents" name="Necroisle.MapGenerator.FindAdjacents">
+<area shape="rect" id="Node000001" title="Find adjacent chunks." alt="" coords="252,5,443,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_generator.html#a22e9903cddee94830bf792a0d71b5204" title="Learn map." alt="" coords="5,13,204,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,28,204,28,204,23,236,23"/>
+</map>

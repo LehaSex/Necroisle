@@ -1,0 +1,6 @@
+<map id="Necroisle.PlayerData.AddDroppedItem" name="Necroisle.PlayerData.AddDroppedItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,176,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="48,30,45,20,52,10,68,5,91,3,116,5,130,11,128,16,114,10,91,8,69,10,56,15,51,21,53,28"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_unique_i_d.html#ab3d93d1b811b1084f9e6e39e4bca8cea" title=" " alt="" coords="224,29,413,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="177,47,209,47,209,52,177,52"/>
+</map>

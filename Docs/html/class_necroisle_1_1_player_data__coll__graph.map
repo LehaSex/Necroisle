@@ -1,0 +1,6 @@
+<map id="Necroisle.PlayerData" name="Necroisle.PlayerData">
+<area shape="rect" id="Node000001" title="PlayerData is the main save file data script." alt="" coords="5,1893,188,3719"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_data.html" title="PlayerData is the main save file data script." alt="" coords="5,5,188,1831"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,1831,99,1876,94,1876,94,1831"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="190,754,200,778,208,814,213,860,215,918,210,1007,198,1066,192,1065,205,1007,209,918,208,861,203,815,195,780,185,756"/>
+</map>
