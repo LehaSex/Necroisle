@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8eeaef4e1d3af6e49bdb53b6a51bd510, type: 3}
+  m_Name: MacheteWeapon
+  m_EditorClassIdentifier: 
+  id: macheteweapon
+  title: "\u041C\u0430\u0447\u0435\u0442\u0435"
+  icon: {fileID: 21300000, guid: 8afae5228aee57244919554c2f4047b8, type: 3}
+  desc: "\u0420\u0443\u0431\u0438\u0442 \u0432\u0441\u0451"
+  groups:
+  - {fileID: 11400000, guid: fb74b9b3d7a5c1d4cabb16761f35965e, type: 2}
+  craftable: 1
+  craft_quantity: 1
+  craft_duration: 0
+  craft_sort_order: 0
+  craft_near: {fileID: 0}
+  craft_items:
+  - {fileID: 11400000, guid: ede2b643758395842ab1574efeab871c, type: 2}
+  craft_fillers: []
+  craft_requirements: []
+  craft_xp: 0
+  craft_xp_type: 
+  craft_sound: {fileID: 8300000, guid: 4d94bbef739d431428c55a32685cd11e, type: 3}
+  type: 20
+  inventory_max: 1
+  durability_type: 5
+  durability: 0
+  equip_slot: 10
+  equip_side: 2
+  armor: 0
+  bag_size: 0
+  equip_bonus: []
+  weapon_type: 10
+  damage: 30
+  range: 1.2
+  attack_speed: 1.25
+  attack_cooldown: 0.7
+  strike_per_attack: 0
+  strike_interval: 0
+  eat_hp: 0
+  eat_hunger: 0
+  eat_thirst: 0
+  eat_happiness: 0
+  eat_bonus: []
+  eat_bonus_duration: 0
+  actions:
+  - {fileID: 11400000, guid: 0efc65a5b0a6b0f44a5755e78d6a2421, type: 2}
+  - {fileID: 11400000, guid: 925a6e1b7dcbc764cb15f91d825e9437, type: 2}
+  - {fileID: 11400000, guid: b116f3b69981762499597fee1be4496a, type: 2}
+  buy_cost: 0
+  sell_cost: 0
+  container_data: {fileID: 0}
+  plant_data: {fileID: 0}
+  construction_data: {fileID: 0}
+  character_data: {fileID: 0}
+  projectile_group: {fileID: 0}
+  item_prefab: {fileID: 4083994354760020389, guid: b82dc74c19ca55644b8518518b45bc5a, type: 3}
+  equipped_prefab: {fileID: 94527518160576323, guid: 983d8fe35aa0abd4d8280d93434eb6d6, type: 3}
+  projectile_prefab: {fileID: 0}

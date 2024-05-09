@@ -1,0 +1,15 @@
+<map id="Necroisle.WorldGen.Edge" name="Necroisle.WorldGen.Edge">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,228,169,353"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_vertex.html" title=" " alt="" coords="249,5,421,151"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,152,174,219,171,215,250,148"/>
+<area shape="poly" id="edge9_Node000002_Node000002" title=" " alt="" coords="422,56,440,63,448,78,446,87,439,93,435,90,441,84,443,78,437,67,420,61"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_half_edge.html" title=" " alt="" coords="194,258,381,323"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="294,152,286,175,281,208,282,241,277,241,276,208,281,174,289,150"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_world_gen_1_1_triangle.html" title=" " alt="" coords="402,416,581,541"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="423,130,471,173,491,199,507,227,520,270,525,315,522,359,516,400,511,399,517,358,519,315,515,271,502,229,487,202,467,176,420,134"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="292,258,313,166,318,168,297,259"/>
+<area shape="poly" id="edge7_Node000003_Node000003" title=" " alt="" coords="381,272,400,278,407,290,405,298,398,304,395,300,400,295,402,291,396,282,379,277"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="293,322,302,357,320,390,351,418,388,440,385,445,348,423,316,394,297,359,288,324"/>
+<area shape="poly" id="edge8_Node000002_Node000004" title=" " alt="" coords="525,415,543,373,557,325,561,276,557,252,550,229,530,195,502,165,470,140,435,120,438,116,473,136,506,161,534,191,555,227,563,251,566,276,562,326,548,375,530,417"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="426,418,384,379,335,336,339,332,388,375,430,414"/>
+</map>

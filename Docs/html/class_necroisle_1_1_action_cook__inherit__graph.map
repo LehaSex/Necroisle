@@ -1,0 +1,9 @@
+<map id="Necroisle.ActionCook" name="Necroisle.ActionCook">
+<area shape="rect" id="Node000001" title="Cook an item on the fire (like raw meat)" alt="" coords="5,545,144,631"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_m_action.html" title="Merge Action parent class: Any action that happens when mixing two items (ex: coconut and axe),..." alt="" coords="19,332,130,497"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,512,77,546,72,546,72,512"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_s_action.html" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="19,119,130,284"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="77,299,77,332,72,332,72,299"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="19,5,130,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="77,85,77,119,72,119,72,85"/>
+</map>

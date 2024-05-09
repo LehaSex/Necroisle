@@ -1,0 +1,7 @@
+<map id="Necroisle.ItemSlotPanel.GetFilterLevel" name="Necroisle.ItemSlotPanel.GetFilterLevel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,171,75"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_data.html#a73434b48c0791c3b0cc1dbd43e35787d" title=" " alt="" coords="220,5,431,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,42,204,38,205,43,171,47"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_data.html#a91e622e07167af95af6d4e5d1f0b8803" title=" " alt="" coords="219,70,432,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,62,204,66,203,71,170,67"/>
+</map>

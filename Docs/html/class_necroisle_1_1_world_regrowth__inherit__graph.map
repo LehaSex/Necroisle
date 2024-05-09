@@ -1,0 +1,5 @@
+<map id="Necroisle.WorldRegrowth" name="Necroisle.WorldRegrowth">
+<area shape="rect" id="Node000001" title="Old script name, was renamed to Regrowth.cs File is still here to avoid error during version updates,..." alt="" coords="5,119,165,184"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="34,5,137,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,85,88,119,83,119,83,85"/>
+</map>

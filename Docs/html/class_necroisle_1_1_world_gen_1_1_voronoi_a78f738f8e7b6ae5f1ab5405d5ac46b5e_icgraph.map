@@ -1,0 +1,11 @@
+<map id="Necroisle.WorldGen.Voronoi.GenerateVoronoiDiagram" name="Necroisle.WorldGen.Voronoi.GenerateVoronoiDiagram">
+<area shape="rect" id="Node000001" title=" " alt="" coords="787,37,977,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a9e06c5654ae1260fa243802931c677e5" title=" " alt="" coords="548,37,739,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="771,60,739,60,739,55,771,55"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#aacb5e7f486a842f71a83d691ffca97db" title=" " alt="" coords="324,37,500,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="533,60,500,60,500,55,533,55"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#af504a772cb6a37bfdf023c41a715fe17" title=" " alt="" coords="31,5,250,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="308,48,250,41,251,36,309,43"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_world_gen_1_1_editor_tool_1_1_world_generator_editor.html#ad86ecd2f83bdb93e0fb872c6206dcdc6" title=" " alt="" coords="5,69,276,109"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="309,72,277,76,276,71,308,67"/>
+</map>

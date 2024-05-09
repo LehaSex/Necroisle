@@ -1,0 +1,9 @@
+<map id="Necroisle.KeyControlsUI.GetSelectedSlot" name="Necroisle.KeyControlsUI.GetSelectedSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,172,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot_panel.html#ad524b436326932d640684cf2ba24acfa" title=" " alt="" coords="220,5,393,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,42,204,38,205,43,173,48"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_u_i_slot_panel.html#a83ddd4e2770008cf821ef3b1874f42ab" title=" " alt="" coords="220,69,393,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,67,205,72,204,77,172,72"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_u_i_slot_panel.html#ab7ebbb78ce11f7e1c2e4ccbbddfefea0" title=" " alt="" coords="441,77,637,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="394,87,426,87,426,92,394,92"/>
+</map>

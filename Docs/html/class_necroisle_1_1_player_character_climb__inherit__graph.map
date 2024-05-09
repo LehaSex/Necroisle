@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerCharacterClimb" name="Necroisle.PlayerCharacterClimb">
+<area shape="rect" id="Node000001" title="Add this script to the player to be able to climb ladders." alt="" coords="5,119,171,299"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="37,5,139,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,86,91,119,85,119,85,86"/>
+</map>

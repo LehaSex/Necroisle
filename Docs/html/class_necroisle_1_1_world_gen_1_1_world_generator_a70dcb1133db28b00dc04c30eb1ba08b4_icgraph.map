@@ -1,0 +1,6 @@
+<map id="Necroisle.WorldGen.WorldGenerator.GenerateRandomWorld" name="Necroisle.WorldGen.WorldGenerator.GenerateRandomWorld">
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,29,491,69"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="425,16,409,10,381,8,355,10,340,15,334,21,337,28,332,30,329,20,337,10,354,5,381,3,410,5,427,11"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#a7ad1f6066a1f4c18f68f63e4c1492783" title=" " alt="" coords="5,29,224,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,52,225,52,225,47,256,47"/>
+</map>

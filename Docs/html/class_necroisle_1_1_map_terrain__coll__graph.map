@@ -1,5 +1,8 @@
 <map id="Necroisle.MapTerrain" name="Necroisle.MapTerrain">
-<area shape="rect" id="Node000001" title="Generates map." alt="" coords="5,119,141,184"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="22,5,125,71"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,85,76,119,71,119,71,85"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,2228,141,2293"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="17,5,119,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,86,76,2228,71,2228,65,86"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_controller.html" title=" " alt="" coords="90,120,265,2165"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="75,85,93,261,87,262,70,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,2080,80,2212,75,2211,87,2080"/>
 </map>

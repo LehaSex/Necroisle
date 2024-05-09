@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38d63eba896e0f144b66d0da66265db1, type: 3}
+  m_Name: SandyDesertTree
+  m_EditorClassIdentifier: 
+  density: 5
+  variance: 50
+  random_rotation: 1
+  random_scale: 0.1
+  spawns:
+  - prefab: {fileID: 6947929780284823399, guid: e5aa12e0b1797b34bba7c840a7fe026a, type: 3}
+    probability: 1
+  - prefab: {fileID: 4572329684220654513, guid: 26681a15cde7c374496ebb65625f89ba, type: 3}
+    probability: 1
+  - prefab: {fileID: 769415072399224641, guid: 6823fb50460c2ae44a065415546f1d58, type: 3}
+    probability: 1
+  - prefab: {fileID: 4068601829528759194, guid: a855471b17dcd9b4986d5e49def56158, type: 3}
+    probability: 1

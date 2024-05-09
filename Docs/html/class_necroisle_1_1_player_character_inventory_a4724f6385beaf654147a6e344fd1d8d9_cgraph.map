@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerCharacterInventory.GetBestEquippedBag" name="Necroisle.PlayerCharacterInventory.GetBestEquippedBag">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,208,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_craft_data.html#ae0d03ab4f5acfb0bc9b202dd83b16aa5" title=" " alt="" coords="256,13,440,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,23,240,23,240,28,209,28"/>
+</map>

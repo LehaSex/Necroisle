@@ -1,0 +1,7 @@
+<map id="Necroisle.UISlotPanel.IsSelectedValid" name="Necroisle.UISlotPanel.IsSelectedValid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="435,5,597,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_key_controls_u_i.html#a78d8e712331dcab8f09d42fd761cc379" title=" " alt="" coords="220,5,387,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="419,28,387,28,387,23,419,23"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_key_controls_u_i.html#a3e41fc1f330ac8efe7308380c297a443" title=" " alt="" coords="5,5,172,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,28,172,28,172,23,204,23"/>
+</map>

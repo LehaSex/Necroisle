@@ -1,0 +1,11 @@
+<map id="Necroisle.Construction.GetNearest" name="Necroisle.Construction.GetNearest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,184,63"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_construction.html#af3e94e8b3a2560542d33faa6d7ecebab" title=" " alt="" coords="232,23,399,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,41,216,41,216,46,184,46"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_buildable.html#aaf2d9256111f0f7f6838c07f4cc211f5" title=" " alt="" coords="449,5,642,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="398,32,433,28,433,33,399,37"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_construction.html#adbff2a511c9ab0853344a7baa13fbbf6" title=" " alt="" coords="447,55,644,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="399,49,432,53,431,58,398,55"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_destructible.html#a8d379474023260f276febfa1b397b6f5" title=" " alt="" coords="692,55,885,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="645,65,676,65,676,70,645,70"/>
+</map>

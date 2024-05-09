@@ -1,0 +1,7 @@
+<map id="Necroisle.PlayerCharacterInventory.CombineItems" name="Necroisle.PlayerCharacterInventory.CombineItems">
+<area shape="rect" id="Node000001" title=" " alt="" coords="432,5,605,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_slot_panel.html#a4ec6b378377a872884ed72fd7129d87d" title=" " alt="" coords="219,5,384,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="417,28,384,28,384,23,417,23"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_slot_panel.html#accdff2611ee89d33ad4814f035e36dbb" title=" " alt="" coords="5,5,171,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="203,28,171,28,171,23,203,23"/>
+</map>

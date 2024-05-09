@@ -1,0 +1,11 @@
+<map id="Necroisle.PlayerData.SetCustomString" name="Necroisle.PlayerData.SetCustomString">
+<area shape="rect" id="Node000001" title=" " alt="" coords="459,39,627,79"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_weather_system.html#a48774addca0ab370a3415ffc40d89212" title=" " alt="" coords="232,8,411,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="443,48,411,43,412,38,444,42"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_furnace.html#ad23d308fee8b3e2139e6efe393032136" title=" " alt="" coords="233,74,409,99"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="443,74,410,78,409,73,443,69"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_weather_system.html#abb144c52c1dd39fa46827b32307485cf" title=" " alt="" coords="5,5,184,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,29,185,29,185,24,216,24"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_action_furnace.html#acc2210a78c8a124113922833413452bc" title=" " alt="" coords="11,69,179,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="218,91,179,91,179,86,218,85"/>
+</map>

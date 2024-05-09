@@ -1,0 +1,5 @@
+<map id="Necroisle.MapViewer.IsInsideView" name="Necroisle.MapViewer.IsInsideView">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,225,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_viewer.html#ae9595bfbf04a029ccccbf38616cae564" title=" " alt="" coords="273,5,460,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,23,257,23,257,28,226,28"/>
+</map>

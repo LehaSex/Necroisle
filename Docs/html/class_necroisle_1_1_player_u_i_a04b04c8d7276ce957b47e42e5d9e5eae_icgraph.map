@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerUI.DoDamageFX" name="Necroisle.PlayerUI.DoDamageFX">
+<area shape="rect" id="Node000001" title=" " alt="" coords="215,5,427,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_u_i.html#a561a32f4e1f255d42b5206c14faf1f03" title=" " alt="" coords="5,5,167,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,21,167,21,167,15,199,15"/>
+</map>

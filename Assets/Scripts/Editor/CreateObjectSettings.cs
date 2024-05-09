@@ -12,12 +12,12 @@ namespace Necroisle.EditorTool
     {
 
         [Header("Save Folders")]
-        public string prefab_folder = "Prefabs";
-        public string prefab_equip_folder = "Prefabs/Equip";
-        public string items_folder = "Resources/Items";
-        public string constructions_folder = "Resources/Constructions";
-        public string plants_folder = "Resources/Plants";
-        public string characters_folder = "Resources/Characters";
+        public string prefab_folder = "Necroisle/Prefabs";
+        public string prefab_equip_folder = "Necroisle/Prefabs/Equip";
+        public string items_folder = "Necroisle/Resources/Items";
+        public string constructions_folder = "Necroisle/Resources/Constructions";
+        public string plants_folder = "Necroisle/Resources/Plants";
+        public string characters_folder = "Necroisle/Resources/Characters";
 
         [Header("Default Values")]
         public Material outline;
@@ -28,11 +28,9 @@ namespace Necroisle.EditorTool
         public AudioClip attack_audio;
         public AudioClip build_audio;
         public GameObject build_fx;
-        public Avatar player_avatar;
-        public RuntimeAnimatorController player_animator;
-/*         public SAction[] item_actions;
+        public SAction[] item_actions;
         public SAction equip_action;
-        public SAction eat_action; */
+        public SAction eat_action;
 
     }
 

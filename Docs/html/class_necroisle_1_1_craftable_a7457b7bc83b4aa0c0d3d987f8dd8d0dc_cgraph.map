@@ -1,0 +1,11 @@
+<map id="Necroisle.Craftable.GetAllObjectsOf" name="Necroisle.Craftable.GetAllObjectsOf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,176,125"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_character.html#a4be47a014d04ae084ec2fbdd712541d2" title=" " alt="" coords="224,5,413,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,82,223,41,247,33,249,38,225,46,133,87"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_construction.html#a63787164a77fc5010964510ea1790d61" title=" " alt="" coords="229,55,408,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,91,213,86,214,91,177,96"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_item.html#a60361b23be05e3805406aa7ce792c289" title=" " alt="" coords="239,120,398,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="177,113,224,118,224,124,176,118"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_plant.html#aea13b96c44560a5b8dae79f1a072c942" title=" " alt="" coords="237,169,400,195"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="141,123,225,154,251,162,249,167,223,159,139,128"/>
+</map>

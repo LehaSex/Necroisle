@@ -1,0 +1,5 @@
+<map id="Necroisle.Destructible.GetMaxHP" name="Necroisle.Destructible.GetMaxHP">
+<area shape="rect" id="Node000001" title=" " alt="" coords="228,5,403,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_repair.html#a43f9b7c2991bd7f7e53e34d9a923b57b" title=" " alt="" coords="5,5,180,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,28,180,28,180,23,213,23"/>
+</map>

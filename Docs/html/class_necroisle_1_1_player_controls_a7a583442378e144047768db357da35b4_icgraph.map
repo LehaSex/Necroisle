@@ -1,0 +1,9 @@
+<map id="Necroisle.PlayerControls.IsAnyGamePad" name="Necroisle.PlayerControls.IsAnyGamePad">
+<area shape="rect" id="Node000001" title=" " alt="" coords="248,69,417,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_selector.html#af1c3a402a94dc5d71aa6820e6beffab5" title=" " alt="" coords="18,5,187,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,67,176,48,178,43,245,62"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_action_selector_u_i.html#af3b93230c99d87e5ae4302b6e0d3f312" title=" " alt="" coords="20,69,185,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,92,186,92,186,87,233,87"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_menu_button.html#a48babaa61c2413be64c1d008283c8f90" title=" " alt="" coords="5,134,200,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,116,158,136,156,131,235,111"/>
+</map>

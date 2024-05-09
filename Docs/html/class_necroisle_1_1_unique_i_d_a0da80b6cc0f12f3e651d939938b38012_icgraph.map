@@ -1,0 +1,19 @@
+<map id="Necroisle.UniqueID.GenerateAll" name="Necroisle.UniqueID.GenerateAll">
+<area shape="rect" id="Node000001" title=" " alt="" coords="889,109,1093,134"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_biome_generator.html#af471b6f81d4937cfccd1d52831140491" title=" " alt="" coords="647,69,841,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="873,109,841,105,842,99,874,103"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_world_gen_1_1_biome_zone.html#a0b8a9458812c5c70a3a79e4e82202355" title=" " alt="" coords="655,133,833,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="874,139,834,144,833,139,873,134"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_biome_generator.html#a2febef376fcfd6bc8090c45023104f7e" title=" " alt="" coords="352,5,571,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="637,68,552,48,553,43,638,63"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_world_gen_1_1_editor_tool_1_1_biome_generator_editor.html#ae455ebb035bb5b2db8a351cb0e6cf25f" title=" " alt="" coords="324,69,599,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="631,92,599,92,599,87,631,87"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#a6bbaf82776a56c9c3f987d7c3bfde13b" title=" " alt="" coords="373,133,549,173"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="639,156,550,156,550,151,639,151"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_world_gen_1_1_editor_tool_1_1_biome_zone_editor.html#ad45a3b6b08ebf7721c4baa9f980d432f" title=" " alt="" coords="339,197,584,237"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="640,180,553,199,552,194,639,174"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#af504a772cb6a37bfdf023c41a715fe17" title=" " alt="" coords="31,101,250,141"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="357,146,250,135,250,130,358,140"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_world_gen_1_1_editor_tool_1_1_world_generator_editor.html#ad86ecd2f83bdb93e0fb872c6206dcdc6" title=" " alt="" coords="5,165,276,205"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="358,166,277,174,276,169,357,161"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Necroisle.PlayerData.IsWorldGenerated" name="Necroisle.PlayerData.IsWorldGenerated">
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,37,464,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_biome_generator.html#aee79a574a6bcf13b5038227ce2ac8f90" title=" " alt="" coords="5,5,224,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,46,224,42,225,37,257,41"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#a7ad1f6066a1f4c18f68f63e4c1492783" title=" " alt="" coords="5,69,224,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="257,74,225,78,224,73,256,69"/>
+</map>

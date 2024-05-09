@@ -1,0 +1,5 @@
+<map id="Necroisle.UISlot.IsVisible" name="Necroisle.UISlot.IsVisible">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,173,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_panel.html#a2fb62d7125179f7a4597b78d692e3655" title=" " alt="" coords="221,5,400,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,15,206,15,206,21,174,21"/>
+</map>

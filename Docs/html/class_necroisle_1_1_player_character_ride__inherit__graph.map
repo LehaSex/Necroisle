@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerCharacterRide" name="Necroisle.PlayerCharacterRide">
+<area shape="rect" id="Node000001" title="Script to allow player swimming Make sure the player character has a unique layer set to it (like Pla..." alt="" coords="5,119,196,284"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="49,5,152,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,85,103,119,98,119,98,85"/>
+</map>

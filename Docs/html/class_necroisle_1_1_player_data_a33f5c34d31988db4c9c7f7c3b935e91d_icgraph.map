@@ -1,5 +1,7 @@
 <map id="Necroisle.PlayerData.ShowObject" name="Necroisle.PlayerData.ShowObject">
-<area shape="rect" id="Node000001" title=" " alt="" coords="221,5,401,45"/>
-<area shape="rect" id="Node000002" href="$class_necroisle_1_1_unique_i_d.html#a20191dc0f51cb68d2625fcbb67d25485" title=" " alt="" coords="5,13,173,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,28,174,28,174,23,206,23"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="481,5,661,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_unique_i_d.html#a20191dc0f51cb68d2625fcbb67d25485" title=" " alt="" coords="265,13,433,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="466,28,434,28,434,23,466,23"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_hide_show_object.html#ae8bec5ca4efcd8d4693d62b7abc25cdc" title=" " alt="" coords="5,13,217,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,28,218,28,218,23,250,23"/>
 </map>

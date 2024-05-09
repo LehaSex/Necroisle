@@ -1,0 +1,11 @@
+<map id="Necroisle.MapCapture.ResetCamera" name="Necroisle.MapCapture.ResetCamera">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,193,87"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_capture.html#a3d52e281217f8428e5fd48f2bd88ca5a" title=" " alt="" coords="241,47,433,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,65,226,65,226,70,194,70"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_zone.html#ac00ecd8a708c6e463ba32079f99406e1" title=" " alt="" coords="487,5,683,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,46,502,32,503,37,434,51"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_zone.html#a4b31c15191737a1c9084c421eb2ba829" title=" " alt="" coords="481,55,688,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="434,65,466,65,466,70,434,70"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_map_zone.html#ac80e1ba8205a835ce4d752f187e00291" title=" " alt="" coords="493,104,677,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="434,84,503,98,502,103,433,89"/>
+</map>

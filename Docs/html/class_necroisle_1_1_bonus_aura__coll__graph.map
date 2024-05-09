@@ -1,0 +1,12 @@
+<map id="Necroisle.BonusAura" name="Necroisle.BonusAura">
+<area shape="rect" id="Node000001" title="When the character is near this, will gain bonus." alt="" coords="10,476,146,541"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,318,108,383"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,398,76,476,71,477,60,398"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_bonus_effect_data.html" title="Data file bonus effects (ongoing effect applied to the character when equipping an item or near a con..." alt="" coords="133,288,327,413"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,415,122,466,119,462,168,411"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="153,5,264,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="213,85,221,225,226,288,221,288,215,226,208,85"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_group_data.html" title="A group doesn&#39;t do anything by itself, but it serves to reference objects as a group instead of refer..." alt="" coords="231,120,365,225"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="240,82,266,119,261,122,236,84"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="281,226,262,274,257,272,276,224"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Necroisle.MapTool.GetClosestFogPoint" name="Necroisle.MapTool.GetClosestFogPoint">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,53,204,93"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_tool.html#a3e660fe9a267beae441a2e862d72a174" title=" " alt="" coords="276,23,475,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,59,260,53,261,58,205,65"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_map_zone.html#a23ddc3c1f7d659769ae3b06aec04fd0b" title=" " alt="" coords="252,88,499,113"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="205,80,237,84,236,89,204,86"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_settings_data.html#a46c45507ad6346eb1cafc65e432c22a5" title=" " alt="" coords="547,31,752,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="475,41,531,41,531,46,475,46"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_level_settings.html#ad653f8623d3826d9452c5cfd21c03871" title=" " alt="" coords="800,5,1007,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="752,30,784,27,785,32,753,36"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_map_manager.html#a256db9daf719656c4481c52f0781e4bd" title=" " alt="" coords="813,55,993,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="753,50,798,55,798,60,752,56"/>
+</map>

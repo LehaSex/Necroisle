@@ -1,4 +1,4 @@
-/* using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -153,7 +153,7 @@ namespace Necroisle
             return null;
         }
 
-        public AAction FindAutoAction(PlayerCharacter character, ItemSlot islot)
+        public AAction FindAutoAction(PlayerController character, ItemSlot islot)
         {
             foreach (SAction action in actions)
             {
@@ -243,4 +243,4 @@ namespace Necroisle
         public ItemData item;
         public int quantity;
     }
-} */
+}

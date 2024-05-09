@@ -1,0 +1,5 @@
+<map id="Necroisle.ItemSlot.GetItem" name="Necroisle.ItemSlot.GetItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,184,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_craft_data.html#ae0d03ab4f5acfb0bc9b202dd83b16aa5" title=" " alt="" coords="232,5,416,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,15,216,15,216,21,184,21"/>
+</map>

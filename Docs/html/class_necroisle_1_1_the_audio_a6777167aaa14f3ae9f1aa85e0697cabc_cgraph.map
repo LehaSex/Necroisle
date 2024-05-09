@@ -1,0 +1,7 @@
+<map id="Necroisle.TheAudio.Stop" name="Necroisle.TheAudio.Stop">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,171,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_the_audio.html#a5535ed30067b7f206130ef1b4f3b31f0" title=" " alt="" coords="219,13,419,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,23,203,23,203,28,171,28"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_the_audio.html#abd2140b1fbba4549d508e4d867151db8" title=" " alt="" coords="467,5,661,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,23,451,23,451,28,419,28"/>
+</map>

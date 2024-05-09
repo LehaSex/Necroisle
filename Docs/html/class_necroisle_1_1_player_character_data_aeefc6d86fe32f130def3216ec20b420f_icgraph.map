@@ -1,0 +1,7 @@
+<map id="Necroisle.PlayerCharacterData.ResetCraftCount" name="Necroisle.PlayerCharacterData.ResetCraftCount">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,37,400,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_craft.html#a59d076798cc1abde5a8a64c17ef6010e" title=" " alt="" coords="5,5,179,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,45,179,41,180,35,212,40"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_character_craft.html#ac21c2b761a7a2ba919110160e83a86d6" title=" " alt="" coords="5,69,179,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,75,180,79,179,74,211,69"/>
+</map>

@@ -30,7 +30,7 @@ Transform:
   m_Children:
   - {fileID: 6194832659681263505}
   m_Father: {fileID: 486594243745890053}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &181040273678039545
 GameObject:
@@ -94,7 +94,7 @@ Transform:
   m_Children:
   - {fileID: 3214076498630310086}
   m_Father: {fileID: 486594243745890053}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &627525111546327110
 GameObject:
@@ -303,6 +303,10 @@ GameObject:
   - component: {fileID: 2266742352544421836}
   - component: {fileID: 2266742352544421837}
   - component: {fileID: 2266742352544421835}
+  - component: {fileID: 3207864242073889808}
+  - component: {fileID: 8099998919857585190}
+  - component: {fileID: 1887478293749377093}
+  - component: {fileID: 1230791688001915245}
   m_Layer: 0
   m_Name: Player1
   m_TagString: Untagged
@@ -402,6 +406,12 @@ MonoBehaviour:
   fall_gravity: 40
   rotate_speed: 400
   fall_speed: 20
+  use_navmesh: 0
+  interact_type: 0
+  interact_range: 0
+  interact_offset: 0
+  action_ui: 0
+  PlayerChunk: {x: 0, y: 0}
 --- !u!114 &2266742352544421835
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -418,6 +428,86 @@ MonoBehaviour:
   move_side_x: MoveX
   move_side_z: MoveZ
   idle_anim: Idle
+  attack_anim: Attack
+  attack_speed: AttackSpeed
+  take_anim: Take
+  craft_anim: Craft
+  build_anim: Build
+  use_anim: Use
+  damaged_anim: Damaged
+  death_anim: Death
+  sleep_anim: Sleep
+  fish_anim: Fish
+  dig_anim: Dig
+  water_anim: Water
+  hoe_anim: Hoe
+  ride_anim: Ride
+  swim_anim: Swim
+  climb_anim: Climb
+--- !u!114 &3207864242073889808
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419900491384487324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65da414bee4b322409dbd8bf8ecb63cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attack_type: 0
+  hand_damage: 5
+  base_armor: 0
+  attack_range: 1.2
+  attack_cooldown: 1
+  attack_windup: 0.7
+  attack_windout: 0.4
+  attack_energy: 1
+  hit_fx: {fileID: 0}
+  death_fx: {fileID: 0}
+  hit_sound: {fileID: 0}
+  death_sound: {fileID: 0}
+--- !u!114 &8099998919857585190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419900491384487324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e4736699468a32141bd3bba31126a296, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  attributes: []
+--- !u!114 &1887478293749377093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419900491384487324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c35a9c5668c320a479e5be7ee9b7fd42, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inventory_size: 15
+  starting_items: []
+--- !u!114 &1230791688001915245
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1419900491384487324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 306f9d0ac91773743904f6c3116d43cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  craft_groups: []
 --- !u!1 &1642199652381016062
 GameObject:
   m_ObjectHideFlags: 0
@@ -1322,6 +1412,53 @@ Transform:
   m_Father: {fileID: 1901077907061510306}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4109403402230557700
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1496748130528298218}
+  - component: {fileID: 2654872660527477290}
+  m_Layer: 0
+  m_Name: HandR
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1496748130528298218
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4109403402230557700}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0.7071068, w: 0}
+  m_LocalPosition: {x: -0, y: 0.178, z: 0.0452}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 486594243745890053}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: -180, y: 90, z: 0}
+--- !u!114 &2654872660527477290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4109403402230557700}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfaeaf456e4894a4892ca7d0ccc23a67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slot: 10
+  side: 2
+  scale: 1
 --- !u!1 &4240903662821764556
 GameObject:
   m_ObjectHideFlags: 0
@@ -1350,6 +1487,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 1496748130528298218}
   - {fileID: 7948940782780745323}
   - {fileID: 3283753504510169894}
   - {fileID: 1150415931828619429}
@@ -1645,7 +1783,7 @@ Transform:
   m_Children:
   - {fileID: 7827010853241600080}
   m_Father: {fileID: 486594243745890053}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &6369604987503539441
 GameObject:
@@ -1802,7 +1940,7 @@ Transform:
   m_Children:
   - {fileID: 5149083909997207489}
   m_Father: {fileID: 486594243745890053}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7068790617425693427
 GameObject:
@@ -2153,7 +2291,7 @@ Transform:
   m_Children:
   - {fileID: 5239438086050766921}
   m_Father: {fileID: 486594243745890053}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &8403613090354824480
 GameObject:

@@ -1,0 +1,9 @@
+<map id="Necroisle.ActionPetStay.CanDoAction" name="Necroisle.ActionPetStay.CanDoAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,173,63"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_pet.html#ae55686fed8cfe67d83d5a7e121a32620" title=" " alt="" coords="221,5,387,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,31,205,27,206,32,174,36"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_pet.html#ac1e1d2584465799b0255b302ce5f9346" title=" " alt="" coords="229,55,379,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,50,213,55,213,60,174,55"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_controller.html#a26ca3e925bbd306909355b2b9865d3b8" title=" " alt="" coords="435,5,632,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,15,419,15,419,21,387,21"/>
+</map>

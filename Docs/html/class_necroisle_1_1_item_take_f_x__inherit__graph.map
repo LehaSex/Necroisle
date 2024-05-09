@@ -1,0 +1,5 @@
+<map id="Necroisle.ItemTakeFX" name="Necroisle.ItemTakeFX">
+<area shape="rect" id="Node000001" title="FX that show the item going to the inventory when picked." alt="" coords="5,119,145,224"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="24,5,127,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,85,78,119,73,119,73,85"/>
+</map>

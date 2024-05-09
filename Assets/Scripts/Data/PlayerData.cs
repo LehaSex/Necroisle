@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using System;
@@ -32,8 +32,8 @@ namespace Necroisle
         public float music_volume = 1f;
         public float sfx_volume = 1f;
 
-//        public Dictionary<int, PlayerCharacterData> player_characters = new Dictionary<int, PlayerCharacterData>();
-//        public Dictionary<string, InventoryData> inventories = new Dictionary<string, InventoryData>();
+        public Dictionary<int, PlayerCharacterData> player_characters = new Dictionary<int, PlayerCharacterData>();
+        public Dictionary<string, InventoryData> inventories = new Dictionary<string, InventoryData>();
 
         public Dictionary<string, int> unique_ids = new Dictionary<string, int>(); //Unique ints
         public Dictionary<string, float> unique_floats = new Dictionary<string, float>();
@@ -48,6 +48,7 @@ namespace Necroisle
         public Dictionary<string, SpawnedData> spawned_objects = new Dictionary<string, SpawnedData>(); //Objects spawned
         public Dictionary<string, SceneObjectData> scene_objects = new Dictionary<string, SceneObjectData>(); //Objects already in scene but moved
         public Dictionary<string, RegrowthData> world_regrowth = new Dictionary<string, RegrowthData>();
+        public Dictionary<string, MapSceneData> scenes_map_data = new Dictionary<string, MapSceneData>(); // Minimap
         
         //-------------------
 
@@ -78,10 +79,10 @@ namespace Necroisle
             if (unique_strings == null)
                 unique_strings = new Dictionary<string, string>();
 
-/*             if (player_characters == null)
+            if (player_characters == null)
                 player_characters = new Dictionary<int, PlayerCharacterData>();
             if (inventories == null)
-                inventories = new Dictionary<string, InventoryData>(); */
+                inventories = new Dictionary<string, InventoryData>();
 
             if (dropped_items == null)
                 dropped_items = new Dictionary<string, DroppedItemData>();
@@ -102,13 +103,37 @@ namespace Necroisle
                 scene_objects = new Dictionary<string, SceneObjectData>();
             if (world_regrowth == null)
                 world_regrowth = new Dictionary<string, RegrowthData>();
+            if (scenes_map_data == null)
+                scenes_map_data = new Dictionary<string, MapSceneData>();
 
-/*             foreach (KeyValuePair<int, PlayerCharacterData> character in player_characters)
+            foreach (KeyValuePair<int, PlayerCharacterData> character in player_characters)
                 character.Value.FixData();
 
-            foreach (KeyValuePair<string, InventoryData> inventory in inventories)
-                inventory.Value.FixData(); */
+            foreach (KeyValuePair<string, MapSceneData> pair in scenes_map_data)
+                pair.Value.FixData();
 
+            foreach (KeyValuePair<string, InventoryData> inventory in inventories)
+                inventory.Value.FixData();
+        }
+
+        //-------- Minimap ----------
+        public MapSceneData GetSceneData()
+        {
+            return GetSceneData(MapTool.GetCurrentScene());
+        }
+
+        public MapSceneData GetSceneData(string scene)
+        {
+            if (scenes_map_data.ContainsKey(scene))
+            {
+                return scenes_map_data[scene];
+            }
+            else
+            {
+                MapSceneData data = new MapSceneData();
+                scenes_map_data[scene] = data;
+                return data;
+            }
         }
 
         //-------- Dropped items --------
@@ -456,7 +481,7 @@ namespace Necroisle
 
         // ---- Multi-inventory Items -----
 
-/*         public void SwapInventoryItems(InventoryData inventory1, int slot1, InventoryData inventory2, int slot2) 
+        public void SwapInventoryItems(InventoryData inventory1, int slot1, InventoryData inventory2, int slot2) 
         {
             InventoryItemData invt_slot1 = inventory1.GetItem(slot1);
             InventoryItemData invt_slot2 = inventory2.GetItem(slot2);
@@ -475,9 +500,9 @@ namespace Necroisle
                 inventory1.items.Remove(slot1);
             if (invt_slot1 == null)
                 inventory2.items.Remove(slot2);
-        } */
+        }
 
-/*         public void CombineInventoryItems(InventoryData inventory1, int slot1, InventoryData inventory2, int slot2)
+        public void CombineInventoryItems(InventoryData inventory1, int slot1, InventoryData inventory2, int slot2)
         {
             InventoryItemData invt_slot1 = inventory1.GetItem(slot1);
             InventoryItemData invt_slot2 = inventory2.GetItem(slot2);
@@ -486,11 +511,11 @@ namespace Necroisle
                 inventory1.RemoveItemAt(slot1, invt_slot1.quantity);
                 inventory2.AddItemAt(invt_slot1.item_id, slot2, invt_slot1.quantity, invt_slot1.durability, invt_slot1.uid);
             }
-        } */
+        }
 
         // ---- Generic ------
 
-/*         public InventoryData GetInventory(InventoryType type, string inventory_uid)
+        public InventoryData GetInventory(InventoryType type, string inventory_uid)
         {
             InventoryData sdata = null;
             if (!string.IsNullOrEmpty(inventory_uid))
@@ -507,9 +532,9 @@ namespace Necroisle
                 }
             }
             return sdata;
-        } */
+        }
 
- /*        public InventoryData GetInventory(InventoryType type, int player_id)
+        public InventoryData GetInventory(InventoryType type, int player_id)
         {
             string uid = GetPlayerUID(player_id);
             return GetInventory(type, uid);
@@ -555,7 +580,7 @@ namespace Necroisle
                 player_characters[player_id] = cdata;
             }
             return cdata;
-        } */
+        }
 
         public string GetPlayerUID(int player_id)
         {
@@ -580,6 +605,13 @@ namespace Necroisle
         public float GetTotalTime()
         {
             return (day - 1) * 24f + day_time;
+        }
+
+        public void SetDayTime(float time)
+        {
+            day_time = Mathf.Clamp(time, 0f, 24f);
+            day = Mathf.FloorToInt(day_time / 24f) + 1;
+            day_time = day_time % 24f;
         }
 
         //--- Save / load -----
@@ -774,6 +806,29 @@ namespace Necroisle
         public float scale;
         public float time; //Time left before regrowth
         public float probability; //Probability to spawn after time expire
+    }
+
+    [System.Serializable]
+    public class MapSceneData
+    {
+        public Dictionary<FogId, float> fog_reveal = new Dictionary<FogId, float>();
+
+        public void Reveal(FogId pos, float radius)
+        {
+            if (!fog_reveal.ContainsKey(pos) || fog_reveal[pos] < radius)
+                fog_reveal[pos] = radius;
+        }
+
+        public bool IsRevealed(FogId pos)
+        {
+            return fog_reveal.ContainsKey(pos);
+        }
+
+        public void FixData()
+        {
+            if (fog_reveal == null)
+                fog_reveal = new Dictionary<FogId, float>();
+        }
     }
 
     public enum TimeType

@@ -1,0 +1,7 @@
+<map id="Necroisle.WorldGen.BiomeGenerator.GenerateBiomeObjects" name="Necroisle.WorldGen.BiomeGenerator.GenerateBiomeObjects">
+<area shape="rect" id="Node000001" title=" " alt="" coords="328,37,547,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_biome_generator.html#a2febef376fcfd6bc8090c45023104f7e" title=" " alt="" coords="33,5,252,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="312,46,252,40,253,35,313,41"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_editor_tool_1_1_biome_generator_editor.html#ae455ebb035bb5b2db8a351cb0e6cf25f" title=" " alt="" coords="5,69,280,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="313,73,281,77,280,72,312,68"/>
+</map>

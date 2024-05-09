@@ -1,0 +1,9 @@
+<map id="Necroisle.PlayerData.GetDroppedItem" name="Necroisle.PlayerData.GetDroppedItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,63,396,103"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_inventory.html#af3d880552f2751a978dc699877da40be" title=" " alt="" coords="5,5,179,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,61,170,48,172,43,218,56"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item.html#a768b5c0b60eba1a3fc2bb652f14c3daa" title=" " alt="" coords="15,70,169,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,85,170,85,170,80,211,80"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_item.html#adc89a90025eee9af688eb1b9fd02e1d9" title=" " alt="" coords="18,119,166,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="212,108,152,121,151,116,211,103"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Necroisle.Destructible.GiveXPLoot" name="Necroisle.Destructible.GiveXPLoot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,184,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_attribute.html#ae2e3802f5e6f492adc8d8ce3f889a003" title=" " alt="" coords="233,5,407,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,42,217,37,218,42,185,47"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_controller.html#a66ca3e6ee69f0139114dfe63e53ed551" title=" " alt="" coords="232,69,408,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,67,217,72,216,77,184,73"/>
+</map>

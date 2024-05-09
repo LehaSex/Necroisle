@@ -1,0 +1,5 @@
+<map id="Necroisle.ItemSlotPanel.GetInventoryUID" name="Necroisle.ItemSlotPanel.GetInventoryUID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="279,5,444,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_slot.html#abb13923a2c5c9d1595a88ad64b77571e" title=" " alt="" coords="5,13,231,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="263,28,231,28,231,23,263,23"/>
+</map>

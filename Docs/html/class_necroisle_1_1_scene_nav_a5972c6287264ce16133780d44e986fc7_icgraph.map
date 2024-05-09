@@ -1,0 +1,9 @@
+<map id="Necroisle.SceneNav.GoTo" name="Necroisle.SceneNav.GoTo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="261,55,435,80"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_the_game.html#a86422a0817113ecf0df32022fcdcc93c" title=" " alt="" coords="5,5,213,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="268,54,174,34,175,29,269,48"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_the_game.html#ad3c43cb50ffc373ce0565a7eb4b8f70f" title=" " alt="" coords="25,55,193,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,70,194,70,194,65,246,65"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_the_game.html#a4a09c61cefff6a9e6f5dfaf76129af6a" title=" " alt="" coords="9,104,209,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="269,86,175,106,174,101,268,81"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Necroisle.MapReveal" name="Necroisle.MapReveal">
+<area shape="rect" id="Node000001" title="Attach to any object to make the object reveal fog." alt="" coords="5,119,140,284"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="21,5,124,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,85,75,119,70,119,70,85"/>
+</map>

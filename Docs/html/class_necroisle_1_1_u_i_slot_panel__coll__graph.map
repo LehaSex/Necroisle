@@ -1,0 +1,15 @@
+<map id="Necroisle.UISlotPanel" name="Necroisle.UISlotPanel">
+<area shape="rect" id="Node000001" title="Basic class for any panel containing slots that can be selected." alt="" coords="5,2051,145,2676"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_panel.html" title="Generic script for any UI panel, can be inherited." alt="" coords="106,120,218,445"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,421,83,495,51,702,30,913,18,1126,14,1335,16,1537,23,1726,45,2051,39,2051,18,1726,11,1537,9,1335,13,1126,25,913,46,701,78,494,98,420"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_u_i_slot_panel.html" title="Basic class for any panel containing slots that can be selected." alt="" coords="92,495,232,1120"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="165,460,165,495,159,495,159,460"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="164,5,267,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,86,200,121,195,120,203,85"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_u_i_slot.html" title="Basic class for any type of slot (item, other)" alt="" coords="116,1183,251,1988"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="227,85,233,120,242,225,246,307,247,495,256,808,256,944,247,1120,242,1183,237,1183,242,1120,250,944,251,808,242,495,240,307,237,225,227,120,222,86"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="130,1988,124,2034,118,2033,125,1988"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="253,1505,262,1515,270,1532,276,1555,277,1585,274,1625,265,1652,260,1650,269,1624,272,1585,270,1556,265,1533,258,1518,249,1509"/>
+<area shape="poly" id="edge8_Node000005_Node000004" title=" " alt="" coords="170,1183,168,1137,174,1137,175,1183"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="124,1120,122,1144,121,1166,116,1166,117,1144,118,1119"/>
+</map>

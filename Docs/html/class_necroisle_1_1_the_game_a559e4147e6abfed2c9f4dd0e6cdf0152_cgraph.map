@@ -1,0 +1,14 @@
+<map id="Necroisle.TheGame.Save" name="Necroisle.TheGame.Save">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,127,173,152"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_data.html#a3a1b590972f900f8d1e6813ef3f48f8b" title=" " alt="" coords="239,5,409,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,124,152,83,185,60,220,41,239,33,241,38,222,46,188,65,156,87,106,128"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_controller.html#a66ca3e6ee69f0139114dfe63e53ed551" title=" " alt="" coords="236,55,412,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,124,233,97,234,102,139,129"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_scene_nav.html#a35c3e3a890ec681ba6ac7aaa09685fb6" title=" " alt="" coords="221,119,427,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,137,206,137,206,142,174,142"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_save_system.html#a74414b969301712fd42b451b9dae5149" title=" " alt="" coords="226,183,422,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="139,150,234,176,233,181,138,155"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_data.html#a9309316f53d0255c17e0fb58a8c8f0ca" title=" " alt="" coords="236,272,412,297"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="108,150,158,189,223,233,279,263,277,267,220,238,155,193,105,155"/>
+<area shape="poly" id="edge6_Node000006_Node000006" title=" " alt="" coords="285,273,277,263,282,253,298,247,324,245,353,248,367,255,365,260,351,253,324,251,299,253,286,257,283,263,289,270"/>
+</map>

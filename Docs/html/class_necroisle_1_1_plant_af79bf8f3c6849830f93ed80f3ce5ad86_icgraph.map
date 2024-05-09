@@ -1,0 +1,5 @@
+<map id="Necroisle.Plant.Harvest" name="Necroisle.Plant.Harvest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,13,375,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_harvest.html#af0db00f0d5236590b5bdbe93c01ab5ea" title=" " alt="" coords="5,5,169,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,28,170,28,170,23,201,23"/>
+</map>

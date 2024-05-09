@@ -1,0 +1,17 @@
+<map id="Necroisle.WorldGen.BiomeZone.ClearTerrain" name="Necroisle.WorldGen.BiomeZone.ClearTerrain">
+<area shape="rect" id="Node000001" title=" " alt="" coords="844,69,1023,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#af316732343f4a6f7c95a9add1198a411" title=" " alt="" coords="619,5,795,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="844,67,779,48,781,43,846,62"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_world_gen_1_1_biome_zone.html#a05340951a27524c85fb3b2b32563c715" title=" " alt="" coords="617,69,796,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="828,92,797,92,797,87,828,87"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_world_gen_1_1_editor_tool_1_1_biome_zone_editor.html#ad45a3b6b08ebf7721c4baa9f980d432f" title=" " alt="" coords="324,127,569,167"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="839,116,796,124,680,138,570,145,570,140,680,132,796,119,838,111"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_editor_tool_1_1_world_generator_editor.html#ad86ecd2f83bdb93e0fb872c6206dcdc6" title=" " alt="" coords="5,5,276,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="604,28,277,28,277,23,604,23"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#a274da232a51a4b4dc783f30ea214fd16" title=" " alt="" coords="351,63,542,103"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="602,89,542,88,543,82,602,84"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="603,115,541,129,540,123,602,110"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="336,65,251,49,252,43,337,59"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#af504a772cb6a37bfdf023c41a715fe17" title=" " alt="" coords="31,69,250,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="336,88,251,90,251,84,336,82"/>
+</map>

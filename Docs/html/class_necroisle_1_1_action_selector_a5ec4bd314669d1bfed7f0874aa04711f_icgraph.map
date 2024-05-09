@@ -1,0 +1,10 @@
+<map id="Necroisle.ActionSelector.Show" name="Necroisle.ActionSelector.Show">
+<area shape="rect" id="Node000001" title=" " alt="" coords="669,29,871,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="811,17,797,10,770,8,745,10,732,15,729,20,736,27,732,31,724,21,728,11,744,5,770,3,798,5,813,12"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_selectable.html#aac37d3619eb1b9fa457ce218c7fed63a" title=" " alt="" coords="453,29,621,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="654,45,622,45,622,39,654,39"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_controller.html#a82a29009c4d800866c700722466947ed" title=" " alt="" coords="229,22,405,62"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="438,45,406,45,406,39,438,39"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_controller.html#a007f6eb9aeb35a9df0d770c4326a4cce" title=" " alt="" coords="5,22,181,62"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="214,45,182,45,182,39,214,39"/>
+</map>

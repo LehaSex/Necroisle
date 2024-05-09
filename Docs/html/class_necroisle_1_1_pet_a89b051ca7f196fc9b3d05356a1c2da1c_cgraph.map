@@ -1,0 +1,7 @@
+<map id="Necroisle.Pet.MoveToTarget" name="Necroisle.Pet.MoveToTarget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,189,56"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_pet.html#a7cdb19938265e627043ef49055777f38" title=" " alt="" coords="240,5,419,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,31,224,27,225,32,190,36"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_character.html#a87ba9610f245335ea56b6c890a22baa6" title=" " alt="" coords="237,55,421,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,50,222,54,222,59,190,56"/>
+</map>

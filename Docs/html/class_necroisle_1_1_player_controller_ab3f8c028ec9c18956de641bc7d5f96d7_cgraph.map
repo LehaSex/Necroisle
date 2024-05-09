@@ -1,0 +1,9 @@
+<map id="Necroisle.PlayerController.FaceFront" name="Necroisle.PlayerController.FaceFront">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,181,103"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_controller.html#a10dfcdd490bce604b4cc5bdc48dd4fde" title=" " alt="" coords="244,5,420,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,60,231,47,232,52,180,65"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_camera_controller.html#a88e028239b1b810c6ee5a3d33347bd10" title=" " alt="" coords="229,70,435,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,80,214,80,214,85,182,85"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_camera_controller.html#a545b2efac628b53843d72eae47355ce0" title=" " alt="" coords="240,120,424,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="180,101,232,113,231,118,179,106"/>
+</map>

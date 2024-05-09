@@ -1,5 +1,5 @@
 <map id="Necroisle.UniqueID" name="Necroisle.UniqueID">
-<area shape="rect" id="Node000001" title="Helps to generate unique ids for each individual instance of objects in the scene." alt="" coords="5,119,152,444"/>
+<area shape="rect" id="Node000001" title="Уникальный айдишник для уникального инстанса предмета" alt="" coords="5,119,152,444"/>
 <area shape="rect" id="Node000002" title=" " alt="" coords="27,5,130,71"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,85,81,119,76,119,76,85"/>
 </map>

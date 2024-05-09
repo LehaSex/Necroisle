@@ -1,0 +1,8 @@
+<map id="Necroisle.MapViewer.SetMapPosition" name="Necroisle.MapViewer.SetMapPosition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,199,69"/>
+<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="52,30,49,20,57,10,75,5,102,3,131,5,148,11,146,16,130,10,102,8,76,10,60,15,55,21,57,28"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_zone.html#a802f071ff674c4e7e2e95157d8bf8153" title=" " alt="" coords="291,11,449,37"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,38,275,30,275,36,199,43"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_zone.html#a23ddc3c1f7d659769ae3b06aec04fd0b" title=" " alt="" coords="247,61,493,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,55,231,58,231,64,199,61"/>
+</map>

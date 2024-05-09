@@ -1,4 +1,23 @@
 var searchData=
 [
-  ['x_0',['x',['../struct_necroisle_1_1_vector3_data.html#ab8c44a831a559f6a5d2be912a059cdf7',1,'Necroisle.Vector3Data.x'],['../struct_necroisle_1_1_quaternion_data.html#ae4c8bf144cbdae4bc5ceab7f67ee74a7',1,'Necroisle.QuaternionData.x'],['../struct_necroisle_1_1_x_y.html#a7ef1ff48ebca744fb0ec1da80e0b2f79',1,'Necroisle.XY.x']]]
+  ['ui_5fcancel_0',['ui_cancel',['../class_necroisle_1_1_player_controls.html#a410e439f778e1e0272d3303c626e379a',1,'Necroisle::PlayerControls']]],
+  ['ui_5fcanvas_1',['ui_canvas',['../class_necroisle_1_1_asset_data.html#a25fd67acdb353bc330e1c79ce8583b6a',1,'Necroisle::AssetData']]],
+  ['ui_5fcanvas_5fmobile_2',['ui_canvas_mobile',['../class_necroisle_1_1_asset_data.html#ac9928a2c92bc7e0c8afb40cafcfd51f0',1,'Necroisle::AssetData']]],
+  ['ui_5fmaterial_3',['ui_material',['../class_necroisle_1_1_the_u_i.html#a033d57316bc6121ef777687be5090df3',1,'Necroisle::TheUI']]],
+  ['ui_5fselect_4',['ui_select',['../class_necroisle_1_1_player_controls.html#a099a7f3a87e92f4e5d4735f26f3fef93',1,'Necroisle::PlayerControls']]],
+  ['ui_5fsound_5',['ui_sound',['../class_necroisle_1_1_the_u_i.html#a140a4f0bb79cd0c5e3cb685f5194b174',1,'Necroisle::TheUI']]],
+  ['ui_5fuse_6',['ui_use',['../class_necroisle_1_1_player_controls.html#a73354a23ec33f6c4ff4a25c74dd66545',1,'Necroisle::PlayerControls']]],
+  ['uid_7',['uid',['../class_necroisle_1_1_inventory_item_data.html#a123015f4c8aa057017ed133d678e8216',1,'Necroisle.InventoryItemData.uid'],['../class_necroisle_1_1_inventory_data.html#a31ce0d35abe1488887cf4552ac267060',1,'Necroisle.InventoryData.uid'],['../class_necroisle_1_1_player_pet_data.html#aeaf1aef158ac4137746d1fecc3d63b36',1,'Necroisle.PlayerPetData.uid'],['../class_necroisle_1_1_dropped_item_data.html#a8f7862717333ef76cc729ef85f206293',1,'Necroisle.DroppedItemData.uid'],['../class_necroisle_1_1_built_construction_data.html#a722990eab5b131226c66157e9453a151',1,'Necroisle.BuiltConstructionData.uid'],['../class_necroisle_1_1_sowed_plant_data.html#acc5517ae447f9a3aa4da71d5dc1a741f',1,'Necroisle.SowedPlantData.uid'],['../class_necroisle_1_1_trained_character_data.html#a086986600b3255a8a1d87a30297e399d',1,'Necroisle.TrainedCharacterData.uid'],['../class_necroisle_1_1_spawned_data.html#a6603d17409b70aba404025d4effc4daa',1,'Necroisle.SpawnedData.uid'],['../class_necroisle_1_1_scene_object_data.html#a69d6803da230e8fcf055536fc1e245e2',1,'Necroisle.SceneObjectData.uid'],['../class_necroisle_1_1_regrowth_data.html#a60f3aa17c33810a3c3a97a7a108a11e3',1,'Necroisle.RegrowthData.uid']]],
+  ['uid_5fprefix_8',['uid_prefix',['../class_necroisle_1_1_unique_i_d.html#a90190054dd1b3d052bf17963d35cbbfe',1,'Necroisle::UniqueID']]],
+  ['unfocus_5fwhen_5fout_9',['unfocus_when_out',['../class_necroisle_1_1_u_i_slot_panel.html#a72c811ce9aae91c3b3d5e6e23a026ef6',1,'Necroisle::UISlotPanel']]],
+  ['unique_5ffloats_10',['unique_floats',['../class_necroisle_1_1_player_data.html#af0a07f9cd471b9cfb7b453a5c049db26',1,'Necroisle::PlayerData']]],
+  ['unique_5fid_11',['unique_id',['../class_necroisle_1_1_unique_i_d.html#aff268e7af564d5f7a0b09cce4db9fa0b',1,'Necroisle.UniqueID.unique_id'],['../class_necroisle_1_1_buildable.html#af8e09a5e3d19254af0cd9247441c106f',1,'Necroisle.Buildable.unique_id']]],
+  ['unique_5fids_12',['unique_ids',['../class_necroisle_1_1_player_data.html#af900c3527983f6183dcb683911168807',1,'Necroisle::PlayerData']]],
+  ['unique_5fstrings_13',['unique_strings',['../class_necroisle_1_1_player_data.html#a1cd416c28d819a80e9940b0d10757c42',1,'Necroisle::PlayerData']]],
+  ['unlock_5fbonuses_14',['unlock_bonuses',['../class_necroisle_1_1_level_data.html#a3d66db3b9e08359aa2f115ebdc74a0c7',1,'Necroisle::LevelData']]],
+  ['unlock_5fcraft_15',['unlock_craft',['../class_necroisle_1_1_level_data.html#a6fe83cb6d0439f5d7cd13db7163e3f41',1,'Necroisle::LevelData']]],
+  ['unlocked_5fids_16',['unlocked_ids',['../class_necroisle_1_1_player_character_data.html#a4c937bec85692148980a7a215b2dbe42',1,'Necroisle::PlayerCharacterData']]],
+  ['use_5fanim_17',['use_anim',['../class_necroisle_1_1_player_animation_controller.html#a3a28c37303eaa23ff8b2efdc057b9335',1,'Necroisle::PlayerAnimationController']]],
+  ['use_5fnavmesh_18',['use_navmesh',['../class_necroisle_1_1_animal_ride.html#a89eda53c816828db177130e1343ce370',1,'Necroisle.AnimalRide.use_navmesh'],['../class_necroisle_1_1_character.html#a334c7d29b77c112ba6a68cdc63a81466',1,'Necroisle.Character.use_navmesh'],['../class_necroisle_1_1_player_controller.html#a876d2521cd0c1d280037e9862436ea6e',1,'Necroisle.PlayerController.use_navmesh']]],
+  ['use_5frange_19',['use_range',['../class_necroisle_1_1_selectable.html#a9d7b42f720105c4dbfb92aae486398ab',1,'Necroisle::Selectable']]]
 ];

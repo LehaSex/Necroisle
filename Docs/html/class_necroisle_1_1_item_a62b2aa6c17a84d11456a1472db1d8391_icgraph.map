@@ -1,0 +1,5 @@
+<map id="Necroisle.Item.TakeItem" name="Necroisle.Item.TakeItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,13,389,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_inventory.html#af3d880552f2751a978dc699877da40be" title=" " alt="" coords="5,5,179,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,28,179,28,179,23,211,23"/>
+</map>

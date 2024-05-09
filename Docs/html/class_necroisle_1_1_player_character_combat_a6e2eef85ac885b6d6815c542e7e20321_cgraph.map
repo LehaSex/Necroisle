@@ -1,0 +1,12 @@
+<map id="Necroisle.PlayerCharacterCombat.GetArmor" name="Necroisle.PlayerCharacterCombat.GetArmor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,179,63"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_data.html#ace6ab6611cc54017e60f3985708ba674" title=" " alt="" coords="761,5,919,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,38,746,18,746,24,179,43"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_character_attribute.html#adc1aa06b2fe24bbc7047f0af01dcc640" title=" " alt="" coords="227,51,421,91"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,51,211,55,210,60,178,56"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_character_attribute.html#a2ae91eb6cc9b6a9f9d50746d8445f431" title=" " alt="" coords="469,51,700,91"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="422,69,454,69,454,74,422,74"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="683,48,760,32,761,37,684,53"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_bonus_aura.html#a114b0e22915728eb7cebccb3dc59593c" title=" " alt="" coords="748,59,932,84"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="701,69,732,69,732,74,701,74"/>
+</map>

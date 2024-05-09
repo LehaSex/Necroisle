@@ -1,0 +1,17 @@
+<map id="Necroisle.WorldGen.Vertex" name="Necroisle.WorldGen.Vertex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,559,194,704"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_half_edge.html" title=" " alt="" coords="144,5,331,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,64,117,76,91,92,67,111,48,135,24,184,12,236,8,291,12,346,21,400,35,452,68,542,63,544,30,453,16,401,7,346,3,291,6,235,19,182,43,132,63,107,88,87,115,71,143,59"/>
+<area shape="poly" id="edge9_Node000002_Node000002" title=" " alt="" coords="331,24,349,29,357,38,349,47,345,43,352,38,347,33,330,30"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_vertex.html" title=" " alt="" coords="58,133,230,279"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="164,72,142,96,134,118,129,116,138,93,160,69"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_world_gen_1_1_triangle.html" title=" " alt="" coords="208,371,387,496"/>
+<area shape="poly" id="edge6_Node000004_Node000002" title=" " alt="" coords="290,68,321,97,345,132,355,160,360,189,360,248,350,305,334,356,329,354,345,303,355,247,355,189,350,161,340,135,317,100,286,72"/>
+<area shape="poly" id="edge11_Node000001_Node000003" title=" " alt="" coords="135,279,123,371,113,542,107,542,117,370,129,278"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="191,132,206,108,217,85,222,87,210,111,196,135"/>
+<area shape="poly" id="edge7_Node000003_Node000003" title=" " alt="" coords="231,185,249,192,257,206,254,214,248,220,244,217,250,212,251,206,246,196,229,190"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="155,278,166,313,182,345,198,364,194,368,178,348,161,315,150,279"/>
+<area shape="poly" id="edge10_Node000001_Node000004" title=" " alt="" coords="240,498,191,548,187,545,236,494"/>
+<area shape="poly" id="edge8_Node000002_Node000004" title=" " alt="" coords="364,369,398,326,424,278,438,237,445,204,442,171,424,135,409,115,390,98,345,71,348,67,393,93,413,111,429,132,447,170,450,204,443,239,429,280,403,329,368,372"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="253,372,200,294,204,291,258,369"/>
+</map>

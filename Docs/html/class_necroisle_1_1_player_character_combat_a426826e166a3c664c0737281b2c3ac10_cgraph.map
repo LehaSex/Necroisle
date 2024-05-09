@@ -1,0 +1,7 @@
+<map id="Necroisle.PlayerCharacterCombat.CancelAttack" name="Necroisle.PlayerCharacterCombat.CancelAttack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,179,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_controller.html#a482aa4974e237f4f1ae5870294224bc9" title=" " alt="" coords="227,5,403,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,42,211,38,211,43,179,48"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_controller.html#a93d6515ce943ec318b08fe041ac22608" title=" " alt="" coords="227,69,403,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,67,211,72,211,77,179,72"/>
+</map>

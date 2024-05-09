@@ -1,0 +1,17 @@
+<map id="Necroisle.PausePanel" name="Necroisle.PausePanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,2725,159,3011"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot_panel.html" title="Basic class for any panel containing slots that can be selected." alt="" coords="12,2051,152,2676"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,2691,85,2725,79,2725,79,2691"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_u_i_panel.html" title="Generic script for any UI panel, can be inherited." alt="" coords="113,120,225,445"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,421,90,495,58,702,37,913,25,1126,21,1335,23,1537,30,1726,51,2051,46,2051,24,1726,17,1537,15,1335,19,1126,31,913,53,701,85,494,105,420"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_u_i_slot_panel.html" title="Basic class for any panel containing slots that can be selected." alt="" coords="99,495,239,1120"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="171,460,171,495,166,495,166,460"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="171,5,273,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="215,86,207,121,202,120,209,85"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_u_i_slot.html" title="Basic class for any type of slot (item, other)" alt="" coords="123,1183,257,1988"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="234,85,239,120,249,225,252,307,254,495,263,808,262,944,254,1120,249,1183,244,1183,249,1120,257,944,258,808,249,495,247,307,244,225,234,120,229,86"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="137,1988,130,2034,125,2033,131,1988"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="259,1505,269,1515,277,1532,282,1555,284,1585,281,1625,271,1652,266,1650,275,1624,279,1585,277,1556,272,1533,265,1518,255,1509"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="176,1183,175,1137,180,1137,182,1183"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="130,1120,129,1144,128,1166,122,1166,123,1144,125,1119"/>
+</map>

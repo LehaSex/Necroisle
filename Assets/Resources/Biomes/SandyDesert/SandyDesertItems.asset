@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38d63eba896e0f144b66d0da66265db1, type: 3}
+  m_Name: SandyDesertItems
+  m_EditorClassIdentifier: 
+  density: 10
+  variance: 2
+  random_rotation: 0
+  random_scale: 0
+  spawns:
+  - prefab: {fileID: 7263079616015196025, guid: de4e93e236b13fe45ad1f21f484c4329, type: 3}
+    probability: 4

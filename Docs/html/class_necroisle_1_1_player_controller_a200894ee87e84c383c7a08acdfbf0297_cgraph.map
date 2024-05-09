@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerController.CalculateNavmesh" name="Necroisle.PlayerController.CalculateNavmesh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,181,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_nav_mesh_tool.html#afa1469f7d9dcdfc4f468f377cc9c9a42" title=" " alt="" coords="229,13,472,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,23,214,23,214,28,182,28"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="Necroisle.Furnace.GetUID" name="Necroisle.Furnace.GetUID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="731,80,904,105"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_furnace.html#a5999eec6e48be92d3f0e5b3a66c73f05" title=" " alt="" coords="461,104,682,129"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="715,105,683,108,682,103,715,100"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_furnace.html#a5941615c846eae8d85526e651265efb7" title=" " alt="" coords="472,153,671,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="771,114,683,145,641,155,640,150,682,139,769,109"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_furnace.html#a328007a195704a8f17fddf2db6a4b830" title=" " alt="" coords="460,5,683,31"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="770,76,682,45,640,34,642,29,683,39,772,71"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_furnace.html#a29acb729d00cfd5f0436624bcfa03770" title=" " alt="" coords="469,55,674,80"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="715,85,674,81,675,75,715,80"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_furnace.html#ae1150a06392a59694bf5f075ed3858bf" title=" " alt="" coords="221,55,412,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="487,103,385,83,386,78,488,98"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_furnace.html#ad23d308fee8b3e2139e6efe393032136" title=" " alt="" coords="229,104,405,129"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="445,119,405,119,405,114,445,114"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_action_furnace.html#acc2210a78c8a124113922833413452bc" title=" " alt="" coords="5,97,173,137"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="213,119,174,119,174,114,213,114"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="469,150,459,144,443,132,434,118,425,106,411,94,387,83,390,78,413,89,429,102,438,115,447,128,461,140,472,145"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="487,152,385,133,386,127,488,147"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="488,37,386,57,385,51,487,32"/>
+<area shape="poly" id="edge10_Node000007_Node000004" title=" " alt="" coords="472,39,461,44,447,56,438,68,429,81,413,94,386,106,384,101,411,89,425,77,434,65,443,52,459,40,469,34"/>
+<area shape="poly" id="edge12_Node000008_Node000003" title=" " alt="" coords="453,70,412,70,412,65,453,65"/>
+<area shape="poly" id="edge13_Node000008_Node000004" title=" " alt="" coords="488,86,386,106,385,101,487,81"/>
+</map>

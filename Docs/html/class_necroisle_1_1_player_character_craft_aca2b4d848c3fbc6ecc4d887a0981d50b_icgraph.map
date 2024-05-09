@@ -1,0 +1,13 @@
+<map id="Necroisle.PlayerCharacterCraft.IsBuildMode" name="Necroisle.PlayerCharacterCraft.IsBuildMode">
+<area shape="rect" id="Node000001" title=" " alt="" coords="487,91,660,131"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_u_i.html#a0e23ee2856ccd7eff4fb22cf5b98cdd7" title=" " alt="" coords="235,41,439,66"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="473,89,392,69,393,64,474,84"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_craft_panel.html#ab3277d34d0060311e9fba414e62771e6" title=" " alt="" coords="243,91,431,131"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="471,113,431,113,431,108,471,108"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_craft_sub_panel.html#a9a049420f6698ffd3f67f3df1292108e" title=" " alt="" coords="253,155,420,195"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="483,138,414,157,412,152,481,133"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_controls_mouse.html#ab7303f24d198bb2aa9bf8a485cfdafe5" title=" " alt="" coords="5,5,187,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,42,187,39,188,33,219,37"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_u_i.html#adc08a4eacbc289cc28e5c43f7d9c6b6b" title=" " alt="" coords="9,70,183,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="219,70,184,75,184,69,219,65"/>
+</map>

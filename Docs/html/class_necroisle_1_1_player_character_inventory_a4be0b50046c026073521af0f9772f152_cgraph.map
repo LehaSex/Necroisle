@@ -1,0 +1,7 @@
+<map id="Necroisle.PlayerCharacterInventory.GetEquippedItemMesh" name="Necroisle.PlayerCharacterInventory.GetEquippedItemMesh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,215,67"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_data.html#ace6ab6611cc54017e60f3985708ba674" title=" " alt="" coords="265,5,423,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,32,249,27,250,32,215,37"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_inventory_data.html#a42a75e678539de02afa6fa271d97200c" title=" " alt="" coords="263,55,425,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,57,247,61,247,66,215,63"/>
+</map>

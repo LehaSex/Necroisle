@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fa7018b319149f4eb8d049f8996db61, type: 3}
+  m_Name: SummerForest
+  m_EditorClassIdentifier: 
+  id: forest
+  probability: 3
+  starting_zone: 1
+  floor_material: {fileID: 2100000, guid: c4e148e93fe3b3e40b3d587152c0d60e, type: 2}
+  elevation: 0
+  is_water: 0
+  spawns:
+  - {fileID: 11400000, guid: 9ac80837c78eecd46af77a4988a5d1fd, type: 2}
+  - {fileID: 11400000, guid: 569da796109a4a34c8632a9735ac894e, type: 2}
+  - {fileID: 11400000, guid: 15a792c29854057468bc0c897dc0be0c, type: 2}
+  - {fileID: 11400000, guid: e3b1f169ad69fed4abf19a07ba565ed4, type: 2}

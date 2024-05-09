@@ -1,0 +1,17 @@
+<map id="Necroisle.TheUI.Get" name="Necroisle.TheUI.Get">
+<area shape="rect" id="Node000001" title=" " alt="" coords="484,141,623,166"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot.html#a47930c4cc9a649677b6de66a9f13b980" title=" " alt="" coords="249,5,435,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="527,131,485,95,435,60,411,48,413,43,437,55,489,91,530,127"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_controller.html#aeb2dba4a782bd9a40a9fd6f168efbbc8" title=" " alt="" coords="254,69,430,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="493,138,410,112,411,107,495,133"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_controls_mouse.html#ab7303f24d198bb2aa9bf8a485cfdafe5" title=" " alt="" coords="251,133,433,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="469,156,433,156,433,151,469,151"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_craft_panel.html#ab3277d34d0060311e9fba414e62771e6" title=" " alt="" coords="248,197,436,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="495,174,411,199,410,194,493,169"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_item_slot.html#a8dda6004ed860968e9317f3b1443122b" title=" " alt="" coords="251,262,433,287"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="531,179,490,216,437,252,407,264,405,259,435,247,487,212,528,175"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_equip_panel.html#aa3ab16b66dfd3681ab5ffe85125b6945" title=" " alt="" coords="5,223,200,263"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="236,263,200,258,201,253,236,258"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_item_slot_panel.html#abc912dc019f51eb644f3e0e283ef6deb" title=" " alt="" coords="20,287,185,327"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="236,292,186,298,186,293,235,286"/>
+</map>

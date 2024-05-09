@@ -1,0 +1,5 @@
+<map id="Necroisle.WorldGen.BlendOnCorner" name="Necroisle.WorldGen.BlendOnCorner">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,119,172,239"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="37,5,140,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,86,91,119,86,119,86,86"/>
+</map>

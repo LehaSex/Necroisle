@@ -1,0 +1,7 @@
+<map id="Necroisle.MapCapture.SaveToPNG" name="Necroisle.MapCapture.SaveToPNG">
+<area shape="rect" id="Node000001" title=" " alt="" coords="497,5,680,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_capture.html#a0988b8a9815015503399dbee21df1b6a" title=" " alt="" coords="251,5,449,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="481,28,450,28,450,23,481,23"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_editor_tool_1_1_map_capture_editor.html#afa042239e076fa3d76b398b5b9ab3762" title=" " alt="" coords="5,5,203,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="235,28,203,28,203,23,235,23"/>
+</map>

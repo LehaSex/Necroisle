@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -19,7 +20,7 @@ namespace Necroisle
     public class CameraController : MonoBehaviour
     {
         [Header("Move/Zoom")]
-        public bool move_enabled = true; //Uncheck if you want to use your own camera system
+        public bool move_enabled = true; //Unchecked to disable camera movement
         public float move_speed = 10f;
         public float rotate_speed = 90f;
         public float zoom_speed = 0.5f;
@@ -41,6 +42,10 @@ namespace Necroisle
         public GameObject follow_target;
         public Vector3 follow_offset;
 
+        [Header("Object Culling Between Camera and Player")]
+        [Range(-1.0f, 1.0f)]
+        public float transparency = -0.6f;
+
         private Vector3 current_vel;
         private Vector3 rotated_offset;
         private Vector3 current_offset;
@@ -57,6 +62,7 @@ namespace Necroisle
         private float shake_intensity = 1f;
 
         private static CameraController _instance;
+        private Dictionary<Renderer, float> originalTransparencies = new Dictionary<Renderer, float>();
 
         void Awake()
         {
@@ -87,12 +93,17 @@ namespace Necroisle
                 return;
 
             PlayerControls controls = PlayerControls.GetFirst();
+            PlayerControlsMouse mouse = PlayerControlsMouse.Get();
 
             //Rotate
             current_rotate = 0f;
             current_rotate += controls.GetRotateCam() * rotate_speed;
             if (inverted_rotate)
                 current_rotate = -current_rotate; //Reverse rotate
+            current_rotate += mouse.GetTouchRotate() * rotate_speed_touch;
+            //Zoom 
+            current_zoom += mouse.GetTouchZoom() * zoom_speed_touch; //Mobile 2 finger zoom
+            current_zoom += mouse.GetMouseScroll() * zoom_speed; //Mouse scroll zoom
             current_zoom = Mathf.Clamp(current_zoom, -zoom_out_max, zoom_in_max);
 
             if (freelook_mode == FreelookMode.Always)
@@ -107,8 +118,8 @@ namespace Necroisle
                 UpdateCamera();
 
             //Untoggle if on top of UI
-/*             if (is_locked && TheUI.Get() && TheUI.Get().IsBlockingPanelOpened())
-                ToggleLock(); */
+            if (is_locked && TheUI.Get() && TheUI.Get().IsBlockingPanelOpened())
+                ToggleLock();
 
             //Shake FX
             if (shake_timer > 0f)
@@ -117,6 +128,9 @@ namespace Necroisle
                 shake_vector = new Vector3(Mathf.Cos(shake_timer * Mathf.PI * 8f) * 0.02f, Mathf.Sin(shake_timer * Mathf.PI * 7f) * 0.02f, 0f);
                 transform.position += shake_vector * shake_intensity;
             }
+
+            // transparency between player and camera
+            AdjustTransparency(transparency);
         }
 
         private void UpdateCamera()
@@ -180,6 +194,58 @@ namespace Necroisle
                 transform.position = target_transform.position;
             }
         }
+
+        public void AdjustTransparency(float transparencyValue)
+        {
+            if (follow_target == null)
+            {
+                Debug.LogWarning("Follow target is not set. Unable to adjust transparency.");
+                return;
+            }
+
+            RaycastHit[] hits;
+            Vector3 playerPosition = follow_target.transform.position + Vector3.up;
+            Vector3 cameraPosition = transform.position;
+            Vector3 direction = (cameraPosition - playerPosition).normalized;
+            float distance = Vector3.Distance(playerPosition, cameraPosition);
+
+            // Сохраняем прозрачность объектов, на которые уже воздействовали
+            foreach (KeyValuePair<Renderer, float> entry in originalTransparencies)
+            {
+                entry.Key.material.SetFloat("_Tweak_transparency", entry.Value);
+            }
+            originalTransparencies.Clear();
+
+            hits = Physics.RaycastAll(playerPosition, direction, distance);
+
+            foreach (RaycastHit hit in hits)
+            {
+                Renderer renderer = hit.collider.GetComponent<Renderer>();
+                    // Проверяем, существует ли свойство _Tweak_transparency в материале
+                    if (renderer != null && renderer.material.HasProperty("_Tweak_transparency"))
+                    {
+                        // Сохраняем исходную прозрачность объекта
+                        if (!originalTransparencies.ContainsKey(renderer))
+                        {
+                            originalTransparencies.Add(renderer, renderer.material.GetFloat("_Tweak_transparency"));
+                        }
+
+                        // Предполагается, что параметр _Tweak_transparency управляет прозрачностью материала объекта
+                        renderer.material.SetFloat("_Tweak_transparency", transparencyValue);
+                    }
+            }
+
+            // Возвращаем прозрачность объектов, которые больше не между игроком и камерой
+            foreach (KeyValuePair<Renderer, float> entry in originalTransparencies)
+            {
+                if (!Array.Exists(hits, hit => hit.collider.GetComponent<Renderer>() == entry.Key))
+                {
+                    entry.Key.material.SetFloat("_Tweak_transparency", 0f);
+                    originalTransparencies.Remove(entry.Key);
+                }
+            }
+        }
+
 
         public void SetLockMode(bool locked)
         {

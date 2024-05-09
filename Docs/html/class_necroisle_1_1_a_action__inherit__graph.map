@@ -1,0 +1,19 @@
+<map id="Necroisle.AAction" name="Necroisle.AAction">
+<area shape="rect" id="Node000001" title="Automatic Action parent class: Any action performed automatically when the object is clicked on If yo..." alt="" coords="471,332,595,477"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_action_cut_plant.html" title="Cut a plant and return it to growth stage 0, and gain items (cut grass)" alt="" coords="5,525,164,611"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="457,432,326,474,178,528,165,533,163,528,176,523,324,469,456,427"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_action_destroy.html" title="Just destroy the destructible." alt="" coords="189,525,343,611"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="459,453,336,528,333,523,457,449"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_action_dig_auto.html" title="Dig using the shovel, put this on a Selectable to auto dig on left click." alt="" coords="367,525,522,611"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="489,492,469,527,465,524,484,489"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_action_harvest.html" title="Harvest the fruit of a plant." alt="" coords="546,525,698,611"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="582,489,601,524,597,527,577,492"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_action_storage.html" title="Use to allow storing item inside a construction (chest) Careful! This action will not work without a ..." alt="" coords="722,525,877,611"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="609,449,732,523,729,528,606,453"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_action_water_plant.html" title="Use to Water plant with the watering can." alt="" coords="901,525,1076,611"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="609,427,741,470,890,523,902,528,901,533,888,528,739,475,608,432"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_s_action.html" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="477,119,588,284"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="535,299,535,332,530,332,530,299"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="477,5,588,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="535,85,535,119,530,119,530,85"/>
+</map>

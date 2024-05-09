@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerControls.IsPressMenuAccept" name="Necroisle.PlayerControls.IsPressMenuAccept">
+<area shape="rect" id="Node000001" title=" " alt="" coords="248,5,417,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_menu_button.html#a48babaa61c2413be64c1d008283c8f90" title=" " alt="" coords="5,13,200,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,28,200,28,200,23,233,23"/>
+</map>

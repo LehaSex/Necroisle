@@ -1,0 +1,17 @@
+<map id="Necroisle.ItemData.HasDurability" name="Necroisle.ItemData.HasDurability">
+<area shape="rect" id="Node000001" title=" " alt="" coords="469,109,683,134"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_inventory.html#a2233183ff3d029872c47e04cde7f17d5" title=" " alt="" coords="248,5,421,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="529,104,420,60,391,48,393,43,422,55,531,100"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_slot_panel.html#ad45cd05c42ddc7427e91f03c4c7b709c" title=" " alt="" coords="252,69,417,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="460,109,417,103,418,98,461,103"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_item_slot_panel.html#a7475edde8ee92aafb790905e7b4ad5e0" title=" " alt="" coords="252,133,417,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="461,139,418,145,417,140,460,134"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_inventory_data.html#a49dd37038d45ec10e6edc6ce54d64c37" title=" " alt="" coords="253,197,416,237"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="531,143,422,188,393,199,391,194,420,183,529,138"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_equip_panel.html#aa3ab16b66dfd3681ab5ffe85125b6945" title=" " alt="" coords="5,69,200,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="237,92,201,92,201,87,237,87"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_item_slot_panel.html#abc912dc019f51eb644f3e0e283ef6deb" title=" " alt="" coords="20,133,185,173"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="246,117,178,135,177,130,244,111"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="244,131,177,112,178,107,246,126"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="237,156,186,156,186,151,237,151"/>
+</map>

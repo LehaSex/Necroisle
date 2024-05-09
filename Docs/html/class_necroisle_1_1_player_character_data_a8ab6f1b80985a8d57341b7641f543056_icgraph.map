@@ -1,0 +1,7 @@
+<map id="Necroisle.PlayerCharacterData.UnlockID" name="Necroisle.PlayerCharacterData.UnlockID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="448,5,621,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_craft.html#aaf4df59874d6e9bb7696790ab834e49c" title=" " alt="" coords="227,5,400,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="433,28,401,28,401,23,433,23"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_character_attribute.html#a79a7b64fad44c39b43c9a1e2dac2f762" title=" " alt="" coords="5,5,179,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,28,179,28,179,23,211,23"/>
+</map>

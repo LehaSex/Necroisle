@@ -1,0 +1,7 @@
+<map id="Necroisle.TooltipPanel" name="Necroisle.TooltipPanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,492,148,917"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_panel.html" title="Generic script for any UI panel, can be inherited." alt="" coords="21,119,133,444"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,459,79,492,74,492,74,459"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="25,5,128,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,85,79,119,74,119,74,85"/>
+</map>

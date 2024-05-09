@@ -1,4 +1,4 @@
-/* using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -10,7 +10,7 @@ namespace Necroisle
 
     [RequireComponent(typeof(Selectable))]
     [RequireComponent(typeof(UniqueID))]
-    public abstract class Craftable : SObject
+    public abstract class Craftable : NObject
     {
         private Selectable cselect;
 
@@ -179,4 +179,3 @@ namespace Necroisle
     }
 
 }
- */

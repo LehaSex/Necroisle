@@ -1,0 +1,13 @@
+<map id="Necroisle.ItemData.IsMeleeWeapon" name="Necroisle.ItemData.IsMeleeWeapon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="503,101,684,141"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_combat.html#a14c725de07cb66fd6f1d4749ff7b9438" title=" " alt="" coords="260,101,455,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="487,124,455,124,455,119,487,119"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_character_combat.html#a1c15f34f6e708fd822b2e160d3353dd2" title=" " alt="" coords="19,5,198,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="298,97,211,60,179,48,180,43,213,55,301,92"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_character_combat.html#a810ece9c8dd059ef81fde852be75b356" title=" " alt="" coords="22,69,195,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="244,109,196,103,196,98,245,104"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_character_combat.html#ab11b385fdd29bbbdecc6529046a285b6" title=" " alt="" coords="5,133,212,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="245,138,213,143,212,137,244,133"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_character_combat.html#a127b7dce305c8f76ebac78f149afcd8a" title=" " alt="" coords="22,197,195,237"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="301,151,213,188,180,199,179,194,211,183,298,146"/>
+</map>

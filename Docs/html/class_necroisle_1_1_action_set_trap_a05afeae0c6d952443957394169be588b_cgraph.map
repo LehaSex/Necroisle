@@ -1,0 +1,5 @@
+<map id="Necroisle.ActionSetTrap.DoAction" name="Necroisle.ActionSetTrap.DoAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,172,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_trap.html#ab42c19f84172d61c01d4915a827dbb5a" title=" " alt="" coords="220,13,375,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,23,204,23,204,28,173,28"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Necroisle.Ladder.IsSideBlocked" name="Necroisle.Ladder.IsSideBlocked">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,212,60"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_ladder.html#a75847e604e22fa122d8199b572aeda5b" title=" " alt="" coords="260,5,471,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,33,244,29,245,34,213,38"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_ladder.html#ad9dce4fc3480ffec667a5ed98b53b3d6" title=" " alt="" coords="284,55,447,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,56,269,62,268,67,212,61"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Necroisle.MapLevelSettings" name="Necroisle.MapLevelSettings">
+<area shape="rect" id="Node000001" title="Contains map settings for a specific scene." alt="" coords="20,368,195,453"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,180,108,245"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,259,99,368,94,369,66,260"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_settings_data.html" title=" " alt="" coords="132,120,304,305"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,306,142,354,137,352,164,303"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="163,5,273,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="221,85,221,120,215,120,215,85"/>
+</map>

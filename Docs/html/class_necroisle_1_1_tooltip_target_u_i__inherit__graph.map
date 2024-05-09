@@ -1,0 +1,9 @@
+<map id="Necroisle.TooltipTargetUI" name="Necroisle.TooltipTargetUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,119,279,404"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,108,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,82,122,136,118,139,83,85"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="133,5,266,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,86,202,119,197,119,197,86"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="290,5,415,71"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="325,84,281,148,276,145,320,81"/>
+</map>

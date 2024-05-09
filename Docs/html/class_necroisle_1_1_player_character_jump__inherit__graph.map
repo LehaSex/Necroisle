@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerCharacterJump" name="Necroisle.PlayerCharacterJump">
+<area shape="rect" id="Node000001" title="Script to allow player jumping." alt="" coords="5,119,201,264"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="52,5,155,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,86,106,119,101,119,101,86"/>
+</map>

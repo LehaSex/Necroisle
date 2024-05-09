@@ -132,85 +132,638 @@ $(document).ready(function(){initNavTree('namespace_necroisle.html',''); initRes
 Namespaces</h2></td></tr>
 <tr class="memitem:namespace_necroisle_1_1_editor_tool" id="r_namespace_necroisle_1_1_editor_tool"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle_1_1_editor_tool.html">EditorTool</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:namespace_necroisle_1_1_world_gen" id="r_namespace_necroisle_1_1_world_gen"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle_1_1_world_gen.html">WorldGen</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="nested-classes" name="nested-classes"></a>
 Classes</h2></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_a_action.html">AAction</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Automatic Action parent class: Any action performed automatically when the object is clicked on If you put more than 1, first AAction in the list that can be performed will be selected.  <a href="class_necroisle_1_1_a_action.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_add_fuel.html">ActionAddFuel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add fuel to a fire (wood, grass, etc)  <a href="class_necroisle_1_1_action_add_fuel.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_attack.html">ActionAttack</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Action to attack a destructible (if the destructible cant be attack automatically)  <a href="class_necroisle_1_1_action_attack.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_build.html">ActionBuild</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Build an item into a construction (trap, lure)  <a href="class_necroisle_1_1_action_build.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_cook.html">ActionCook</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Cook an item on the fire (like raw meat)  <a href="class_necroisle_1_1_action_cook.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_cut.html">ActionCut</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Cut an item with another item (ex: open coconut with axe)  <a href="class_necroisle_1_1_action_cut.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_cut_plant.html">ActionCutPlant</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Cut a plant and return it to growth stage 0, and gain items (cut grass)  <a href="class_necroisle_1_1_action_cut_plant.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_destroy.html">ActionDestroy</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Just destroy the destructible.  <a href="class_necroisle_1_1_action_destroy.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_dig.html">ActionDig</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Dig using the shovel, to remove plants or to dig burried things.  <a href="class_necroisle_1_1_action_dig.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_dig_auto.html">ActionDigAuto</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Dig using the shovel, put this on a Selectable to auto dig on left click.  <a href="class_necroisle_1_1_action_dig_auto.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_drink_pond.html">ActionDrinkPond</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Drink directly from a water source.  <a href="class_necroisle_1_1_action_drink_pond.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_drop.html">ActionDrop</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Drop an item.  <a href="class_necroisle_1_1_action_drop.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_eat.html">ActionEat</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Eat an item.  <a href="class_necroisle_1_1_action_eat.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_equip.html">ActionEquip</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to equip/unequip equipment items.  <a href="class_necroisle_1_1_action_equip.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_fill.html">ActionFill</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Fill a jug with water (or other)  <a href="class_necroisle_1_1_action_fill.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_fill_provider.html">ActionFillProvider</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Fill a jug with item from item provider.  <a href="class_necroisle_1_1_action_fill_provider.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_fish.html">ActionFish</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use your fishing rod to fish a fish!  <a href="class_necroisle_1_1_action_fish.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_furnace.html">ActionFurnace</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Melt an item in the furnace.  <a href="class_necroisle_1_1_action_furnace.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_harvest.html">ActionHarvest</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Harvest the fruit of a plant.  <a href="class_necroisle_1_1_action_harvest.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_learn.html">ActionLearn</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Learn a crafting recipe.  <a href="class_necroisle_1_1_action_learn.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_open.html">ActionOpen</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Open a package with more items inside (like a gift, box)  <a href="class_necroisle_1_1_action_open.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_pet_follow.html">ActionPetFollow</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to order a pet to follow (follow the player, and attack)  <a href="class_necroisle_1_1_action_pet_follow.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_pet_stay.html">ActionPetStay</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to order a pet to stay (stop moving)  <a href="class_necroisle_1_1_action_pet_stay.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_pet_tame.html">ActionPetTame</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to tame a pet, tamed pet will follow the player that tamed them.  <a href="class_necroisle_1_1_action_pet_tame.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_plant.html">ActionPlant</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sow a seed in the ground.  <a href="class_necroisle_1_1_action_plant.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_progress.html">ActionProgress</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_read.html">ActionRead</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Read a note on an item.  <a href="class_necroisle_1_1_action_read.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_read_image.html">ActionReadImage</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Read a note on an item.  <a href="class_necroisle_1_1_action_read_image.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_repair.html">ActionRepair</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Action to repair a building/items with a repair kit.  <a href="class_necroisle_1_1_action_repair.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_ride.html">ActionRide</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Action to attack a destructible (if the destructible cant be attack automatically)  <a href="class_necroisle_1_1_action_ride.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_selector.html">ActionSelector</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">ActionSelector is the panel that popup and allow you to pick an action to do when you click on a selectable.  <a href="class_necroisle_1_1_action_selector.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_selector_button.html">ActionSelectorButton</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">One of the buttons on the ActionSelector.  <a href="class_necroisle_1_1_action_selector_button.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_selector_u_i.html">ActionSelectorUI</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">ActionSelectorUI is similar to ActionSelector, but for items in the player's inventory in the UI Canvas.  <a href="class_necroisle_1_1_action_selector_u_i.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_set_trap.html">ActionSetTrap</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">ReActivate a trap that was previously triggered.  <a href="class_necroisle_1_1_action_set_trap.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_sleep.html">ActionSleep</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sleeeep!  <a href="class_necroisle_1_1_action_sleep.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_split.html">ActionSplit</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Split item stack into 2 stacks.  <a href="class_necroisle_1_1_action_split.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_storage.html">ActionStorage</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to allow storing item inside a construction (chest) Careful! This action will not work without a UniqueID set on the selectable.  <a href="class_necroisle_1_1_action_storage.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_take.html">ActionTake</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to take a construction that has an item variant (lure/trap)  <a href="class_necroisle_1_1_action_take.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_action_water_plant.html">ActionWaterPlant</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Use to Water plant with the watering can.  <a href="class_necroisle_1_1_action_water_plant.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_animal.html">Animal</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">THIS SCRIPT is not in use, was moved to <a class="el" href="_animal_wild_8cs.html">AnimalWild.cs</a>, file was not deleted to make updating version easier Will be deleted in future versions.  <a href="class_necroisle_1_1_animal.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_animal_anim.html">AnimalAnim</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">THIS SCRIPT is not in use, was moved to <a class="el" href="_animal_wild_8cs.html">AnimalWild.cs</a>, file was not deleted to make updating version easier Will be deleted in future versions.  <a href="class_necroisle_1_1_animal_anim.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_animal_ride.html">AnimalRide</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Allow you to ride the animal.  <a href="class_necroisle_1_1_animal_ride.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_animal_wild.html">AnimalWild</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Animal behavior script for wandering, escaping, or chasing the player.  <a href="class_necroisle_1_1_animal_wild.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_asset_data.html">AssetData</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generic asset data (only one file)  <a href="class_necroisle_1_1_asset_data.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_attribute_bar.html">AttributeBar</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Just a bar showing one of the attributes.  <a href="class_necroisle_1_1_attribute_bar.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_attribute_data.html">AttributeData</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attribute data (health, hunger, thirst, etc)  <a href="class_necroisle_1_1_attribute_data.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_bag_panel.html">BagPanel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Main UI panel for storages boxes (chest)  <a href="class_necroisle_1_1_bag_panel.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_bird.html">Bird</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_black_panel.html">BlackPanel</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_bonus_aura.html">BonusAura</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">When the character is near this, will gain bonus.  <a href="class_necroisle_1_1_bonus_aura.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_bonus_effect_data.html">BonusEffectData</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Data file bonus effects (ongoing effect applied to the character when equipping an item or near a construction)  <a href="class_necroisle_1_1_bonus_effect_data.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_buildable.html">Buildable</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Buildable is the base script for objects that can be placed on the map and have a build mode (transparent version of model that follow mouse)  <a href="class_necroisle_1_1_buildable.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_built_construction_data.html">BuiltConstructionData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_camera_controller.html">CameraController</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Main camera script.  <a href="class_necroisle_1_1_camera_controller.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_camera_f_x.html">CameraFX</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_category_slot.html">CategorySlot</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A button slot for one of the crafting categories.  <a href="class_necroisle_1_1_category_slot.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_character.html">Character</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Characters are allies or npc that can be given orders to move or perform actions.  <a href="class_necroisle_1_1_character.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_character_data.html">CharacterData</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Data file for characters.  <a href="class_necroisle_1_1_character_data.html#details">More...</a><br /></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Data file for Characters.  <a href="class_necroisle_1_1_character_data.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_chest_anim.html">ChestAnim</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Animation open/close for the chest.  <a href="class_necroisle_1_1_chest_anim.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_construction.html">Construction</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Constructions are objects that can be placed on the map by the player (by crafting or with items)  <a href="class_necroisle_1_1_construction.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_construction_data.html">ConstructionData</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Data file for Constructions.  <a href="class_necroisle_1_1_construction_data.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_countable_function_attribute.html">CountableFunctionAttribute</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_craftable.html">Craftable</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Base class for Items, Constructions, Characters, Plants.  <a href="class_necroisle_1_1_craftable.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_craft_cost_data.html">CraftCostData</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Crafting cost.  <a href="class_necroisle_1_1_craft_cost_data.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_craft_data.html">CraftData</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Crafting cost.  <a href="class_necroisle_1_1_craft_data.html#details">More...</a><br /></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Parent data class for craftable items (items, constructions, plants)  <a href="class_necroisle_1_1_craft_data.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_craft_info_panel.html">CraftInfoPanel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Panel that contain the detailed information of a single crafting item.  <a href="class_necroisle_1_1_craft_info_panel.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_craft_panel.html">CraftPanel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">The top level crafting bar that contains all the crafting categories.  <a href="class_necroisle_1_1_craft_panel.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_craft_station.html">CraftStation</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add this script to a contruction to turn it into a craft station.  <a href="class_necroisle_1_1_craft_station.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_craft_sub_panel.html">CraftSubPanel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Second level crafting bar, that contains the items under a category.  <a href="class_necroisle_1_1_craft_sub_panel.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_destructible.html">Destructible</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Destructibles are objects that can be destroyed.  <a href="class_necroisle_1_1_destructible.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_dialogue_quests_wrap.html">DialogueQuestsWrap</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Wrapper class for integrating DialogueQuests.  <a href="class_necroisle_1_1_dialogue_quests_wrap.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_dig_spot.html">DigSpot</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Spot that can be digged with a shovel, will gain loots from the destructible.  <a href="class_necroisle_1_1_dig_spot.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_dropped_item_data.html">DroppedItemData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_equip_attach.html">EquipAttach</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A location on a character to attach equipment (like hand, head, feet, ...)  <a href="class_necroisle_1_1_equip_attach.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_equip_item.html">EquipItem</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">An item that will appear on the player to display equipped item.  <a href="class_necroisle_1_1_equip_item.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_equip_panel.html">EquipPanel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Shows currently equipped items.  <a href="class_necroisle_1_1_equip_panel.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_equip_slot_u_i.html">EquipSlotUI</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Allow to set the EquipSlot for the EquipPanel.  <a href="class_necroisle_1_1_equip_slot_u_i.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_exit_zone.html">ExitZone</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Zone to change scene when you enter this zone, make sure there is also a trigger collider.  <a href="class_necroisle_1_1_exit_zone.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_firepit.html">Firepit</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Firepits can be fueled with wood or other materials.  <a href="class_necroisle_1_1_firepit.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_necroisle_1_1_fog_id.html">FogId</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">FogId represent the position of a fog point, it has a x,y position and a zone_id.  <a href="struct_necroisle_1_1_fog_id.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_fog_renderer.html">FogRenderer</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_f_p_s.html">FPS</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">FPS Counter.  <a href="class_necroisle_1_1_f_p_s.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_frame_rate.html">FrameRate</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_function_counter.html">FunctionCounter</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_furnace.html">Furnace</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_game_data.html">GameData</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generic game data (only one file)  <a href="class_necroisle_1_1_game_data.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_game_manager.html">GameManager</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_game_over_panel.html">GameOverPanel</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_game_singleton.html">GameSingleton</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_grass_circle.html">GrassCircle</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generates a grass mesh in a circle shape.  <a href="class_necroisle_1_1_grass_circle.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_grass_mesh.html">GrassMesh</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generates a grass mesh in a square shape.  <a href="class_necroisle_1_1_grass_mesh.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_group_data.html">GroupData</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A group doesn't do anything by itself, but it serves to reference objects as a group instead of referencing them one by one.  <a href="class_necroisle_1_1_group_data.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_heat_source.html">HeatSource</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add this script to an object that emits heat (like fire) or an object that emits cold (ice)  <a href="class_necroisle_1_1_heat_source.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_hide_show_object.html">HideShowObject</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Hide / Show object that has a UID.  <a href="class_necroisle_1_1_hide_show_object.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_h_p_bar.html">HPBar</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_id_data.html">IdData</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">IdData adds an ID to the class.  <a href="class_necroisle_1_1_id_data.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_in_control_wrap.html">InControlWrap</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Wrapper class for integrating InControl To make controls work make sure to turn on gamepad_controls on the PlayerControls script.  <a href="class_necroisle_1_1_in_control_wrap.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_init_start_game.html">InitStartGame</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_injection.html">Injection</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_inventory_data.html">InventoryData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_inventory_item_data.html">InventoryItemData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_inventory_panel.html">InventoryPanel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Main Inventory bar that list all items in your inventory.  <a href="class_necroisle_1_1_inventory_panel.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_item.html">Item</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Items are objects that can be picked, dropped and held into the player's inventory.  <a href="class_necroisle_1_1_item.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_item_anim_f_x.html">ItemAnimFX</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Animation on an equipped item that will appear when character doing a specific animation.  <a href="class_necroisle_1_1_item_anim_f_x.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_item_data.html">ItemData</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Data file for Items.  <a href="class_necroisle_1_1_item_data.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_necroisle_1_1_item_data_value.html">ItemDataValue</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_item_drag_f_x.html">ItemDragFX</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">FX that shows an item following the mouse when dragging.  <a href="class_necroisle_1_1_item_drag_f_x.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_item_merge_f_x.html">ItemMergeFX</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">FX that shows possible merge actions on mobile.  <a href="class_necroisle_1_1_item_merge_f_x.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_item_provider.html">ItemProvider</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generates items over time, that can be picked by the player.  <a href="class_necroisle_1_1_item_provider.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_item_selected_f_x.html">ItemSelectedFX</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">FX that shows an item following the mouse when selected.  <a href="class_necroisle_1_1_item_selected_f_x.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_item_slot.html">ItemSlot</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Item slot that shows a single item, in your inventory or equipped bar.  <a href="class_necroisle_1_1_item_slot.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_item_slot_panel.html">ItemSlotPanel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generic parent UI panel that manages multiple item slots (Inventory/Equip/Storage, etc)  <a href="class_necroisle_1_1_item_slot_panel.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_item_take_f_x.html">ItemTakeFX</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">FX that show the item going to the inventory when picked.  <a href="class_necroisle_1_1_item_take_f_x.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_joystick_mobile.html">JoystickMobile</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Display the mobile joystick.  <a href="class_necroisle_1_1_joystick_mobile.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_key_controls_u_i.html">KeyControlsUI</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Allow keyboard/gamepad to control the UI.  <a href="class_necroisle_1_1_key_controls_u_i.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_ladder.html">Ladder</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_level_data.html">LevelData</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Type of level that can be increased (hunting, mining, etc).  <a href="class_necroisle_1_1_level_data.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_level_unlock_bonus.html">LevelUnlockBonus</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_loading_screen_manager.html">LoadingScreenManager</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_loot_data.html">LootData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_l_u_a_loader.html">LUALoader</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_l_u_a_object.html">LUAObject</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_lure.html">Lure</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A lure that will attract nearby animals.  <a href="class_necroisle_1_1_lure.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_m_action.html">MAction</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Merge Action parent class: Any action that happens when mixing two items (ex: coconut and axe), or one item with a selectable (ex: raw food on top of fire)  <a href="class_necroisle_1_1_m_action.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_main_menu_manager.html">MainMenuManager</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Manages the main menu UI.  <a href="class_necroisle_1_1_main_menu_manager.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_capture.html">MapCapture</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class to auto generate the map from your scene and creating a PNG image, EDITOR only.  <a href="class_necroisle_1_1_map_capture.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_center.html">MapCenter</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attach to any object to have the map position centered on that object (for example, attach to your camera to have the minimap scrolling move to the position of the camera)  <a href="class_necroisle_1_1_map_center.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_chunk.html">MapChunk</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Self Organizing Kohonen Map Chunk.  <a href="class_necroisle_1_1_map_chunk.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_controls.html">MapControls</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Keyboard controls manager.  <a href="class_necroisle_1_1_map_controls.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_data.html">MapData</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Map data that is saved.  <a href="class_necroisle_1_1_map_data.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_generator.html">MapGenerator</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_icon.html">MapIcon</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Show icon on the map.  <a href="class_necroisle_1_1_map_icon.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_level_settings.html">MapLevelSettings</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Contains map settings for a specific scene.  <a href="class_necroisle_1_1_map_level_settings.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_manager.html">MapManager</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class to manage the map UI in game.  <a href="class_necroisle_1_1_map_manager.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_renderer.html">MapRenderer</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Renders the map.  <a href="class_necroisle_1_1_map_renderer.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_reveal.html">MapReveal</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attach to any object to make the object reveal fog.  <a href="class_necroisle_1_1_map_reveal.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_scene_data.html">MapSceneData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_settings_data.html">MapSettingsData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_terrain.html">MapTerrain</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generates map.  <a href="class_necroisle_1_1_map_terrain.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_tool.html">MapTool</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_u_i.html">MapUI</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">UI that displays the map.  <a href="class_necroisle_1_1_map_u_i.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_viewer.html">MapViewer</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Renders the map.  <a href="class_necroisle_1_1_map_viewer.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_map_zone.html">MapZone</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Map zone should always be defined in the XZ plane.  <a href="class_necroisle_1_1_map_zone.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_material_tool.html">MaterialTool</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This works for STANDARD shaders only, change the Material Render Mode If you are using another shader, you should maybe add another function that does the same for your shader.  <a href="class_necroisle_1_1_material_tool.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_menu_button.html">MenuButton</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generic Menu button script (for handling with keyboard/gamepad)  <a href="class_necroisle_1_1_menu_button.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_minimap.html">Minimap</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_mixing_panel.html">MixingPanel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Main UI panel for storages boxes (chest)  <a href="class_necroisle_1_1_mixing_panel.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_mixing_pot.html">MixingPot</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_mod_injector.html">ModInjector</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_nav_mesh_tool.html">NavMeshTool</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_nav_mesh_tool_path.html">NavMeshToolPath</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This is a wrapper class to use the NavMesh system functions simply It was supposed to be using a separate thread, but since Unity don't support NavMesh.CalculatePath on another thread, the 2nd thread is disabled for now.  <a href="class_necroisle_1_1_nav_mesh_tool_path.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_necroisle_map_wrap.html">NecroisleMapWrap</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Wrapper class for Map Minimap.  <a href="class_necroisle_1_1_necroisle_map_wrap.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_n_object.html">NObject</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Base class for either Craftables or Spawnables, has generic static useful functions.  <a href="class_necroisle_1_1_n_object.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_old_map_terrain.html">OldMapTerrain</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generates map.  <a href="class_necroisle_1_1_old_map_terrain.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_pause_panel.html">PausePanel</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_pet.html">Pet</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pet behavior script for following player, attacking enemies, and digging.  <a href="class_necroisle_1_1_pet.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_physics_tool.html">PhysicsTool</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generic physics functions.  <a href="class_necroisle_1_1_physics_tool.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_phys_tool.html">PhysTool</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generic physics functions.  <a href="class_necroisle_1_1_phys_tool.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_plant.html">Plant</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Plants can be sowed (from a seed) and their fruit can be harvested.  <a href="class_necroisle_1_1_plant.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_plant_data.html">PlantData</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Data file for plants.  <a href="class_necroisle_1_1_plant_data.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_play_audio_anim.html">PlayAudioAnim</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Play audio during animation.  <a href="class_necroisle_1_1_play_audio_anim.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_animation_controller.html">PlayerAnimationController</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_character_attribute.html">PlayerCharacterAttribute</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_character_climb.html">PlayerCharacterClimb</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add this script to the player to be able to climb ladders.  <a href="class_necroisle_1_1_player_character_climb.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_character_combat.html">PlayerCharacterCombat</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class that manages the player character attacks, hp and death.  <a href="class_necroisle_1_1_player_character_combat.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_character_craft.html">PlayerCharacterCraft</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class that manages the player character crafting and building.  <a href="class_necroisle_1_1_player_character_craft.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_character_data.html">PlayerCharacterData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_character_heat.html">PlayerCharacterHeat</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add this script to the player character to add the heat/cold system.  <a href="class_necroisle_1_1_player_character_heat.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_character_inventory.html">PlayerCharacterInventory</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class that manage character inventory, and related actions Also spawn/unspawn equipment visual attachmments.  <a href="class_necroisle_1_1_player_character_inventory.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_character_jump.html">PlayerCharacterJump</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Script to allow player jumping.  <a href="class_necroisle_1_1_player_character_jump.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_character_ride.html">PlayerCharacterRide</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Script to allow player swimming Make sure the player character has a unique layer set to it (like Player layer)  <a href="class_necroisle_1_1_player_character_ride.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_character_swim.html">PlayerCharacterSwim</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Script to allow player swimming Make sure the player character has a unique layer set to it (like Player layer)  <a href="class_necroisle_1_1_player_character_swim.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_controller.html">PlayerController</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_controls.html">PlayerControls</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Keyboard controls manager.  <a href="class_necroisle_1_1_player_controls.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_craft.html">PlayerCraft</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_controls_gamepad.html">PlayerControlsGamepad</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_controls_mouse.html">PlayerControlsMouse</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Mouse/Touch controls manager.  <a href="class_necroisle_1_1_player_controls_mouse.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_data.html">PlayerData</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">PlayerData is the main save file data script.  <a href="class_necroisle_1_1_player_data.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_heat.html">PlayerHeat</a></td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_level_data.html">PlayerLevelData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_pet_data.html">PlayerPetData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_player_u_i.html">PlayerUI</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">In-Game UI, specific to one player.  <a href="class_necroisle_1_1_player_u_i.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_progress_bar.html">ProgressBar</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A filled bar that shows a value (like attributes)  <a href="class_necroisle_1_1_progress_bar.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_projectile.html">Projectile</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">A projectile shot with a ranged weapon.  <a href="class_necroisle_1_1_projectile.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_necroisle_1_1_quaternion_data.html">QuaternionData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_read_panel.html">ReadPanel</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_regrowth.html">Regrowth</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attach this to an object to have it respawn automatically on death.  <a href="class_necroisle_1_1_regrowth.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_regrowth_data.html">RegrowthData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_resolution_info.html">ResolutionInfo</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_necroisle_1_1_r_g_b.html">RGB</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Color of chunk.  <a href="struct_necroisle_1_1_r_g_b.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_s_action.html">SAction</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Selectable Action parent class: Any action selected manually through the Action Selector (Items or Selectables)  <a href="class_necroisle_1_1_s_action.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_save_system.html">SaveSystem</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Script to write a class to the disk, or to read a file containing class from the disk.  <a href="class_necroisle_1_1_save_system.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_scene_nav.html">SceneNav</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_scene_object_data.html">SceneObjectData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_s_data.html">SData</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">SData is the base scriptable object data for this engine.  <a href="class_necroisle_1_1_s_data.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_selectable.html">Selectable</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_settings_data.html">SettingsData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_singleton.html">Singleton</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_sowed_plant_data.html">SowedPlantData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_spawnable.html">Spawnable</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generic object that can be spawned, but that is not craftable, all spawns are saved in the save file.  <a href="class_necroisle_1_1_spawnable.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_spawn_data.html">SpawnData</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">This is a generic spawn data to spawn any generic prefabs that are not Constructions, Items, Plants or Characters Spawn() is called automatically during loading to respawn everything that was saved, use Create() to create a new object.  <a href="class_necroisle_1_1_spawn_data.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_spawned_data.html">SpawnedData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_spawner.html">Spawner</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Spawns random prefabs in the scene at an interval.  <a href="class_necroisle_1_1_spawner.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_spawn_f_x.html">SpawnFX</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add this script to any temporary FX so it is destroyed after 'lifetime' seconds.  <a href="class_necroisle_1_1_spawn_f_x.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_sprite_shadow.html">SpriteShadow</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_storage.html">Storage</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_storage_panel.html">StoragePanel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Main UI panel for storages boxes (chest)  <a href="class_necroisle_1_1_storage_panel.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_the_audio.html">TheAudio</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Manager script to play audio on different channels, two sounds can't play on the same chanel.  <a href="class_necroisle_1_1_the_audio.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_the_data.html">TheData</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Manager script that will load all scriptable objects for use at runtime.  <a href="class_necroisle_1_1_the_data.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_the_game.html">TheGame</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_the_render.html">TheRender</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_the_u_i.html">TheUI</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Top level UI script that manages the UI.  <a href="class_necroisle_1_1_the_u_i.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_time_clock_u_i.html">TimeClockUI</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Clock showing days and time.  <a href="class_necroisle_1_1_time_clock_u_i.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_timed_bonus_data.html">TimedBonusData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_tooltip_panel.html">TooltipPanel</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_tooltip_target.html">TooltipTarget</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_tooltip_target_u_i.html">TooltipTargetUI</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_trained_character_data.html">TrainedCharacterData</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_transparent_behind_f_x.html">TransparentBehindFX</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add to an object to make it transparent when behind.  <a href="class_necroisle_1_1_transparent_behind_f_x.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_trap.html">Trap</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Will damage animals when they step on it.  <a href="class_necroisle_1_1_trap.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_u_i_panel.html">UIPanel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generic script for any UI panel, can be inherited.  <a href="class_necroisle_1_1_u_i_panel.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_u_i_slot.html">UISlot</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Basic class for any type of slot (item, other)  <a href="class_necroisle_1_1_u_i_slot.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_u_i_slot_panel.html">UISlotPanel</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Basic class for any panel containing slots that can be selected.  <a href="class_necroisle_1_1_u_i_slot_panel.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_unique_i_d.html">UniqueID</a></td></tr>
-<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Helps to generate unique ids for each individual instance of objects in the scene.  <a href="class_necroisle_1_1_unique_i_d.html#details">More...</a><br /></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Уникальный айдишник для уникального инстанса предмета  <a href="class_necroisle_1_1_unique_i_d.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_necroisle_1_1_vector3_data.html">Vector3Data</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Just a serializable version of a Vector3 Useful for the file system.  <a href="struct_necroisle_1_1_vector3_data.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_weather_data.html">WeatherData</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_weather_system.html">WeatherSystem</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Put this script in each scene with a list of possible weathers in that scene.  <a href="class_necroisle_1_1_weather_system.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_web_g_l_tool.html">WebGLTool</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">If you have issue finding the IsMobile function, you need to add a special file in your Assets/Plugins/WebGL folder You can get the file on Discord in the code sharing section or ask me to send it by email The plugin folder is not included in the unitypackage because its outside of the <a class="el" href="namespace_necroisle.html">Necroisle</a> folder, so you need to add the file yourself.  <a href="class_necroisle_1_1_web_g_l_tool.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_necroisle_1_1_weight_coef.html">WeightCoef</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Weight coefficients for each color.  <a href="struct_necroisle_1_1_weight_coef.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_world_regrowth.html">WorldRegrowth</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Old script name, was renamed to <a class="el" href="_regrowth_8cs.html">Regrowth.cs</a> File is still here to avoid error during version updates, will be deleted in future versions.  <a href="class_necroisle_1_1_world_regrowth.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_x_p_bar.html">XPBar</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Bar that shows level and XP.  <a href="class_necroisle_1_1_x_p_bar.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_necroisle_1_1_x_y.html">XY</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">XY coordinates of chunks.  <a href="struct_necroisle_1_1_x_y.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_necroisle_1_1_zone.html">Zone</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="enum-members" name="enum-members"></a>
@@ -221,34 +774,459 @@ Enumerations</h2></td></tr>
 , <a class="el" href="namespace_necroisle.html#ad8b6b7c18fcebb4ace21689ea7f527fda6e7b34fa59e1bd229b207892956dc41c">Never</a> =30
  }</td></tr>
 <tr class="separator:ad8b6b7c18fcebb4ace21689ea7f527fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a79cdfb81eb19bd7a8587b00570c19b71" id="r_a79cdfb81eb19bd7a8587b00570c19b71"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a79cdfb81eb19bd7a8587b00570c19b71">CharacterType</a> { <a class="el" href="namespace_necroisle.html#a79cdfb81eb19bd7a8587b00570c19b71a6adf97f83acf6453d4a6a4b1070f3754">None</a> = 0
-, <a class="el" href="namespace_necroisle.html#a79cdfb81eb19bd7a8587b00570c19b71a636da1d35e805b00eae0fcd8333f9234">Player</a> = 10
-, <a class="el" href="namespace_necroisle.html#a79cdfb81eb19bd7a8587b00570c19b71a2bda99597da06a11feafd8760b68aec6">NPC</a> = 20
-, <a class="el" href="namespace_necroisle.html#a79cdfb81eb19bd7a8587b00570c19b71a8c6d21187fb58b7a079d70030686b33e">Enemy</a> = 30
+<tr class="memitem:ac1fc125fe4ddfdc4bce5b13f80fcccee" id="r_ac1fc125fe4ddfdc4bce5b13f80fcccee"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fcccee">AttributeType</a> { <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fccceea6adf97f83acf6453d4a6a4b1070f3754">None</a> = 0
+, <a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fccceea605669cab962bf944d99ce89cf9e58d9">Health</a> = 2
+, <a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fccceea5cc28f31113ec7cd7e546b836ccae2b9">Energy</a> = 3
+, <a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fccceeaedccf286ccd738e8c4fc1ed56e10aced">Happiness</a> = 4
+, <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fccceea5994ce026a62da8057fcb67f5ee60773">Hunger</a> = 6
+, <a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fccceea8ec5c0777f799ebc470b794ee3e030e5">Thirst</a> = 8
+, <a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fccceea7d486371bb65b0633535ceba4189d8ed">Heat</a> =10
+, <a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fccceeae700f9f1736bfcd1d8b364a785cb45ae">Attribute5</a> = 50
+, <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fccceea6985ca71f55f05c4363610d79ccee03b">Attribute6</a> = 60
+, <a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fccceea49cb1161cd97f6a60bf3fe584ab89e5f">Attribute7</a> = 70
+, <a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fccceeadd72202f462e47ca39fb3ac9cd92b0b0">Attribute8</a> = 80
+, <a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fccceeafcff13b33c544351aec5e04c2663304d">Attribute9</a> = 90
+<br />
  }</td></tr>
-<tr class="separator:a79cdfb81eb19bd7a8587b00570c19b71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="separator:ac1fc125fe4ddfdc4bce5b13f80fcccee"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a435ea3cbcda253c2752716539bc757e5" id="r_a435ea3cbcda253c2752716539bc757e5"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5">BonusType</a> { <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5a6adf97f83acf6453d4a6a4b1070f3754">None</a> = 0
+, <a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5ae397fdb463f1d62721c0a5aa6038efa1">SpeedBoost</a> = 5
+, <a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5aa0307a91ed501b9ad41568a11738d1e1">AttackBoost</a> = 7
+, <a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5ae66f838d494801adff44a2ffecb6862e">ArmorBoost</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5a7df559e4b2477d797f92cc2ef611229f">HealthUp</a> = 10
+, <a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5a4961ba04329fa366ab29bf889057e1f7">HungerUp</a> = 11
+, <a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5a599ecfcc02caf66181064d68d610898f">ThirstUp</a> = 12
+, <a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5a12afccc121cfd4e3af1fc870946c8e00">HappyUp</a> = 13
+, <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5a462269d253d9fab5945a83020a1f8a70">EnergyUp</a> = 14
+, <a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5a3ed034b5031a554d2ad732782e4ab94f">HealthMax</a> = 20
+, <a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5adeb7e3c657269c1dbbbecde7175949a2">HungerMax</a> = 21
+, <a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5a0e39f0d67cc73a457f6bcc648cc86cd4">ThirstMax</a> = 22
+, <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5af13be1cb4aab20f5e85ff2352a324bd7">HappyMax</a> = 23
+, <a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5a8ba621cca98e9b0c68af348b5e8da098">EnergyMax</a> = 24
+, <a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5abbd36b735efb743d941bb7bf04bcd295">ColdResist</a> =30
+, <a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5a2f2d4cc4e9a1e88c7663869f1e0b049b">Invulnerable</a> = 40
+<br />
+ }</td></tr>
+<tr class="separator:a435ea3cbcda253c2752716539bc757e5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3547d08a9da02ed98cf3dd8b8c1b62e8" id="r_a3547d08a9da02ed98cf3dd8b8c1b62e8"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a3547d08a9da02ed98cf3dd8b8c1b62e8">InventoryType</a> { <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a3547d08a9da02ed98cf3dd8b8c1b62e8a6adf97f83acf6453d4a6a4b1070f3754">None</a> =0
+, <a class="el" href="namespace_necroisle.html#a3547d08a9da02ed98cf3dd8b8c1b62e8a4d604dd8f008145471dc845683399189">Inventory</a> =5
+, <a class="el" href="namespace_necroisle.html#a3547d08a9da02ed98cf3dd8b8c1b62e8a9ccda2d50a1ee1b73ee1f048eb397aa8">Equipment</a> =10
+, <a class="el" href="namespace_necroisle.html#a3547d08a9da02ed98cf3dd8b8c1b62e8a8c4aa541ee911e8d80451ef8cc304806">Storage</a> =15
+, <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a3547d08a9da02ed98cf3dd8b8c1b62e8ad3ab3d5184fe9b1b4428e4ffb797bdca">Bag</a> =20
+<br />
+ }</td></tr>
+<tr class="separator:a3547d08a9da02ed98cf3dd8b8c1b62e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5775895d411549152ea927597f1ac27a" id="r_a5775895d411549152ea927597f1ac27a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a5775895d411549152ea927597f1ac27a">ItemType</a> { <a class="el" href="namespace_necroisle.html#a5775895d411549152ea927597f1ac27aa972e73b7a882d0802a4e3a16946a2f94">Basic</a> = 0
+, <a class="el" href="namespace_necroisle.html#a5775895d411549152ea927597f1ac27aa56fed3bd1057fee3027e20901d42f19e">Consumable</a> = 10
+, <a class="el" href="namespace_necroisle.html#a5775895d411549152ea927597f1ac27aa9ccda2d50a1ee1b73ee1f048eb397aa8">Equipment</a> = 20
+ }</td></tr>
+<tr class="separator:a5775895d411549152ea927597f1ac27a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3ab5276cd6c371f79c3925055805bae7" id="r_a3ab5276cd6c371f79c3925055805bae7"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a3ab5276cd6c371f79c3925055805bae7">WeaponType</a> { <a class="el" href="namespace_necroisle.html#a3ab5276cd6c371f79c3925055805bae7a6adf97f83acf6453d4a6a4b1070f3754">None</a> =0
+, <a class="el" href="namespace_necroisle.html#a3ab5276cd6c371f79c3925055805bae7a1e90a4310174074785da30448ee74158">WeaponMelee</a> = 10
+, <a class="el" href="namespace_necroisle.html#a3ab5276cd6c371f79c3925055805bae7af25c4646a0208082bb7bdbfd9846fef3">WeaponRanged</a> =20
+ }</td></tr>
+<tr class="separator:a3ab5276cd6c371f79c3925055805bae7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a05dd5560cd9a516278b7700df0c75f9b" id="r_a05dd5560cd9a516278b7700df0c75f9b"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a05dd5560cd9a516278b7700df0c75f9b">DurabilityType</a> { <a class="el" href="namespace_necroisle.html#a05dd5560cd9a516278b7700df0c75f9ba6adf97f83acf6453d4a6a4b1070f3754">None</a> = 0
+, <a class="el" href="namespace_necroisle.html#a05dd5560cd9a516278b7700df0c75f9ba5d875354d960e47e3a97c4488c10fcb5">UsageCount</a> = 5
+, <a class="el" href="namespace_necroisle.html#a05dd5560cd9a516278b7700df0c75f9ba4bd331c66c1c3f45f62352e3d0a38b2d">UsageTime</a> = 8
+, <a class="el" href="namespace_necroisle.html#a05dd5560cd9a516278b7700df0c75f9bafab8dcfcbb89f81d10a2381ffd03ab31">Spoilage</a> = 10
+ }</td></tr>
+<tr class="separator:a05dd5560cd9a516278b7700df0c75f9b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:afec08924fc675ab46b83cf426107e944" id="r_afec08924fc675ab46b83cf426107e944"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#afec08924fc675ab46b83cf426107e944">EquipSlot</a> { <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#afec08924fc675ab46b83cf426107e944a6adf97f83acf6453d4a6a4b1070f3754">None</a> = 0
+, <a class="el" href="namespace_necroisle.html#afec08924fc675ab46b83cf426107e944aa78b1ac16c0cd02168097fc9a9bd7604">Hand</a> = 10
+, <a class="el" href="namespace_necroisle.html#afec08924fc675ab46b83cf426107e944a98921133d10fbdb0fb6dbb7b2648befe">Head</a> = 20
+, <a class="el" href="namespace_necroisle.html#afec08924fc675ab46b83cf426107e944aac101b32dda4448cf13a93fe283dddd8">Body</a> = 30
+, <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#afec08924fc675ab46b83cf426107e944a0f2e8e047e38898ec859c631576985e7">Feet</a> = 40
+, <a class="el" href="namespace_necroisle.html#afec08924fc675ab46b83cf426107e944a10df2101dd922fefc0e66be49b7723c2">Backpack</a> = 50
+, <a class="el" href="namespace_necroisle.html#afec08924fc675ab46b83cf426107e944aafdf68e7bb331d324d2135699c3aa39e">Accessory</a> = 60
+, <a class="el" href="namespace_necroisle.html#afec08924fc675ab46b83cf426107e944a970da5f1f2e32aeb9e488dd017160ab4">Shield</a> = 70
+, <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#afec08924fc675ab46b83cf426107e944a279b9715da666d337d3d864475e91573">Slot8</a> = 80
+, <a class="el" href="namespace_necroisle.html#afec08924fc675ab46b83cf426107e944a0a42bd9b232997f7a0da24ed93badefb">Slot9</a> = 90
+, <a class="el" href="namespace_necroisle.html#afec08924fc675ab46b83cf426107e944a654e15cbbd8a5eee0ea203e398cafa99">Slot10</a> = 100
+<br />
+ }</td></tr>
+<tr class="separator:afec08924fc675ab46b83cf426107e944"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a939b3585b9073d63e7b0c09ff163d1b9" id="r_a939b3585b9073d63e7b0c09ff163d1b9"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a939b3585b9073d63e7b0c09ff163d1b9">EquipSide</a> { <a class="el" href="namespace_necroisle.html#a939b3585b9073d63e7b0c09ff163d1b9a7a1920d61156abc05a60135aefe8bc67">Default</a> = 0
+, <a class="el" href="namespace_necroisle.html#a939b3585b9073d63e7b0c09ff163d1b9a92b09c7c48c520c3c55e497875da437c">Right</a> = 2
+, <a class="el" href="namespace_necroisle.html#a939b3585b9073d63e7b0c09ff163d1b9a945d5e233cf7d6240f6b783b36a374ff">Left</a> = 4
+ }</td></tr>
+<tr class="separator:a939b3585b9073d63e7b0c09ff163d1b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a75829dc6a7616e552e1afa2a28fcbd6f" id="r_a75829dc6a7616e552e1afa2a28fcbd6f"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a75829dc6a7616e552e1afa2a28fcbd6f">TimeType</a> { <a class="el" href="namespace_necroisle.html#a75829dc6a7616e552e1afa2a28fcbd6fa1733f74d7b3b6e4b3c856bc9146d1ba5">GameHours</a> = 0
 , <a class="el" href="namespace_necroisle.html#a75829dc6a7616e552e1afa2a28fcbd6fa5483121280ed6b874b421aeca86066a5">GameDays</a> = 10
  }</td></tr>
 <tr class="separator:a75829dc6a7616e552e1afa2a28fcbd6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a866e18d088d10751872ced316bc45e1d" id="r_a866e18d088d10751872ced316bc45e1d"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a866e18d088d10751872ced316bc45e1d">WeatherEffect</a> { <a class="el" href="namespace_necroisle.html#a866e18d088d10751872ced316bc45e1da6adf97f83acf6453d4a6a4b1070f3754">None</a> =0
+, <a class="el" href="namespace_necroisle.html#a866e18d088d10751872ced316bc45e1dade4eda51f409f7799a728d8725b340cd">Rain</a> =10
+ }</td></tr>
+<tr class="separator:a866e18d088d10751872ced316bc45e1d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a33cc3cc685780b37a6da77bdb4eb74c4" id="r_a33cc3cc685780b37a6da77bdb4eb74c4"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a33cc3cc685780b37a6da77bdb4eb74c4">AnimalState</a> { <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a33cc3cc685780b37a6da77bdb4eb74c4ad942406b960093c71f7aa2157aba9983">Wander</a> = 0
+, <a class="el" href="namespace_necroisle.html#a33cc3cc685780b37a6da77bdb4eb74c4ab40cfb33b5b3f7c0e48f37b691513ef0">Alerted</a> = 2
+, <a class="el" href="namespace_necroisle.html#a33cc3cc685780b37a6da77bdb4eb74c4a013ec032d3460d4be4431c6ab1f8f224">Escape</a> = 4
+, <a class="el" href="namespace_necroisle.html#a33cc3cc685780b37a6da77bdb4eb74c4adcfafcb4323b102c7e204555d313ba0a">Attack</a> = 6
+, <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a33cc3cc685780b37a6da77bdb4eb74c4ad9046d3b1ebf3889943b3be3ca477613">MoveTo</a> = 10
+, <a class="el" href="namespace_necroisle.html#a33cc3cc685780b37a6da77bdb4eb74c4a183b62c7f067711f9c5a54913c054617">Dead</a> = 20
+<br />
+ }</td></tr>
+<tr class="separator:a33cc3cc685780b37a6da77bdb4eb74c4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4b71b5d69d056bae2e76f36b4ce3d65e" id="r_a4b71b5d69d056bae2e76f36b4ce3d65e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a4b71b5d69d056bae2e76f36b4ce3d65e">AnimalBehavior</a> { <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a4b71b5d69d056bae2e76f36b4ce3d65ea6adf97f83acf6453d4a6a4b1070f3754">None</a> = 0
+, <a class="el" href="namespace_necroisle.html#a4b71b5d69d056bae2e76f36b4ce3d65ea013ec032d3460d4be4431c6ab1f8f224">Escape</a> = 5
+, <a class="el" href="namespace_necroisle.html#a4b71b5d69d056bae2e76f36b4ce3d65eabf801fe3a90af01c30ba6e021ea20247">PassiveEscape</a> = 10
+, <a class="el" href="namespace_necroisle.html#a4b71b5d69d056bae2e76f36b4ce3d65ea7438328309fac775b3f20557cdeba3ee">PassiveDefense</a> = 15
+, <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a4b71b5d69d056bae2e76f36b4ce3d65ea389a96d0d9b3feb46b8c9d941566a4ae">Aggressive</a> = 20
+, <a class="el" href="namespace_necroisle.html#a4b71b5d69d056bae2e76f36b4ce3d65ea890f7a69e941904f0a30cc29b6bccc05">VeryAggressive</a> = 25
+<br />
+ }</td></tr>
+<tr class="separator:a4b71b5d69d056bae2e76f36b4ce3d65e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2117919f742eb193572bca8f241e706a" id="r_a2117919f742eb193572bca8f241e706a"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a2117919f742eb193572bca8f241e706a">WanderBehavior</a> { <a class="el" href="namespace_necroisle.html#a2117919f742eb193572bca8f241e706aa6adf97f83acf6453d4a6a4b1070f3754">None</a> = 0
+, <a class="el" href="namespace_necroisle.html#a2117919f742eb193572bca8f241e706aa4b5e970e0c38c146db8fbb673306a1c1">WanderNear</a> = 10
+, <a class="el" href="namespace_necroisle.html#a2117919f742eb193572bca8f241e706aac8c5eae99c01660a4475febf3bd40b47">WanderFar</a> = 20
+ }</td></tr>
+<tr class="separator:a2117919f742eb193572bca8f241e706a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9bd6fa928961f4f119cfda04f499bad" id="r_aa9bd6fa928961f4f119cfda04f499bad"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#aa9bd6fa928961f4f119cfda04f499bad">BirdState</a> { <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#aa9bd6fa928961f4f119cfda04f499bada0ba672e3acbda6fa67c1f7b32f139979">Sit</a> = 0
+, <a class="el" href="namespace_necroisle.html#aa9bd6fa928961f4f119cfda04f499badaac51deb7d2c3f9663a6df72c7c9b2b51">Fly</a> = 2
+, <a class="el" href="namespace_necroisle.html#aa9bd6fa928961f4f119cfda04f499bada516e4fbe4236a3d6a4c5ae0991367ad0">FlyDown</a> = 4
+, <a class="el" href="namespace_necroisle.html#aa9bd6fa928961f4f119cfda04f499badab40cfb33b5b3f7c0e48f37b691513ef0">Alerted</a> = 5
+, <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#aa9bd6fa928961f4f119cfda04f499bada183b62c7f067711f9c5a54913c054617">Dead</a> = 10
+<br />
+ }</td></tr>
+<tr class="memdesc:aa9bd6fa928961f4f119cfda04f499bad"><td class="mdescLeft">&#160;</td><td class="mdescRight">Birds are alternate version of the animal script but with flying!  <a href="namespace_necroisle.html#aa9bd6fa928961f4f119cfda04f499bad">More...</a><br /></td></tr>
+<tr class="separator:aa9bd6fa928961f4f119cfda04f499bad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3654edacdfeca2ea825c5bf54a9415e1" id="r_a3654edacdfeca2ea825c5bf54a9415e1"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a3654edacdfeca2ea825c5bf54a9415e1">BuildableType</a> { <a class="el" href="namespace_necroisle.html#a3654edacdfeca2ea825c5bf54a9415e1a7a1920d61156abc05a60135aefe8bc67">Default</a> =0
+, <a class="el" href="namespace_necroisle.html#a3654edacdfeca2ea825c5bf54a9415e1a5174d1309f275ba6f275db3af9eb3e18">Grid</a> =10
+ }</td></tr>
+<tr class="separator:a3654edacdfeca2ea825c5bf54a9415e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1a1a4ea4467812db58a547dea00f0f43" id="r_a1a1a4ea4467812db58a547dea00f0f43"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a1a1a4ea4467812db58a547dea00f0f43">AttackGroup</a> { <a class="el" href="namespace_necroisle.html#a1a1a4ea4467812db58a547dea00f0f43ae9bb5320b3890b6747c91b5a71ae5a01">Neutral</a> =0
+, <a class="el" href="namespace_necroisle.html#a1a1a4ea4467812db58a547dea00f0f43a0dd87782600574e2f791bcfe639d4fcc">Ally</a> =10
+, <a class="el" href="namespace_necroisle.html#a1a1a4ea4467812db58a547dea00f0f43a8c6d21187fb58b7a079d70030686b33e">Enemy</a> =20
+, <a class="el" href="namespace_necroisle.html#a1a1a4ea4467812db58a547dea00f0f43a2f28b7c8f32345850235bab22c8283b6">CantAttack</a> =50
+ }</td></tr>
+<tr class="separator:a1a1a4ea4467812db58a547dea00f0f43"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a95db3c05f1b88e27af4606c3af34b5fc" id="r_a95db3c05f1b88e27af4606c3af34b5fc"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a95db3c05f1b88e27af4606c3af34b5fc">PetState</a> { <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a95db3c05f1b88e27af4606c3af34b5fcae599161956d626eda4cb0a5ffb85271c">Idle</a> =0
+, <a class="el" href="namespace_necroisle.html#a95db3c05f1b88e27af4606c3af34b5fca3903aab323863bd2e9b68218a7a65ebd">Follow</a> = 2
+, <a class="el" href="namespace_necroisle.html#a95db3c05f1b88e27af4606c3af34b5fcadcfafcb4323b102c7e204555d313ba0a">Attack</a> = 5
+, <a class="el" href="namespace_necroisle.html#a95db3c05f1b88e27af4606c3af34b5fca11c3eff89f16757c6f9bf785a488d544">Dig</a> = 8
+, <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a95db3c05f1b88e27af4606c3af34b5fca7c986af4cf8f6e55a1f846dc498ce91d">Pet</a> = 10
+, <a class="el" href="namespace_necroisle.html#a95db3c05f1b88e27af4606c3af34b5fcad9046d3b1ebf3889943b3be3ca477613">MoveTo</a> =15
+, <a class="el" href="namespace_necroisle.html#a95db3c05f1b88e27af4606c3af34b5fca183b62c7f067711f9c5a54913c054617">Dead</a> = 20
+<br />
+ }</td></tr>
+<tr class="separator:a95db3c05f1b88e27af4606c3af34b5fc"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0974a48a48ec8308afb9cc2fa8f17858" id="r_a0974a48a48ec8308afb9cc2fa8f17858"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a0974a48a48ec8308afb9cc2fa8f17858">RegrowthType</a> { <a class="el" href="namespace_necroisle.html#a0974a48a48ec8308afb9cc2fa8f17858a7f290f53ca367f2a932e2818964865a7">OnDeath</a> = 0
+, <a class="el" href="namespace_necroisle.html#a0974a48a48ec8308afb9cc2fa8f17858a076b9c5b655fdc3350a7c269fb84294a">OnCreate</a> = 10
+ }</td></tr>
+<tr class="separator:a0974a48a48ec8308afb9cc2fa8f17858"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a043016617c6a03d22a983332ce7b2226" id="r_a043016617c6a03d22a983332ce7b2226"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a043016617c6a03d22a983332ce7b2226">SelectableType</a> { <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a043016617c6a03d22a983332ce7b2226aefbc873e4634f3db63d62377d36e5f56">Interact</a> =0
+, <a class="el" href="namespace_necroisle.html#a043016617c6a03d22a983332ce7b2226a45b12078b9b17b87e36a2170c4b1a85c">InteractBound</a> =5
+, <a class="el" href="namespace_necroisle.html#a043016617c6a03d22a983332ce7b2226ac4106745af5dd2dfada617bb3629de7e">InteractSurface</a> =10
+, <a class="el" href="namespace_necroisle.html#a043016617c6a03d22a983332ce7b2226ae4d52c176a8b281071048e4a6b5d008c">CantInteract</a> =20
+, <br />
+&#160;&#160;<a class="el" href="namespace_necroisle.html#a043016617c6a03d22a983332ce7b2226a7b314743aeb3dc53cdb5d191ef3f6815">CantSelect</a> =30
+<br />
+ }</td></tr>
+<tr class="separator:a043016617c6a03d22a983332ce7b2226"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a03b315034a747ded3a0f91f674356e95" id="r_a03b315034a747ded3a0f91f674356e95"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a03b315034a747ded3a0f91f674356e95">MapCaptureMode</a> { <a class="el" href="namespace_necroisle.html#a03b315034a747ded3a0f91f674356e95a344a7f427fb765610ef96eb7bce95257">Editor</a> =0
+, <a class="el" href="namespace_necroisle.html#a03b315034a747ded3a0f91f674356e95abc366f2d0ba3d681e7a3899917c5d3de">Runtime</a> = 5
+, <a class="el" href="namespace_necroisle.html#a03b315034a747ded3a0f91f674356e95a0a7fee3bfd0727cdef27cae415b87eb2">RuntimeUpdate</a> = 10
+ }</td></tr>
+<tr class="separator:a03b315034a747ded3a0f91f674356e95"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0a5e568260acab6c021f6703f4196447" id="r_a0a5e568260acab6c021f6703f4196447"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a0a5e568260acab6c021f6703f4196447">MapSaveMode</a> { <a class="el" href="namespace_necroisle.html#a0a5e568260acab6c021f6703f4196447a0b27918290ff5323bea1e3b78a9cf04e">File</a> = 0
+, <a class="el" href="namespace_necroisle.html#a0a5e568260acab6c021f6703f4196447a6ac5af02730d4c87bdc2257d00090333">RenderTexture</a> = 5
+ }</td></tr>
+<tr class="separator:a0a5e568260acab6c021f6703f4196447"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aaec12beeeb4425d61584b965d9accc9c" id="r_aaec12beeeb4425d61584b965d9accc9c"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#aaec12beeeb4425d61584b965d9accc9c">MapIconType</a> { <a class="el" href="namespace_necroisle.html#aaec12beeeb4425d61584b965d9accc9ca7a1920d61156abc05a60135aefe8bc67">Default</a> = 0
+, <a class="el" href="namespace_necroisle.html#aaec12beeeb4425d61584b965d9accc9ca636da1d35e805b00eae0fcd8333f9234">Player</a> =5
+, <a class="el" href="namespace_necroisle.html#aaec12beeeb4425d61584b965d9accc9ca0ab984d91ab0a037bdf692bf0e73c349">Important</a> = 10
+ }</td></tr>
+<tr class="separator:aaec12beeeb4425d61584b965d9accc9c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a64778320995ebc2dfdeefd4797b9c817" id="r_a64778320995ebc2dfdeefd4797b9c817"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a64778320995ebc2dfdeefd4797b9c817">PlayerAttackBehavior</a> { <a class="el" href="namespace_necroisle.html#a64778320995ebc2dfdeefd4797b9c817a4ab9f5061aa771d40b1640cbd5e1caaa">AutoAttack</a> = 0
+, <a class="el" href="namespace_necroisle.html#a64778320995ebc2dfdeefd4797b9c817a27927292e2c5533748fbb9c8134194be">ClickToHit</a> = 10
+, <a class="el" href="namespace_necroisle.html#a64778320995ebc2dfdeefd4797b9c817afd717fc56e019faf5bdeb3429d6eb17d">NoAttack</a> = 20
+ }</td></tr>
+<tr class="separator:a64778320995ebc2dfdeefd4797b9c817"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a40de67665bb17f2283f525f39aec2e69" id="r_a40de67665bb17f2283f525f39aec2e69"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#a40de67665bb17f2283f525f39aec2e69">PlayerInteractBehavior</a> { <a class="el" href="namespace_necroisle.html#a40de67665bb17f2283f525f39aec2e69ac34d5930cb50e76350be22e5607b74c6">MoveAndInteract</a> = 0
+, <a class="el" href="namespace_necroisle.html#a40de67665bb17f2283f525f39aec2e69a6e7f7f663f9a2f47b847df75454d2fa5">InteractOnly</a> = 10
+ }</td></tr>
+<tr class="separator:a40de67665bb17f2283f525f39aec2e69"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab2be3cd2a267274cbc517a283085ec3e" id="r_ab2be3cd2a267274cbc517a283085ec3e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#ab2be3cd2a267274cbc517a283085ec3e">BlendMode</a> { <a class="el" href="namespace_necroisle.html#ab2be3cd2a267274cbc517a283085ec3eafaa90538de35640e4b1e31ccf35b6eb5">Opaque</a>
+, <a class="el" href="namespace_necroisle.html#ab2be3cd2a267274cbc517a283085ec3ea330be5af6c8bafc8ce5c74fa208c5015">Cutout</a>
+, <a class="el" href="namespace_necroisle.html#ab2be3cd2a267274cbc517a283085ec3ea04e0385c10aefee8e4681617d2f3ef40">Fade</a>
+, <a class="el" href="namespace_necroisle.html#ab2be3cd2a267274cbc517a283085ec3ea3d971943089a3388c01fb297a32d9ba7">Transparent</a>
+ }</td></tr>
+<tr class="separator:ab2be3cd2a267274cbc517a283085ec3e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af00e38e82911e262ce77a68ed35e218e" id="r_af00e38e82911e262ce77a68ed35e218e"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespace_necroisle.html#af00e38e82911e262ce77a68ed35e218e">TooltipTargetType</a> { <a class="el" href="namespace_necroisle.html#af00e38e82911e262ce77a68ed35e218ea086247a9b57fde6eefee2a0c4752242d">Automatic</a> = 0
+, <a class="el" href="namespace_necroisle.html#af00e38e82911e262ce77a68ed35e218ea90589c47f06eb971d548591f23c285af">Custom</a> = 10
+ }</td></tr>
+<tr class="separator:af00e38e82911e262ce77a68ed35e218e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
-<a id="a79cdfb81eb19bd7a8587b00570c19b71" name="a79cdfb81eb19bd7a8587b00570c19b71"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a79cdfb81eb19bd7a8587b00570c19b71">&#9670;&#160;</a></span>CharacterType</h2>
+<a id="a4b71b5d69d056bae2e76f36b4ce3d65e" name="a4b71b5d69d056bae2e76f36b4ce3d65e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b71b5d69d056bae2e76f36b4ce3d65e">&#9670;&#160;</a></span>AnimalBehavior</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a79cdfb81eb19bd7a8587b00570c19b71">Necroisle.CharacterType</a></td>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a4b71b5d69d056bae2e76f36b4ce3d65e">Necroisle.AnimalBehavior</a></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <table class="fieldtable">
-<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a79cdfb81eb19bd7a8587b00570c19b71a6adf97f83acf6453d4a6a4b1070f3754" name="a79cdfb81eb19bd7a8587b00570c19b71a6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a79cdfb81eb19bd7a8587b00570c19b71a636da1d35e805b00eae0fcd8333f9234" name="a79cdfb81eb19bd7a8587b00570c19b71a636da1d35e805b00eae0fcd8333f9234"></a>Player&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a79cdfb81eb19bd7a8587b00570c19b71a2bda99597da06a11feafd8760b68aec6" name="a79cdfb81eb19bd7a8587b00570c19b71a2bda99597da06a11feafd8760b68aec6"></a>NPC&#160;</td><td class="fielddoc"></td></tr>
-<tr><td class="fieldname"><a id="a79cdfb81eb19bd7a8587b00570c19b71a8c6d21187fb58b7a079d70030686b33e" name="a79cdfb81eb19bd7a8587b00570c19b71a8c6d21187fb58b7a079d70030686b33e"></a>Enemy&#160;</td><td class="fielddoc"></td></tr>
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4b71b5d69d056bae2e76f36b4ce3d65ea6adf97f83acf6453d4a6a4b1070f3754" name="a4b71b5d69d056bae2e76f36b4ce3d65ea6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4b71b5d69d056bae2e76f36b4ce3d65ea013ec032d3460d4be4431c6ab1f8f224" name="a4b71b5d69d056bae2e76f36b4ce3d65ea013ec032d3460d4be4431c6ab1f8f224"></a>Escape&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4b71b5d69d056bae2e76f36b4ce3d65eabf801fe3a90af01c30ba6e021ea20247" name="a4b71b5d69d056bae2e76f36b4ce3d65eabf801fe3a90af01c30ba6e021ea20247"></a>PassiveEscape&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4b71b5d69d056bae2e76f36b4ce3d65ea7438328309fac775b3f20557cdeba3ee" name="a4b71b5d69d056bae2e76f36b4ce3d65ea7438328309fac775b3f20557cdeba3ee"></a>PassiveDefense&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4b71b5d69d056bae2e76f36b4ce3d65ea389a96d0d9b3feb46b8c9d941566a4ae" name="a4b71b5d69d056bae2e76f36b4ce3d65ea389a96d0d9b3feb46b8c9d941566a4ae"></a>Aggressive&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a4b71b5d69d056bae2e76f36b4ce3d65ea890f7a69e941904f0a30cc29b6bccc05" name="a4b71b5d69d056bae2e76f36b4ce3d65ea890f7a69e941904f0a30cc29b6bccc05"></a>VeryAggressive&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a33cc3cc685780b37a6da77bdb4eb74c4" name="a33cc3cc685780b37a6da77bdb4eb74c4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a33cc3cc685780b37a6da77bdb4eb74c4">&#9670;&#160;</a></span>AnimalState</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a33cc3cc685780b37a6da77bdb4eb74c4">Necroisle.AnimalState</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a33cc3cc685780b37a6da77bdb4eb74c4ad942406b960093c71f7aa2157aba9983" name="a33cc3cc685780b37a6da77bdb4eb74c4ad942406b960093c71f7aa2157aba9983"></a>Wander&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a33cc3cc685780b37a6da77bdb4eb74c4ab40cfb33b5b3f7c0e48f37b691513ef0" name="a33cc3cc685780b37a6da77bdb4eb74c4ab40cfb33b5b3f7c0e48f37b691513ef0"></a>Alerted&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a33cc3cc685780b37a6da77bdb4eb74c4a013ec032d3460d4be4431c6ab1f8f224" name="a33cc3cc685780b37a6da77bdb4eb74c4a013ec032d3460d4be4431c6ab1f8f224"></a>Escape&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a33cc3cc685780b37a6da77bdb4eb74c4adcfafcb4323b102c7e204555d313ba0a" name="a33cc3cc685780b37a6da77bdb4eb74c4adcfafcb4323b102c7e204555d313ba0a"></a>Attack&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a33cc3cc685780b37a6da77bdb4eb74c4ad9046d3b1ebf3889943b3be3ca477613" name="a33cc3cc685780b37a6da77bdb4eb74c4ad9046d3b1ebf3889943b3be3ca477613"></a>MoveTo&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a33cc3cc685780b37a6da77bdb4eb74c4a183b62c7f067711f9c5a54913c054617" name="a33cc3cc685780b37a6da77bdb4eb74c4a183b62c7f067711f9c5a54913c054617"></a>Dead&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a1a1a4ea4467812db58a547dea00f0f43" name="a1a1a4ea4467812db58a547dea00f0f43"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a1a1a4ea4467812db58a547dea00f0f43">&#9670;&#160;</a></span>AttackGroup</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a1a1a4ea4467812db58a547dea00f0f43">Necroisle.AttackGroup</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a1a1a4ea4467812db58a547dea00f0f43ae9bb5320b3890b6747c91b5a71ae5a01" name="a1a1a4ea4467812db58a547dea00f0f43ae9bb5320b3890b6747c91b5a71ae5a01"></a>Neutral&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1a1a4ea4467812db58a547dea00f0f43a0dd87782600574e2f791bcfe639d4fcc" name="a1a1a4ea4467812db58a547dea00f0f43a0dd87782600574e2f791bcfe639d4fcc"></a>Ally&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1a1a4ea4467812db58a547dea00f0f43a8c6d21187fb58b7a079d70030686b33e" name="a1a1a4ea4467812db58a547dea00f0f43a8c6d21187fb58b7a079d70030686b33e"></a>Enemy&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a1a1a4ea4467812db58a547dea00f0f43a2f28b7c8f32345850235bab22c8283b6" name="a1a1a4ea4467812db58a547dea00f0f43a2f28b7c8f32345850235bab22c8283b6"></a>CantAttack&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="ac1fc125fe4ddfdc4bce5b13f80fcccee" name="ac1fc125fe4ddfdc4bce5b13f80fcccee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac1fc125fe4ddfdc4bce5b13f80fcccee">&#9670;&#160;</a></span>AttributeType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#ac1fc125fe4ddfdc4bce5b13f80fcccee">Necroisle.AttributeType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ac1fc125fe4ddfdc4bce5b13f80fccceea6adf97f83acf6453d4a6a4b1070f3754" name="ac1fc125fe4ddfdc4bce5b13f80fccceea6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac1fc125fe4ddfdc4bce5b13f80fccceea605669cab962bf944d99ce89cf9e58d9" name="ac1fc125fe4ddfdc4bce5b13f80fccceea605669cab962bf944d99ce89cf9e58d9"></a>Health&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac1fc125fe4ddfdc4bce5b13f80fccceea5cc28f31113ec7cd7e546b836ccae2b9" name="ac1fc125fe4ddfdc4bce5b13f80fccceea5cc28f31113ec7cd7e546b836ccae2b9"></a>Energy&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac1fc125fe4ddfdc4bce5b13f80fccceeaedccf286ccd738e8c4fc1ed56e10aced" name="ac1fc125fe4ddfdc4bce5b13f80fccceeaedccf286ccd738e8c4fc1ed56e10aced"></a>Happiness&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac1fc125fe4ddfdc4bce5b13f80fccceea5994ce026a62da8057fcb67f5ee60773" name="ac1fc125fe4ddfdc4bce5b13f80fccceea5994ce026a62da8057fcb67f5ee60773"></a>Hunger&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac1fc125fe4ddfdc4bce5b13f80fccceea8ec5c0777f799ebc470b794ee3e030e5" name="ac1fc125fe4ddfdc4bce5b13f80fccceea8ec5c0777f799ebc470b794ee3e030e5"></a>Thirst&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac1fc125fe4ddfdc4bce5b13f80fccceea7d486371bb65b0633535ceba4189d8ed" name="ac1fc125fe4ddfdc4bce5b13f80fccceea7d486371bb65b0633535ceba4189d8ed"></a>Heat&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac1fc125fe4ddfdc4bce5b13f80fccceeae700f9f1736bfcd1d8b364a785cb45ae" name="ac1fc125fe4ddfdc4bce5b13f80fccceeae700f9f1736bfcd1d8b364a785cb45ae"></a>Attribute5&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac1fc125fe4ddfdc4bce5b13f80fccceea6985ca71f55f05c4363610d79ccee03b" name="ac1fc125fe4ddfdc4bce5b13f80fccceea6985ca71f55f05c4363610d79ccee03b"></a>Attribute6&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac1fc125fe4ddfdc4bce5b13f80fccceea49cb1161cd97f6a60bf3fe584ab89e5f" name="ac1fc125fe4ddfdc4bce5b13f80fccceea49cb1161cd97f6a60bf3fe584ab89e5f"></a>Attribute7&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac1fc125fe4ddfdc4bce5b13f80fccceeadd72202f462e47ca39fb3ac9cd92b0b0" name="ac1fc125fe4ddfdc4bce5b13f80fccceeadd72202f462e47ca39fb3ac9cd92b0b0"></a>Attribute8&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ac1fc125fe4ddfdc4bce5b13f80fccceeafcff13b33c544351aec5e04c2663304d" name="ac1fc125fe4ddfdc4bce5b13f80fccceeafcff13b33c544351aec5e04c2663304d"></a>Attribute9&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="aa9bd6fa928961f4f119cfda04f499bad" name="aa9bd6fa928961f4f119cfda04f499bad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa9bd6fa928961f4f119cfda04f499bad">&#9670;&#160;</a></span>BirdState</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#aa9bd6fa928961f4f119cfda04f499bad">Necroisle.BirdState</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Birds are alternate version of the animal script but with flying! </p>
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aa9bd6fa928961f4f119cfda04f499bada0ba672e3acbda6fa67c1f7b32f139979" name="aa9bd6fa928961f4f119cfda04f499bada0ba672e3acbda6fa67c1f7b32f139979"></a>Sit&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa9bd6fa928961f4f119cfda04f499badaac51deb7d2c3f9663a6df72c7c9b2b51" name="aa9bd6fa928961f4f119cfda04f499badaac51deb7d2c3f9663a6df72c7c9b2b51"></a>Fly&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa9bd6fa928961f4f119cfda04f499bada516e4fbe4236a3d6a4c5ae0991367ad0" name="aa9bd6fa928961f4f119cfda04f499bada516e4fbe4236a3d6a4c5ae0991367ad0"></a>FlyDown&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa9bd6fa928961f4f119cfda04f499badab40cfb33b5b3f7c0e48f37b691513ef0" name="aa9bd6fa928961f4f119cfda04f499badab40cfb33b5b3f7c0e48f37b691513ef0"></a>Alerted&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aa9bd6fa928961f4f119cfda04f499bada183b62c7f067711f9c5a54913c054617" name="aa9bd6fa928961f4f119cfda04f499bada183b62c7f067711f9c5a54913c054617"></a>Dead&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="ab2be3cd2a267274cbc517a283085ec3e" name="ab2be3cd2a267274cbc517a283085ec3e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab2be3cd2a267274cbc517a283085ec3e">&#9670;&#160;</a></span>BlendMode</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#ab2be3cd2a267274cbc517a283085ec3e">Necroisle.BlendMode</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="ab2be3cd2a267274cbc517a283085ec3eafaa90538de35640e4b1e31ccf35b6eb5" name="ab2be3cd2a267274cbc517a283085ec3eafaa90538de35640e4b1e31ccf35b6eb5"></a>Opaque&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab2be3cd2a267274cbc517a283085ec3ea330be5af6c8bafc8ce5c74fa208c5015" name="ab2be3cd2a267274cbc517a283085ec3ea330be5af6c8bafc8ce5c74fa208c5015"></a>Cutout&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab2be3cd2a267274cbc517a283085ec3ea04e0385c10aefee8e4681617d2f3ef40" name="ab2be3cd2a267274cbc517a283085ec3ea04e0385c10aefee8e4681617d2f3ef40"></a>Fade&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab2be3cd2a267274cbc517a283085ec3ea3d971943089a3388c01fb297a32d9ba7" name="ab2be3cd2a267274cbc517a283085ec3ea3d971943089a3388c01fb297a32d9ba7"></a>Transparent&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a435ea3cbcda253c2752716539bc757e5" name="a435ea3cbcda253c2752716539bc757e5"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a435ea3cbcda253c2752716539bc757e5">&#9670;&#160;</a></span>BonusType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a435ea3cbcda253c2752716539bc757e5">Necroisle.BonusType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5a6adf97f83acf6453d4a6a4b1070f3754" name="a435ea3cbcda253c2752716539bc757e5a6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5ae397fdb463f1d62721c0a5aa6038efa1" name="a435ea3cbcda253c2752716539bc757e5ae397fdb463f1d62721c0a5aa6038efa1"></a>SpeedBoost&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5aa0307a91ed501b9ad41568a11738d1e1" name="a435ea3cbcda253c2752716539bc757e5aa0307a91ed501b9ad41568a11738d1e1"></a>AttackBoost&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5ae66f838d494801adff44a2ffecb6862e" name="a435ea3cbcda253c2752716539bc757e5ae66f838d494801adff44a2ffecb6862e"></a>ArmorBoost&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5a7df559e4b2477d797f92cc2ef611229f" name="a435ea3cbcda253c2752716539bc757e5a7df559e4b2477d797f92cc2ef611229f"></a>HealthUp&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5a4961ba04329fa366ab29bf889057e1f7" name="a435ea3cbcda253c2752716539bc757e5a4961ba04329fa366ab29bf889057e1f7"></a>HungerUp&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5a599ecfcc02caf66181064d68d610898f" name="a435ea3cbcda253c2752716539bc757e5a599ecfcc02caf66181064d68d610898f"></a>ThirstUp&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5a12afccc121cfd4e3af1fc870946c8e00" name="a435ea3cbcda253c2752716539bc757e5a12afccc121cfd4e3af1fc870946c8e00"></a>HappyUp&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5a462269d253d9fab5945a83020a1f8a70" name="a435ea3cbcda253c2752716539bc757e5a462269d253d9fab5945a83020a1f8a70"></a>EnergyUp&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5a3ed034b5031a554d2ad732782e4ab94f" name="a435ea3cbcda253c2752716539bc757e5a3ed034b5031a554d2ad732782e4ab94f"></a>HealthMax&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5adeb7e3c657269c1dbbbecde7175949a2" name="a435ea3cbcda253c2752716539bc757e5adeb7e3c657269c1dbbbecde7175949a2"></a>HungerMax&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5a0e39f0d67cc73a457f6bcc648cc86cd4" name="a435ea3cbcda253c2752716539bc757e5a0e39f0d67cc73a457f6bcc648cc86cd4"></a>ThirstMax&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5af13be1cb4aab20f5e85ff2352a324bd7" name="a435ea3cbcda253c2752716539bc757e5af13be1cb4aab20f5e85ff2352a324bd7"></a>HappyMax&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5a8ba621cca98e9b0c68af348b5e8da098" name="a435ea3cbcda253c2752716539bc757e5a8ba621cca98e9b0c68af348b5e8da098"></a>EnergyMax&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5abbd36b735efb743d941bb7bf04bcd295" name="a435ea3cbcda253c2752716539bc757e5abbd36b735efb743d941bb7bf04bcd295"></a>ColdResist&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a435ea3cbcda253c2752716539bc757e5a2f2d4cc4e9a1e88c7663869f1e0b049b" name="a435ea3cbcda253c2752716539bc757e5a2f2d4cc4e9a1e88c7663869f1e0b049b"></a>Invulnerable&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a3654edacdfeca2ea825c5bf54a9415e1" name="a3654edacdfeca2ea825c5bf54a9415e1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3654edacdfeca2ea825c5bf54a9415e1">&#9670;&#160;</a></span>BuildableType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a3654edacdfeca2ea825c5bf54a9415e1">Necroisle.BuildableType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3654edacdfeca2ea825c5bf54a9415e1a7a1920d61156abc05a60135aefe8bc67" name="a3654edacdfeca2ea825c5bf54a9415e1a7a1920d61156abc05a60135aefe8bc67"></a>Default&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3654edacdfeca2ea825c5bf54a9415e1a5174d1309f275ba6f275db3af9eb3e18" name="a3654edacdfeca2ea825c5bf54a9415e1a5174d1309f275ba6f275db3af9eb3e18"></a>Grid&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a05dd5560cd9a516278b7700df0c75f9b" name="a05dd5560cd9a516278b7700df0c75f9b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a05dd5560cd9a516278b7700df0c75f9b">&#9670;&#160;</a></span>DurabilityType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a05dd5560cd9a516278b7700df0c75f9b">Necroisle.DurabilityType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a05dd5560cd9a516278b7700df0c75f9ba6adf97f83acf6453d4a6a4b1070f3754" name="a05dd5560cd9a516278b7700df0c75f9ba6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a05dd5560cd9a516278b7700df0c75f9ba5d875354d960e47e3a97c4488c10fcb5" name="a05dd5560cd9a516278b7700df0c75f9ba5d875354d960e47e3a97c4488c10fcb5"></a>UsageCount&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a05dd5560cd9a516278b7700df0c75f9ba4bd331c66c1c3f45f62352e3d0a38b2d" name="a05dd5560cd9a516278b7700df0c75f9ba4bd331c66c1c3f45f62352e3d0a38b2d"></a>UsageTime&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a05dd5560cd9a516278b7700df0c75f9bafab8dcfcbb89f81d10a2381ffd03ab31" name="a05dd5560cd9a516278b7700df0c75f9bafab8dcfcbb89f81d10a2381ffd03ab31"></a>Spoilage&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a939b3585b9073d63e7b0c09ff163d1b9" name="a939b3585b9073d63e7b0c09ff163d1b9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a939b3585b9073d63e7b0c09ff163d1b9">&#9670;&#160;</a></span>EquipSide</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a939b3585b9073d63e7b0c09ff163d1b9">Necroisle.EquipSide</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a939b3585b9073d63e7b0c09ff163d1b9a7a1920d61156abc05a60135aefe8bc67" name="a939b3585b9073d63e7b0c09ff163d1b9a7a1920d61156abc05a60135aefe8bc67"></a>Default&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a939b3585b9073d63e7b0c09ff163d1b9a92b09c7c48c520c3c55e497875da437c" name="a939b3585b9073d63e7b0c09ff163d1b9a92b09c7c48c520c3c55e497875da437c"></a>Right&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a939b3585b9073d63e7b0c09ff163d1b9a945d5e233cf7d6240f6b783b36a374ff" name="a939b3585b9073d63e7b0c09ff163d1b9a945d5e233cf7d6240f6b783b36a374ff"></a>Left&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="afec08924fc675ab46b83cf426107e944" name="afec08924fc675ab46b83cf426107e944"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afec08924fc675ab46b83cf426107e944">&#9670;&#160;</a></span>EquipSlot</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#afec08924fc675ab46b83cf426107e944">Necroisle.EquipSlot</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="afec08924fc675ab46b83cf426107e944a6adf97f83acf6453d4a6a4b1070f3754" name="afec08924fc675ab46b83cf426107e944a6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afec08924fc675ab46b83cf426107e944aa78b1ac16c0cd02168097fc9a9bd7604" name="afec08924fc675ab46b83cf426107e944aa78b1ac16c0cd02168097fc9a9bd7604"></a>Hand&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afec08924fc675ab46b83cf426107e944a98921133d10fbdb0fb6dbb7b2648befe" name="afec08924fc675ab46b83cf426107e944a98921133d10fbdb0fb6dbb7b2648befe"></a>Head&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afec08924fc675ab46b83cf426107e944aac101b32dda4448cf13a93fe283dddd8" name="afec08924fc675ab46b83cf426107e944aac101b32dda4448cf13a93fe283dddd8"></a>Body&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afec08924fc675ab46b83cf426107e944a0f2e8e047e38898ec859c631576985e7" name="afec08924fc675ab46b83cf426107e944a0f2e8e047e38898ec859c631576985e7"></a>Feet&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afec08924fc675ab46b83cf426107e944a10df2101dd922fefc0e66be49b7723c2" name="afec08924fc675ab46b83cf426107e944a10df2101dd922fefc0e66be49b7723c2"></a>Backpack&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afec08924fc675ab46b83cf426107e944aafdf68e7bb331d324d2135699c3aa39e" name="afec08924fc675ab46b83cf426107e944aafdf68e7bb331d324d2135699c3aa39e"></a>Accessory&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afec08924fc675ab46b83cf426107e944a970da5f1f2e32aeb9e488dd017160ab4" name="afec08924fc675ab46b83cf426107e944a970da5f1f2e32aeb9e488dd017160ab4"></a>Shield&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afec08924fc675ab46b83cf426107e944a279b9715da666d337d3d864475e91573" name="afec08924fc675ab46b83cf426107e944a279b9715da666d337d3d864475e91573"></a>Slot8&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afec08924fc675ab46b83cf426107e944a0a42bd9b232997f7a0da24ed93badefb" name="afec08924fc675ab46b83cf426107e944a0a42bd9b232997f7a0da24ed93badefb"></a>Slot9&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="afec08924fc675ab46b83cf426107e944a654e15cbbd8a5eee0ea203e398cafa99" name="afec08924fc675ab46b83cf426107e944a654e15cbbd8a5eee0ea203e398cafa99"></a>Slot10&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
 </div>
@@ -273,6 +1251,201 @@ Enumerations</h2></td></tr>
 
 </div>
 </div>
+<a id="a3547d08a9da02ed98cf3dd8b8c1b62e8" name="a3547d08a9da02ed98cf3dd8b8c1b62e8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3547d08a9da02ed98cf3dd8b8c1b62e8">&#9670;&#160;</a></span>InventoryType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a3547d08a9da02ed98cf3dd8b8c1b62e8">Necroisle.InventoryType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3547d08a9da02ed98cf3dd8b8c1b62e8a6adf97f83acf6453d4a6a4b1070f3754" name="a3547d08a9da02ed98cf3dd8b8c1b62e8a6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3547d08a9da02ed98cf3dd8b8c1b62e8a4d604dd8f008145471dc845683399189" name="a3547d08a9da02ed98cf3dd8b8c1b62e8a4d604dd8f008145471dc845683399189"></a>Inventory&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3547d08a9da02ed98cf3dd8b8c1b62e8a9ccda2d50a1ee1b73ee1f048eb397aa8" name="a3547d08a9da02ed98cf3dd8b8c1b62e8a9ccda2d50a1ee1b73ee1f048eb397aa8"></a>Equipment&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3547d08a9da02ed98cf3dd8b8c1b62e8a8c4aa541ee911e8d80451ef8cc304806" name="a3547d08a9da02ed98cf3dd8b8c1b62e8a8c4aa541ee911e8d80451ef8cc304806"></a>Storage&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3547d08a9da02ed98cf3dd8b8c1b62e8ad3ab3d5184fe9b1b4428e4ffb797bdca" name="a3547d08a9da02ed98cf3dd8b8c1b62e8ad3ab3d5184fe9b1b4428e4ffb797bdca"></a>Bag&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a5775895d411549152ea927597f1ac27a" name="a5775895d411549152ea927597f1ac27a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5775895d411549152ea927597f1ac27a">&#9670;&#160;</a></span>ItemType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a5775895d411549152ea927597f1ac27a">Necroisle.ItemType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a5775895d411549152ea927597f1ac27aa972e73b7a882d0802a4e3a16946a2f94" name="a5775895d411549152ea927597f1ac27aa972e73b7a882d0802a4e3a16946a2f94"></a>Basic&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5775895d411549152ea927597f1ac27aa56fed3bd1057fee3027e20901d42f19e" name="a5775895d411549152ea927597f1ac27aa56fed3bd1057fee3027e20901d42f19e"></a>Consumable&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a5775895d411549152ea927597f1ac27aa9ccda2d50a1ee1b73ee1f048eb397aa8" name="a5775895d411549152ea927597f1ac27aa9ccda2d50a1ee1b73ee1f048eb397aa8"></a>Equipment&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a03b315034a747ded3a0f91f674356e95" name="a03b315034a747ded3a0f91f674356e95"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a03b315034a747ded3a0f91f674356e95">&#9670;&#160;</a></span>MapCaptureMode</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a03b315034a747ded3a0f91f674356e95">Necroisle.MapCaptureMode</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a03b315034a747ded3a0f91f674356e95a344a7f427fb765610ef96eb7bce95257" name="a03b315034a747ded3a0f91f674356e95a344a7f427fb765610ef96eb7bce95257"></a>Editor&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a03b315034a747ded3a0f91f674356e95abc366f2d0ba3d681e7a3899917c5d3de" name="a03b315034a747ded3a0f91f674356e95abc366f2d0ba3d681e7a3899917c5d3de"></a>Runtime&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a03b315034a747ded3a0f91f674356e95a0a7fee3bfd0727cdef27cae415b87eb2" name="a03b315034a747ded3a0f91f674356e95a0a7fee3bfd0727cdef27cae415b87eb2"></a>RuntimeUpdate&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="aaec12beeeb4425d61584b965d9accc9c" name="aaec12beeeb4425d61584b965d9accc9c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aaec12beeeb4425d61584b965d9accc9c">&#9670;&#160;</a></span>MapIconType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#aaec12beeeb4425d61584b965d9accc9c">Necroisle.MapIconType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="aaec12beeeb4425d61584b965d9accc9ca7a1920d61156abc05a60135aefe8bc67" name="aaec12beeeb4425d61584b965d9accc9ca7a1920d61156abc05a60135aefe8bc67"></a>Default&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aaec12beeeb4425d61584b965d9accc9ca636da1d35e805b00eae0fcd8333f9234" name="aaec12beeeb4425d61584b965d9accc9ca636da1d35e805b00eae0fcd8333f9234"></a>Player&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="aaec12beeeb4425d61584b965d9accc9ca0ab984d91ab0a037bdf692bf0e73c349" name="aaec12beeeb4425d61584b965d9accc9ca0ab984d91ab0a037bdf692bf0e73c349"></a>Important&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a0a5e568260acab6c021f6703f4196447" name="a0a5e568260acab6c021f6703f4196447"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0a5e568260acab6c021f6703f4196447">&#9670;&#160;</a></span>MapSaveMode</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a0a5e568260acab6c021f6703f4196447">Necroisle.MapSaveMode</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0a5e568260acab6c021f6703f4196447a0b27918290ff5323bea1e3b78a9cf04e" name="a0a5e568260acab6c021f6703f4196447a0b27918290ff5323bea1e3b78a9cf04e"></a>File&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0a5e568260acab6c021f6703f4196447a6ac5af02730d4c87bdc2257d00090333" name="a0a5e568260acab6c021f6703f4196447a6ac5af02730d4c87bdc2257d00090333"></a>RenderTexture&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a95db3c05f1b88e27af4606c3af34b5fc" name="a95db3c05f1b88e27af4606c3af34b5fc"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a95db3c05f1b88e27af4606c3af34b5fc">&#9670;&#160;</a></span>PetState</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a95db3c05f1b88e27af4606c3af34b5fc">Necroisle.PetState</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a95db3c05f1b88e27af4606c3af34b5fcae599161956d626eda4cb0a5ffb85271c" name="a95db3c05f1b88e27af4606c3af34b5fcae599161956d626eda4cb0a5ffb85271c"></a>Idle&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a95db3c05f1b88e27af4606c3af34b5fca3903aab323863bd2e9b68218a7a65ebd" name="a95db3c05f1b88e27af4606c3af34b5fca3903aab323863bd2e9b68218a7a65ebd"></a>Follow&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a95db3c05f1b88e27af4606c3af34b5fcadcfafcb4323b102c7e204555d313ba0a" name="a95db3c05f1b88e27af4606c3af34b5fcadcfafcb4323b102c7e204555d313ba0a"></a>Attack&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a95db3c05f1b88e27af4606c3af34b5fca11c3eff89f16757c6f9bf785a488d544" name="a95db3c05f1b88e27af4606c3af34b5fca11c3eff89f16757c6f9bf785a488d544"></a>Dig&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a95db3c05f1b88e27af4606c3af34b5fca7c986af4cf8f6e55a1f846dc498ce91d" name="a95db3c05f1b88e27af4606c3af34b5fca7c986af4cf8f6e55a1f846dc498ce91d"></a>Pet&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a95db3c05f1b88e27af4606c3af34b5fcad9046d3b1ebf3889943b3be3ca477613" name="a95db3c05f1b88e27af4606c3af34b5fcad9046d3b1ebf3889943b3be3ca477613"></a>MoveTo&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a95db3c05f1b88e27af4606c3af34b5fca183b62c7f067711f9c5a54913c054617" name="a95db3c05f1b88e27af4606c3af34b5fca183b62c7f067711f9c5a54913c054617"></a>Dead&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a64778320995ebc2dfdeefd4797b9c817" name="a64778320995ebc2dfdeefd4797b9c817"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a64778320995ebc2dfdeefd4797b9c817">&#9670;&#160;</a></span>PlayerAttackBehavior</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a64778320995ebc2dfdeefd4797b9c817">Necroisle.PlayerAttackBehavior</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a64778320995ebc2dfdeefd4797b9c817a4ab9f5061aa771d40b1640cbd5e1caaa" name="a64778320995ebc2dfdeefd4797b9c817a4ab9f5061aa771d40b1640cbd5e1caaa"></a>AutoAttack&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a64778320995ebc2dfdeefd4797b9c817a27927292e2c5533748fbb9c8134194be" name="a64778320995ebc2dfdeefd4797b9c817a27927292e2c5533748fbb9c8134194be"></a>ClickToHit&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a64778320995ebc2dfdeefd4797b9c817afd717fc56e019faf5bdeb3429d6eb17d" name="a64778320995ebc2dfdeefd4797b9c817afd717fc56e019faf5bdeb3429d6eb17d"></a>NoAttack&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a40de67665bb17f2283f525f39aec2e69" name="a40de67665bb17f2283f525f39aec2e69"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a40de67665bb17f2283f525f39aec2e69">&#9670;&#160;</a></span>PlayerInteractBehavior</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a40de67665bb17f2283f525f39aec2e69">Necroisle.PlayerInteractBehavior</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a40de67665bb17f2283f525f39aec2e69ac34d5930cb50e76350be22e5607b74c6" name="a40de67665bb17f2283f525f39aec2e69ac34d5930cb50e76350be22e5607b74c6"></a>MoveAndInteract&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a40de67665bb17f2283f525f39aec2e69a6e7f7f663f9a2f47b847df75454d2fa5" name="a40de67665bb17f2283f525f39aec2e69a6e7f7f663f9a2f47b847df75454d2fa5"></a>InteractOnly&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a0974a48a48ec8308afb9cc2fa8f17858" name="a0974a48a48ec8308afb9cc2fa8f17858"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0974a48a48ec8308afb9cc2fa8f17858">&#9670;&#160;</a></span>RegrowthType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a0974a48a48ec8308afb9cc2fa8f17858">Necroisle.RegrowthType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0974a48a48ec8308afb9cc2fa8f17858a7f290f53ca367f2a932e2818964865a7" name="a0974a48a48ec8308afb9cc2fa8f17858a7f290f53ca367f2a932e2818964865a7"></a>OnDeath&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0974a48a48ec8308afb9cc2fa8f17858a076b9c5b655fdc3350a7c269fb84294a" name="a0974a48a48ec8308afb9cc2fa8f17858a076b9c5b655fdc3350a7c269fb84294a"></a>OnCreate&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a043016617c6a03d22a983332ce7b2226" name="a043016617c6a03d22a983332ce7b2226"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a043016617c6a03d22a983332ce7b2226">&#9670;&#160;</a></span>SelectableType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a043016617c6a03d22a983332ce7b2226">Necroisle.SelectableType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a043016617c6a03d22a983332ce7b2226aefbc873e4634f3db63d62377d36e5f56" name="a043016617c6a03d22a983332ce7b2226aefbc873e4634f3db63d62377d36e5f56"></a>Interact&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a043016617c6a03d22a983332ce7b2226a45b12078b9b17b87e36a2170c4b1a85c" name="a043016617c6a03d22a983332ce7b2226a45b12078b9b17b87e36a2170c4b1a85c"></a>InteractBound&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a043016617c6a03d22a983332ce7b2226ac4106745af5dd2dfada617bb3629de7e" name="a043016617c6a03d22a983332ce7b2226ac4106745af5dd2dfada617bb3629de7e"></a>InteractSurface&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a043016617c6a03d22a983332ce7b2226ae4d52c176a8b281071048e4a6b5d008c" name="a043016617c6a03d22a983332ce7b2226ae4d52c176a8b281071048e4a6b5d008c"></a>CantInteract&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a043016617c6a03d22a983332ce7b2226a7b314743aeb3dc53cdb5d191ef3f6815" name="a043016617c6a03d22a983332ce7b2226a7b314743aeb3dc53cdb5d191ef3f6815"></a>CantSelect&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
 <a id="a75829dc6a7616e552e1afa2a28fcbd6f" name="a75829dc6a7616e552e1afa2a28fcbd6f"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a75829dc6a7616e552e1afa2a28fcbd6f">&#9670;&#160;</a></span>TimeType</h2>
 
@@ -291,13 +1464,87 @@ Enumerations</h2></td></tr>
 
 </div>
 </div>
+<a id="af00e38e82911e262ce77a68ed35e218e" name="af00e38e82911e262ce77a68ed35e218e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af00e38e82911e262ce77a68ed35e218e">&#9670;&#160;</a></span>TooltipTargetType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#af00e38e82911e262ce77a68ed35e218e">Necroisle.TooltipTargetType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="af00e38e82911e262ce77a68ed35e218ea086247a9b57fde6eefee2a0c4752242d" name="af00e38e82911e262ce77a68ed35e218ea086247a9b57fde6eefee2a0c4752242d"></a>Automatic&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="af00e38e82911e262ce77a68ed35e218ea90589c47f06eb971d548591f23c285af" name="af00e38e82911e262ce77a68ed35e218ea90589c47f06eb971d548591f23c285af"></a>Custom&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a2117919f742eb193572bca8f241e706a" name="a2117919f742eb193572bca8f241e706a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2117919f742eb193572bca8f241e706a">&#9670;&#160;</a></span>WanderBehavior</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a2117919f742eb193572bca8f241e706a">Necroisle.WanderBehavior</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a2117919f742eb193572bca8f241e706aa6adf97f83acf6453d4a6a4b1070f3754" name="a2117919f742eb193572bca8f241e706aa6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2117919f742eb193572bca8f241e706aa4b5e970e0c38c146db8fbb673306a1c1" name="a2117919f742eb193572bca8f241e706aa4b5e970e0c38c146db8fbb673306a1c1"></a>WanderNear&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a2117919f742eb193572bca8f241e706aac8c5eae99c01660a4475febf3bd40b47" name="a2117919f742eb193572bca8f241e706aac8c5eae99c01660a4475febf3bd40b47"></a>WanderFar&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a3ab5276cd6c371f79c3925055805bae7" name="a3ab5276cd6c371f79c3925055805bae7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3ab5276cd6c371f79c3925055805bae7">&#9670;&#160;</a></span>WeaponType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a3ab5276cd6c371f79c3925055805bae7">Necroisle.WeaponType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a3ab5276cd6c371f79c3925055805bae7a6adf97f83acf6453d4a6a4b1070f3754" name="a3ab5276cd6c371f79c3925055805bae7a6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3ab5276cd6c371f79c3925055805bae7a1e90a4310174074785da30448ee74158" name="a3ab5276cd6c371f79c3925055805bae7a1e90a4310174074785da30448ee74158"></a>WeaponMelee&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a3ab5276cd6c371f79c3925055805bae7af25c4646a0208082bb7bdbfd9846fef3" name="a3ab5276cd6c371f79c3925055805bae7af25c4646a0208082bb7bdbfd9846fef3"></a>WeaponRanged&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<a id="a866e18d088d10751872ced316bc45e1d" name="a866e18d088d10751872ced316bc45e1d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a866e18d088d10751872ced316bc45e1d">&#9670;&#160;</a></span>WeatherEffect</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespace_necroisle.html#a866e18d088d10751872ced316bc45e1d">Necroisle.WeatherEffect</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a866e18d088d10751872ced316bc45e1da6adf97f83acf6453d4a6a4b1070f3754" name="a866e18d088d10751872ced316bc45e1da6adf97f83acf6453d4a6a4b1070f3754"></a>None&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a866e18d088d10751872ced316bc45e1dade4eda51f409f7799a728d8725b340cd" name="a866e18d088d10751872ced316bc45e1dade4eda51f409f7799a728d8725b340cd"></a>Rain&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespace_necroisle.html">Necroisle</a></li>
-    <li class="footer">Generated on Sat Dec 9 2023 23:26:44 for NecroIsle by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Apr 26 2024 23:59:35 for NecroIsle by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

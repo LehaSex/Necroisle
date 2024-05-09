@@ -1,9 +1,21 @@
 var searchData=
 [
-  ['icon_0',['icon',['../class_necroisle_1_1_craft_data.html#af32204b0a3b29584643f2514f6b48b92',1,'Necroisle.CraftData.icon'],['../class_necroisle_1_1_editor_tool_1_1_create_object.html#a8422da877ee62308c2f4074ea0d6555a',1,'Necroisle.EditorTool.CreateObject.icon']]],
-  ['id_1',['id',['../class_necroisle_1_1_spawned_data.html#ab31e66e5c64fe85c4bd5c63f740d2e55',1,'Necroisle.SpawnedData.id'],['../class_necroisle_1_1_id_data.html#a7dd5b303a15594d35e1c5363c5d438ba',1,'Necroisle.IdData.id']]],
-  ['idle_5fanim_2',['idle_anim',['../class_necroisle_1_1_player_animation_controller.html#a96cd032b9a3919aa1f6df7b900553893',1,'Necroisle::PlayerAnimationController']]],
-  ['inverted_5frotate_3',['inverted_rotate',['../class_necroisle_1_1_camera_controller.html#aa2b304bf42f1c9020291af9c9a59d53d',1,'Necroisle::CameraController']]],
-  ['item_5fid_4',['item_id',['../class_necroisle_1_1_dropped_item_data.html#ac7b8c6b3167602e70601c1a2b44ecc0f',1,'Necroisle::DroppedItemData']]],
-  ['items_5ffolder_5',['items_folder',['../class_necroisle_1_1_editor_tool_1_1_create_object_settings.html#a8970f0b84fcaf6d7bc23b89a798479f6',1,'Necroisle::EditorTool::CreateObjectSettings']]]
+  ['halfedge_0',['halfedge',['../class_necroisle_1_1_world_gen_1_1_vertex.html#aa5c4878f062c32ac6f7d75186f7b4edb',1,'Necroisle.WorldGen.Vertex.halfEdge'],['../class_necroisle_1_1_world_gen_1_1_triangle.html#aa493694e6eb574913a5b7e4bc82cd52a',1,'Necroisle.WorldGen.Triangle.halfEdge']]],
+  ['hand_5fdamage_1',['hand_damage',['../class_necroisle_1_1_player_character_combat.html#a9cff12679c9479dc457ea344d02424c4',1,'Necroisle::PlayerCharacterCombat']]],
+  ['header_2',['Header',['../class_necroisle_1_1_main_menu_manager.html#a804270c5c9f83eafd71128bee722cf31',1,'Necroisle::MainMenuManager']]],
+  ['heat_3',['heat',['../class_necroisle_1_1_heat_source.html#a7dca2705869bab346283f926c9575123',1,'Necroisle::HeatSource']]],
+  ['heat_5fchange_5fspeed_4',['heat_change_speed',['../class_necroisle_1_1_player_character_heat.html#a362809881cbe332d600bf72e25e0fc9c',1,'Necroisle::PlayerCharacterHeat']]],
+  ['heat_5frange_5',['heat_range',['../class_necroisle_1_1_heat_source.html#a8642e9b4400dc47b54865e12001bd11a',1,'Necroisle::HeatSource']]],
+  ['heat_5fweight_6',['heat_weight',['../class_necroisle_1_1_heat_source.html#a95ccfed9d5b1c4dfcf61bf5117bca179',1,'Necroisle::HeatSource']]],
+  ['height_7',['height',['../class_necroisle_1_1_grass_mesh.html#ab0fe582d7deb8e4c6637822f93f9f6a6',1,'Necroisle.GrassMesh.height'],['../class_necroisle_1_1_resolution_info.html#a8f167bcb33a62d594c424a4be0a10dd8',1,'Necroisle.ResolutionInfo.height'],['../class_necroisle_1_1_tooltip_target.html#ad430faaf24f7255ea8160d7617e228e4',1,'Necroisle.TooltipTarget.height'],['../class_necroisle_1_1_tooltip_target_u_i.html#ab3aef464915a8d1e617dfee9e16d1cee',1,'Necroisle.TooltipTargetUI.height']]],
+  ['hidden_5fobjects_8',['hidden_objects',['../class_necroisle_1_1_player_data.html#a38084763d6df3cc58c9af808b72de921',1,'Necroisle::PlayerData']]],
+  ['highlight_9',['highlight',['../class_necroisle_1_1_action_selector_button.html#a1ef740ac27840bcf7da9547881085bca',1,'Necroisle.ActionSelectorButton.highlight'],['../class_necroisle_1_1_category_slot.html#a7d91ce4a331371fca5dc1553b4a98929',1,'Necroisle.CategorySlot.highlight'],['../class_necroisle_1_1_item_slot.html#a8807c98aaa006226d50ea3ab157752c7',1,'Necroisle.ItemSlot.highlight']]],
+  ['hit_5ffx_10',['hit_fx',['../class_necroisle_1_1_destructible.html#a5eda003c8cb99bc11334c2309cfa222c',1,'Necroisle.Destructible.hit_fx'],['../class_necroisle_1_1_player_character_combat.html#ae96900d14ba98161590b7429847d9332',1,'Necroisle.PlayerCharacterCombat.hit_fx']]],
+  ['hit_5frange_11',['hit_range',['../class_necroisle_1_1_destructible.html#af4167698d8e508b1d3eba0f74922764b',1,'Necroisle::Destructible']]],
+  ['hit_5fsound_12',['hit_sound',['../class_necroisle_1_1_destructible.html#af435b32239c1d53ea344cb5a1b41a7e8',1,'Necroisle.Destructible.hit_sound'],['../class_necroisle_1_1_player_character_combat.html#ad34cf98cc3f00c7482900d386409aedc',1,'Necroisle.PlayerCharacterCombat.hit_sound']]],
+  ['hoe_5fanim_13',['hoe_anim',['../class_necroisle_1_1_player_animation_controller.html#a68576349ec4764afbfe1b2d82f2e1fd9',1,'Necroisle::PlayerAnimationController']]],
+  ['hover_5fdist_14',['hover_dist',['../class_necroisle_1_1_map_viewer.html#adab764c3fdbd46218ce2c2e7ca1ddb32',1,'Necroisle::MapViewer']]],
+  ['hp_15',['hp',['../class_necroisle_1_1_destructible.html#a5a85a045a806ad6cb172d915c5ca0c5c',1,'Necroisle::Destructible']]],
+  ['hp_5fbar_16',['hp_bar',['../class_necroisle_1_1_destructible.html#aeabb50e4c6b87ad19f82e7192af1f5e2',1,'Necroisle::Destructible']]],
+  ['hp_5fregen_17',['hp_regen',['../class_necroisle_1_1_destructible.html#a373b1ee3e6e60cd799fa31540d2126b1',1,'Necroisle::Destructible']]]
 ];

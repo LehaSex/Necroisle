@@ -1,0 +1,5 @@
+<map id="Necroisle.Plant.GetDestructible" name="Necroisle.Plant.GetDestructible">
+<area shape="rect" id="Node000001" title=" " alt="" coords="224,13,428,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_cut_plant.html#a560d04effa359a540d3b7b1d30cdeb06" title=" " alt="" coords="5,5,176,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,28,177,28,177,23,208,23"/>
+</map>

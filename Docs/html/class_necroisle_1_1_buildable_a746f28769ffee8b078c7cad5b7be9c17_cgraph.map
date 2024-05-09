@@ -1,0 +1,5 @@
+<map id="Necroisle.Buildable.FindBuildPosition" name="Necroisle.Buildable.FindBuildPosition">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,168,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_physics_tool.html#a9e30237e7b50e002b838e36e18eae929" title=" " alt="" coords="216,5,419,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,23,200,23,200,28,168,28"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Necroisle.AnimalRide.StopMove" name="Necroisle.AnimalRide.StopMove">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,212,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_character.html#a0e4e432711b3a28e9f458ad7fe3a3325" title=" " alt="" coords="260,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,15,244,15,244,21,212,21"/>
+</map>

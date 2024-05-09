@@ -1,0 +1,17 @@
+<map id="Necroisle.PlayerController.Interact" name="Necroisle.PlayerController.Interact">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,181,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_selectable.html#aaf3e98aa087d60dcfda358d986ea2453" title=" " alt="" coords="234,5,401,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,42,218,37,219,42,182,47"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_controller.html#afe72ed528acb6836c230d1ca314183dc" title=" " alt="" coords="229,69,405,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,67,214,72,213,77,181,73"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_selectable.html#af9aceba75084b2c27407fbfb29ae71a4" title=" " alt="" coords="458,5,625,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="401,23,442,23,442,28,401,28"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_controller.html#a9ad24f4514f8f4e11809df8d7782c0e9" title=" " alt="" coords="453,69,629,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="406,87,438,87,438,92,406,92"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_character_ride.html#a8083d50d048fde00ea98e34e29feb120" title=" " alt="" coords="679,37,852,77"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="629,74,663,69,663,75,630,79"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_player_controller.html#a6c5954cbafe06586f5997c6c1a44ead3" title=" " alt="" coords="677,101,853,141"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="630,99,662,104,661,109,629,105"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_player_character_ride.html#abad40c8c46cc064082d5e31bab2908e7" title=" " alt="" coords="901,101,1075,141"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="854,119,886,119,886,124,854,124"/>
+</map>

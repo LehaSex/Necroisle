@@ -1,11 +1,17 @@
 {
   "dependencies": {
     "com.caseydecoder.doxygengenerator": {
-      "version": "https://github.com/CaseyHofland/DoxygenGenerator.git",
+      "version": "https://github.com/MrVester/BlockSchemeGenerator.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "0bac2f62fcb0acd970bcfc04515fdc1519b6d54f"
+      "hash": "786153aa943bf839256ecffbde2adf3bc9644cc9"
+    },
+    "com.unity.2d.sprite": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
     },
     "com.unity.collab-proxy": {
       "version": "1.17.2",
@@ -180,6 +186,13 @@
         "com.unity.modules.jsonserialize": "1.0.0"
       },
       "url": "https://packages.unity.com"
+    },
+    "me.ameye.prefab-painter": {
+      "version": "https://github.com/alexanderameye/prefab-painter.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "f78b6b205ab54296ca4fd27c509a665367f84347"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",

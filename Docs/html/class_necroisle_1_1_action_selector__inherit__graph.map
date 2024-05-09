@@ -1,0 +1,9 @@
+<map id="Necroisle.ActionSelector" name="Necroisle.ActionSelector">
+<area shape="rect" id="Node000001" title="ActionSelector is the panel that popup and allow you to pick an action to do when you click on a sele..." alt="" coords="5,1185,163,1451"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot_panel.html" title="Basic class for any panel containing slots that can be selected." alt="" coords="14,492,154,1137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,1152,87,1185,81,1185,81,1152"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_u_i_panel.html" title="Generic script for any UI panel, can be inherited." alt="" coords="28,119,140,444"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,459,87,492,81,492,81,459"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="33,5,135,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,85,87,119,81,119,81,85"/>
+</map>

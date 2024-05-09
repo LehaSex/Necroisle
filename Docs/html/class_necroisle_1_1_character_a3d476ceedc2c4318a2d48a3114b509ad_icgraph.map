@@ -1,0 +1,9 @@
+<map id="Necroisle.Character.IsMoving" name="Necroisle.Character.IsMoving">
+<area shape="rect" id="Node000001" title=" " alt="" coords="477,38,668,63"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_animal_ride.html#a5c52668233b393eb12eadb5bcbf15d0e" title=" " alt="" coords="229,13,429,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="462,42,430,38,430,33,462,37"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_pet.html#a50f27316b03083954909cca2ae6fc7a6" title=" " alt="" coords="252,62,407,87"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="462,64,407,70,407,64,462,59"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_controller.html#af80eef9962aab58635ef124c54fd0642" title=" " alt="" coords="5,5,181,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="214,28,182,28,182,23,214,23"/>
+</map>

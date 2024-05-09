@@ -1,0 +1,9 @@
+<map id="Necroisle.MapViewer.WorldToCanvasPos" name="Necroisle.MapViewer.WorldToCanvasPos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,188,63"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_tool.html#ab9a6a5861df52c712bb62e7eac60a150" title=" " alt="" coords="236,23,417,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,41,221,41,221,46,189,46"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_zone.html#a802f071ff674c4e7e2e95157d8bf8153" title=" " alt="" coords="509,5,668,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="418,32,493,24,494,30,418,37"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_zone.html#a23ddc3c1f7d659769ae3b06aec04fd0b" title=" " alt="" coords="465,55,712,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="418,49,450,52,450,57,418,54"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Necroisle.ReadPanel.ShowPanel" name="Necroisle.ReadPanel.ShowPanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,184,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_panel.html#ae5ae64091d18f4ab546d73ce67dd04d1" title=" " alt="" coords="232,13,393,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,23,217,23,217,28,184,28"/>
+</map>

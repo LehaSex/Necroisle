@@ -1,0 +1,5 @@
+<map id="Necroisle.GrassMesh" name="Necroisle.GrassMesh">
+<area shape="rect" id="Node000001" title="Generates a grass mesh in a square shape." alt="" coords="5,119,144,224"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="23,5,126,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="77,85,77,119,72,119,72,85"/>
+</map>

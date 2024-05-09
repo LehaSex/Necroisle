@@ -1,0 +1,9 @@
+<map id="Necroisle.PlayerCharacterCraft" name="Necroisle.PlayerCharacterCraft">
+<area shape="rect" id="Node000001" title="Class that manages the player character crafting and building." alt="" coords="6,288,201,1108"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,140,108,205"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,220,70,288,64,289,58,220"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_group_data.html" title="A group doesn&#39;t do anything by itself, but it serves to reference objects as a group instead of refer..." alt="" coords="132,120,267,225"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="193,226,184,272,179,271,187,225"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="144,5,255,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="202,86,202,120,197,120,197,86"/>
+</map>

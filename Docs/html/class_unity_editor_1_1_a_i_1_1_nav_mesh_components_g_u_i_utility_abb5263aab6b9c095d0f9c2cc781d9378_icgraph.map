@@ -1,0 +1,7 @@
+<map id="UnityEditor.AI.NavMeshComponentsGUIUtility.AgentMaskPopup" name="UnityEditor.AI.NavMeshComponentsGUIUtility.AgentMaskPopup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="257,37,489,77"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_a_i_1_1_nav_mesh_modifier_editor.html#a572f1742afd868908d11b0f5ad36453c" title=" " alt="" coords="5,5,209,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,44,210,40,210,35,242,39"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_a_i_1_1_nav_mesh_modifier_volume_editor.html#a1691fedc7d5772f04c10ac7cd60e98e5" title=" " alt="" coords="5,69,209,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,76,210,80,210,74,241,71"/>
+</map>

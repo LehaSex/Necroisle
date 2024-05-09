@@ -1,0 +1,5 @@
+<map id="Necroisle.Character.GetFacing" name="Necroisle.Character.GetFacing">
+<area shape="rect" id="Node000001" title=" " alt="" coords="224,13,424,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_animal_ride.html#a1e1342b5e077f6db941afb0b6ea6fea4" title=" " alt="" coords="5,5,176,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,28,177,28,177,23,208,23"/>
+</map>

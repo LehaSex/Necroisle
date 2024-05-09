@@ -1,0 +1,7 @@
+<map id="UnityEditor.AI.NavMeshAssetManager.StartBakingSurfaces" name="UnityEditor.AI.NavMeshAssetManager.StartBakingSurfaces">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,200,45"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#afe022e3ea5130431bae0366ff2df756a" title=" " alt="" coords="248,5,461,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,23,233,23,233,28,200,28"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#a29b3013714ce2cb0f40489b0094cde15" title=" " alt="" coords="509,5,723,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="462,23,494,23,494,28,462,28"/>
+</map>

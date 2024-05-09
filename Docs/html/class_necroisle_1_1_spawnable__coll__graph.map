@@ -1,0 +1,15 @@
+<map id="Necroisle.Spawnable" name="Necroisle.Spawnable">
+<area shape="rect" id="Node000001" title="Generic object that can be spawned, but that is not craftable, all spawns are saved in the save file." alt="" coords="97,537,232,783"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_n_object.html" title="Base class for either Craftables or Spawnables, has generic static useful functions." alt="" coords="5,349,156,475"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,488,126,537,121,538,104,490"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="29,235,132,300"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,315,83,350,78,350,78,315"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_spawn_data.html" title="This is a generic spawn data to spawn any generic prefabs that are not Constructions,..." alt="" coords="181,359,319,465"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="235,465,215,522,210,520,230,463"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_id_data.html" title="IdData adds an ID to the class." alt="" coords="225,235,275,300"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="253,315,253,359,247,359,247,315"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_s_data.html" title="SData is the base scriptable object data for this engine." alt="" coords="225,120,275,185"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="253,201,253,235,247,235,247,201"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="195,5,305,71"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="253,86,253,120,247,120,247,86"/>
+</map>

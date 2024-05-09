@@ -1,0 +1,7 @@
+<map id="Necroisle.UISlotPanel.GetDragSlot" name="Necroisle.UISlotPanel.GetDragSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="257,27,431,67"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_u_i.html#a43ce90e04b420555eafcc4fea58e5366" title=" " alt="" coords="5,5,209,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="241,37,210,33,210,28,242,32"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_slot_panel.html#a5e0f544eb504eac07b519c21c5959dcc" title=" " alt="" coords="25,55,190,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,62,191,68,190,63,242,57"/>
+</map>

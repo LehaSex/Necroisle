@@ -1,0 +1,9 @@
+<map id="Necroisle.Firepit" name="Necroisle.Firepit">
+<area shape="rect" id="Node000001" title="Firepits can be fueled with wood or other materials." alt="" coords="48,288,159,533"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,140,108,205"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,220,82,288,77,289,63,221"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_group_data.html" title="A group doesn&#39;t do anything by itself, but it serves to reference objects as a group instead of refer..." alt="" coords="132,120,267,225"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,226,162,274,157,272,176,224"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="144,5,255,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="202,86,202,120,197,120,197,86"/>
+</map>

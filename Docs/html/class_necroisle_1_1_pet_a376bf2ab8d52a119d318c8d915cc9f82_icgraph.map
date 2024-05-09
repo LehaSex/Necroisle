@@ -1,0 +1,17 @@
+<map id="Necroisle.Pet.HasMaster" name="Necroisle.Pet.HasMaster">
+<area shape="rect" id="Node000001" title=" " alt="" coords="453,119,620,145"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_pet_tame.html#a78c577e32cdb757ac142e8f335cb417d" title=" " alt="" coords="232,5,405,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,113,404,60,378,48,380,44,407,55,503,108"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_pet.html#a0ef2950e9cd0ec32b76151593c30b038" title=" " alt="" coords="248,70,389,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="462,118,377,99,378,93,463,113"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_pet.html#a34f9b31f558c059fc24ea550ddb92995" title=" " alt="" coords="233,119,404,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="437,135,405,135,405,129,437,129"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_pet.html#aaadffc50be609aea034068d9cc889898" title=" " alt="" coords="241,169,397,194"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="463,151,378,171,377,165,462,146"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_pet.html#a15c8498b59fbb383a97a9b781aac6895" title=" " alt="" coords="234,218,403,243"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="505,156,459,183,406,209,376,220,374,215,404,204,457,178,502,151"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_action_pet_follow.html#a52d7ffc840065da3f02d23fd605f8d34" title=" " alt="" coords="5,63,184,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="233,85,184,85,184,80,233,80"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_action_pet_tame.html#a96befea28f437cf2eab3755e53b61f94" title=" " alt="" coords="8,161,181,201"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="226,184,182,184,182,179,226,179"/>
+</map>

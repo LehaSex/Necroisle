@@ -1,0 +1,15 @@
+<map id="Necroisle.PlayerCharacterAttribute.GetAttributeMax" name="Necroisle.PlayerCharacterAttribute.GetAttributeMax">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,179,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_attribute.html#af4a99703b66c99cef35f3cf75823d016" title=" " alt="" coords="237,5,411,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="166,66,234,47,235,52,168,71"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_bonus_effect_data.html#a5861fd2b6794c24fb02b518031b1a9fd" title=" " alt="" coords="233,69,415,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,87,217,87,217,92,179,92"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_character_attribute.html#adc1aa06b2fe24bbc7047f0af01dcc640" title=" " alt="" coords="227,133,421,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="168,107,235,126,234,131,166,113"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_character_attribute.html#a2ae91eb6cc9b6a9f9d50746d8445f431" title=" " alt="" coords="469,133,700,173"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="422,151,454,151,454,156,422,156"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_item_data.html#ace6ab6611cc54017e60f3985708ba674" title=" " alt="" coords="761,115,919,141"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="700,139,745,135,746,140,701,145"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_bonus_aura.html#a114b0e22915728eb7cebccb3dc59593c" title=" " alt="" coords="748,165,932,190"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="701,162,733,165,732,170,700,167"/>
+</map>

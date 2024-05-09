@@ -1,0 +1,9 @@
+<map id="Necroisle.ActionRide.CanDoAction" name="Necroisle.ActionRide.CanDoAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,176,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_animal_ride.html#a42aca3d87bea871301761b49196dfc44" title=" " alt="" coords="224,13,415,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,23,208,23,208,28,176,28"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_character.html#a07b22c0a2d90286cc755663d86a35696" title=" " alt="" coords="463,13,643,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="415,23,447,23,447,28,415,28"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_destructible.html#a8d379474023260f276febfa1b397b6f5" title=" " alt="" coords="691,13,884,38"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="643,23,675,23,675,28,643,28"/>
+</map>

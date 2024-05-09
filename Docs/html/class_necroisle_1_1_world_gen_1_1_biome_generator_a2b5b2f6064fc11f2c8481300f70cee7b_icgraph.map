@@ -1,0 +1,5 @@
+<map id="Necroisle.WorldGen.BiomeGenerator.SaveWorld" name="Necroisle.WorldGen.BiomeGenerator.SaveWorld">
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,5,451,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_biome_generator.html#a2febef376fcfd6bc8090c45023104f7e" title=" " alt="" coords="5,5,224,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,28,225,28,225,23,256,23"/>
+</map>

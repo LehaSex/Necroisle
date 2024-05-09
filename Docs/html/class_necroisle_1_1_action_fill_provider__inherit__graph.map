@@ -1,0 +1,9 @@
+<map id="Necroisle.ActionFillProvider" name="Necroisle.ActionFillProvider">
+<area shape="rect" id="Node000001" title="Fill a jug with item from item provider." alt="" coords="5,545,177,631"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_m_action.html" title="Merge Action parent class: Any action that happens when mixing two items (ex: coconut and axe),..." alt="" coords="36,332,147,497"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,512,94,546,89,546,89,512"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_s_action.html" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="36,119,147,284"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,299,94,332,89,332,89,299"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="36,5,147,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,85,94,119,89,119,89,85"/>
+</map>

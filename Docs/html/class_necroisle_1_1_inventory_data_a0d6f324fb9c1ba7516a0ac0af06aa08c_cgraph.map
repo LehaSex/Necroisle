@@ -1,0 +1,7 @@
+<map id="Necroisle.InventoryData.GetEquippedWeaponSlot" name="Necroisle.InventoryData.GetEquippedWeaponSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,173,63"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_data.html#ace6ab6611cc54017e60f3985708ba674" title=" " alt="" coords="240,5,397,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,31,224,26,225,31,174,37"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_data.html#a83b49ead0e7561f5a3dcd13db0872256" title=" " alt="" coords="221,55,416,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,49,206,53,205,58,174,55"/>
+</map>

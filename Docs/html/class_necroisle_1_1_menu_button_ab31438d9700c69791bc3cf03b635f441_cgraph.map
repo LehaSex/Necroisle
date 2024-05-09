@@ -1,0 +1,5 @@
+<map id="Necroisle.MenuButton.Awake" name="Necroisle.MenuButton.Awake">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,199,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_menu_button.html#abb8a1b8f7b74e62329983b7547fbe301" title=" " alt="" coords="247,5,421,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,23,231,23,231,28,199,28"/>
+</map>

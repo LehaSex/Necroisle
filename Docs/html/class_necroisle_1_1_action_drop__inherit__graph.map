@@ -1,0 +1,7 @@
+<map id="Necroisle.ActionDrop" name="Necroisle.ActionDrop">
+<area shape="rect" id="Node000001" title="Drop an item." alt="" coords="5,332,141,397"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_s_action.html" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="18,119,129,284"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,299,76,332,71,332,71,299"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="18,5,129,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="76,85,76,119,71,119,71,85"/>
+</map>

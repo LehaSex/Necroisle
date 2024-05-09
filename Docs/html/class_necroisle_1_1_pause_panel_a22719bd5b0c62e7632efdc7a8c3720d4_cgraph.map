@@ -1,0 +1,10 @@
+<map id="Necroisle.PausePanel.OnClickMusicToggle" name="Necroisle.PausePanel.OnClickMusicToggle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,17,205,57"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_data.html#a3a1b590972f900f8d1e6813ef3f48f8b" title=" " alt="" coords="484,28,653,54"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,15,253,9,345,3,436,9,506,21,505,27,436,14,345,8,254,14,206,20"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_the_audio.html#a6bbcfb87bacfef5cdbe5ea90976db3c8" title=" " alt="" coords="265,24,424,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,34,250,34,250,40,206,40"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_the_audio.html#a738a56a4dca62afbe596ad29a2558d88" title=" " alt="" coords="253,74,436,114"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,55,244,67,243,73,191,60"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="431,71,497,55,498,60,432,76"/>
+</map>

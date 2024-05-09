@@ -1,0 +1,5 @@
+<map id="Necroisle.DigSpot" name="Necroisle.DigSpot">
+<area shape="rect" id="Node000001" title="Spot that can be digged with a shovel, will gain loots from the destructible." alt="" coords="5,119,124,224"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="13,5,116,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,85,67,119,62,119,62,85"/>
+</map>

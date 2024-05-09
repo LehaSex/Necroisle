@@ -1,0 +1,13 @@
+<map id="Necroisle.ItemSlotPanel.Update" name="Necroisle.ItemSlotPanel.Update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,171,103"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_slot_panel.html#ac5a8e74610a71ea6a1628dd87e7ad49e" title=" " alt="" coords="219,63,384,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,80,203,80,203,85,171,85"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_controller.html#a984d8d9f8543c5491d1b75ab9942761e" title=" " alt="" coords="439,5,615,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,60,430,47,432,52,383,65"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_u_i.html#afa865821b9f33aa5dd5c2d928b57a7fc" title=" " alt="" coords="432,70,623,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="385,80,417,80,417,85,385,85"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_item_slot_panel.html#ab11fb14caa3c3081e2e174a6be4b183b" title=" " alt="" coords="445,120,610,160"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="383,101,432,113,430,118,382,106"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_controller.html#a26ca3e925bbd306909355b2b9865d3b8" title=" " alt="" coords="671,70,868,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="623,80,655,80,655,85,623,85"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Necroisle.TheUI.RaycastAllUI" name="Necroisle.TheUI.RaycastAllUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,35,423,60"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_the_u_i.html#a3233e00efd5533e864eeebdb7615a9cb" title=" " alt="" coords="5,5,183,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,36,183,32,183,27,216,31"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_action_selector.html#af1c3a402a94dc5d71aa6820e6beffab5" title=" " alt="" coords="9,55,179,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,63,180,68,179,62,215,58"/>
+</map>

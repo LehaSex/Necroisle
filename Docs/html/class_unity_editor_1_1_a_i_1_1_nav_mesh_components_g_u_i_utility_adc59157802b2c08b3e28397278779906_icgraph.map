@@ -1,0 +1,9 @@
+<map id="UnityEditor.AI.NavMeshComponentsGUIUtility.CreateAndSelectGameObject" name="UnityEditor.AI.NavMeshComponentsGUIUtility.CreateAndSelectGameObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="293,77,545,117"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_a_i_1_1_nav_mesh_link_editor.html#a03143817f1723cad74f8133210173020" title=" " alt="" coords="34,5,217,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="319,76,210,49,211,43,321,71"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_a_i_1_1_nav_mesh_modifier_volume_editor.html#ae11cb0e71942b612c58cb0a495035b80" title=" " alt="" coords="5,70,245,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="278,100,246,100,246,95,278,95"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_a_i_1_1_nav_mesh_surface_editor.html#aef0aa706a714ba527984e415a08cbf3c" title=" " alt="" coords="24,149,227,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="321,124,211,151,210,146,319,119"/>
+</map>

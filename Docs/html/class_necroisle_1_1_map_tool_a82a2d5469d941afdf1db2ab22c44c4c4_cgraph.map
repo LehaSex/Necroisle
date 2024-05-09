@@ -1,0 +1,9 @@
+<map id="Necroisle.MapTool.GetFogMapPos" name="Necroisle.MapTool.GetFogMapPos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,181,63"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_settings_data.html#a46c45507ad6346eb1cafc65e432c22a5" title=" " alt="" coords="229,31,435,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,41,214,41,214,46,182,46"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_level_settings.html#ad653f8623d3826d9452c5cfd21c03871" title=" " alt="" coords="483,5,689,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="435,30,467,27,467,32,435,36"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_manager.html#a256db9daf719656c4481c52f0781e4bd" title=" " alt="" coords="496,55,676,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="435,50,481,55,480,60,435,56"/>
+</map>

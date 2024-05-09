@@ -1,0 +1,11 @@
+<map id="Necroisle.Selectable.GetNearestAutoInteract" name="Necroisle.Selectable.GetNearestAutoInteract">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,172,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_selectable.html#aae00b1efe40b4849120cff1c0a06f677" title=" " alt="" coords="220,5,388,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,42,204,37,205,43,173,48"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_selectable.html#aaf3e98aa087d60dcfda358d986ea2453" title=" " alt="" coords="221,69,387,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="173,67,206,72,205,77,172,72"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_selectable.html#a580358d54170b659bb10a0b252bb3f07" title=" " alt="" coords="436,5,604,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,23,420,23,420,28,388,28"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_selectable.html#af9aceba75084b2c27407fbfb29ae71a4" title=" " alt="" coords="437,69,603,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="388,87,421,87,421,92,388,92"/>
+</map>

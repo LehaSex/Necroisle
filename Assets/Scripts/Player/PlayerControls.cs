@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 namespace Necroisle
 {
@@ -8,6 +10,7 @@ namespace Necroisle
     /// <summary>
     /// Keyboard controls manager
     /// </summary>
+    
 
     public class PlayerControls : MonoBehaviour
     {
@@ -27,6 +30,7 @@ namespace Necroisle
         public KeyCode ui_select = KeyCode.Return;
         public KeyCode ui_use = KeyCode.RightShift;
         public KeyCode ui_cancel = KeyCode.Backspace;
+        public KeyCode map_key = KeyCode.M;
 
         [Header("Menu")]
         public KeyCode menu_accept = KeyCode.Return;
@@ -51,6 +55,7 @@ namespace Necroisle
         public PressAction gamepad_action; //A
         public PressAction gamepad_attack; //X or R1
         public PressAction gamepad_jump; //Y
+        public PressAction gamepad_map; //Y
         public PressAction gamepad_craft; //L1
         public PressAction gamepad_use; //X
         public PressAction gamepad_accept; //A
@@ -69,6 +74,7 @@ namespace Necroisle
         private bool press_attack;
         private bool press_jump;
         private bool press_craft;
+        private bool press_map;
 
         private bool press_accept;
         private bool press_cancel;
@@ -77,18 +83,22 @@ namespace Necroisle
         private bool press_ui_use;
         private bool press_ui_cancel;
 
+        private float use_mouse_timer = 0f;
+        private float use_key_timer = 0f;
+        private Vector3 mouse_pos;
+
         private static PlayerControls control_first = null;
         private static List<PlayerControls> controls = new List<PlayerControls>();
-
+        
         void Awake()
-        {
+        {    
             controls.Add(this);
-
             if (control_first == null || player_id < control_first.player_id)
                 control_first = this;
-
 /*             if (TheGame.IsMobile())
                 gamepad_controls = false; //No gamepad on mobile */
+
+                
         }
 
         private void OnDestroy()
@@ -114,6 +124,7 @@ namespace Necroisle
             press_ui_select = false;
             press_ui_use = false;
             press_ui_cancel = false;
+            press_map = false;
 
             Vector2 wasd = Vector2.zero;
             if (Input.GetKey(KeyCode.A))
@@ -162,6 +173,8 @@ namespace Necroisle
                 press_ui_use = true;
             if (Input.GetKeyDown(ui_cancel))
                 press_ui_cancel = true;
+            if (Input.GetKeyDown(map_key))
+                press_map = true;
 
             Vector2 both = (arrows + wasd);
             move = gamepad_controls ? new Vector3(wasd.x, 0f, wasd.y) : new Vector3(wasd.x, 0f, wasd.y);
@@ -209,12 +222,23 @@ namespace Necroisle
                 press_ui_select = press_ui_select || gamepad_accept.Invoke();
                 press_ui_use = press_ui_use || gamepad_use.Invoke();
                 press_ui_cancel = press_ui_cancel || gamepad_cancel.Invoke();
+                press_map = press_map || gamepad_map.Invoke();
 
                 gamepad_update?.Invoke();
             }
 
             move = move.normalized * Mathf.Min(move.magnitude, 1f);
             freelook = freelook.normalized * Mathf.Min(freelook.magnitude, 1f);
+
+            use_mouse_timer += Time.deltaTime;
+            use_key_timer += Time.deltaTime;
+            if((mouse_pos - Input.mousePosition).magnitude > 0.1f)
+                use_mouse_timer = 0f;
+            if(Input.GetMouseButton(0))
+                use_mouse_timer = 0f;
+            if (move.magnitude > 0.1f || press_accept)
+                use_key_timer = 0f;
+            mouse_pos = Input.mousePosition;
         }
 
         public Vector3 GetMove() { return move; }
@@ -247,6 +271,11 @@ namespace Necroisle
         public bool IsMenuPressRight() { return menu_move.x > 0.5f; }
         public bool IsMenuPressUp() { return menu_move.y > 0.5f; }
         public bool IsMenuPressDown() { return menu_move.y < -0.5f; }
+        public bool IsPressMap() { return press_map; }
+        public bool IsUseMouse()
+        {
+            return Input.mousePresent && use_mouse_timer < use_key_timer + 1f;
+        }
 
         public bool IsPressedByName(string name)
         {

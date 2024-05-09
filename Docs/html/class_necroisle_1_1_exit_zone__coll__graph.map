@@ -1,0 +1,5 @@
+<map id="Necroisle.ExitZone" name="Necroisle.ExitZone">
+<area shape="rect" id="Node000001" title="Zone to change scene when you enter this zone, make sure there is also a trigger collider." alt="" coords="5,119,128,264"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="15,5,118,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,86,69,119,64,119,64,86"/>
+</map>

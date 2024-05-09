@@ -1,0 +1,9 @@
+<map id="Necroisle.CraftStation.GetNearestInRange" name="Necroisle.CraftStation.GetNearestInRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="463,37,636,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_craft.html#adf2057b0f9462caee6a90b01a5e113b3" title=" " alt="" coords="241,5,415,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="447,45,415,41,416,35,448,40"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_character_craft.html#a4f5800c839a1667e99b2b5ca6516bff0" title=" " alt="" coords="241,69,415,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="448,75,416,79,415,74,447,69"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_craft_panel.html#ab3277d34d0060311e9fba414e62771e6" title=" " alt="" coords="5,69,193,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="226,92,194,92,194,87,226,87"/>
+</map>

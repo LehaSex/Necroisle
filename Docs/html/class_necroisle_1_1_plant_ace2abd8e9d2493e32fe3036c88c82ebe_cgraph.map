@@ -1,0 +1,13 @@
+<map id="Necroisle.Plant.CountInRange" name="Necroisle.Plant.CountInRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,200,56"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_plant.html#a6f16488b51d36fb89c43a761f31dd365" title=" " alt="" coords="248,5,399,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,29,233,26,233,31,201,35"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_plant.html#a7163c9924220aa5bbb156824526a06a4" title=" " alt="" coords="248,55,399,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,51,233,55,233,60,200,57"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_buildable.html#aaf2d9256111f0f7f6838c07f4cc211f5" title=" " alt="" coords="447,29,640,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="399,56,431,52,432,58,399,61"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_plant.html#a7fa60409e6a23a451af4a9bc947cf9ca" title=" " alt="" coords="466,79,621,104"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="399,73,451,79,450,84,399,78"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_destructible.html#a8d379474023260f276febfa1b397b6f5" title=" " alt="" coords="688,79,881,104"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="621,89,672,89,672,94,621,94"/>
+</map>

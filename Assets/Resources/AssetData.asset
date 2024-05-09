@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95a6c570bfbd40e42b13b0db6f77e384, type: 3}
+  m_Name: AssetData
+  m_EditorClassIdentifier: 
+  ui_canvas: {fileID: 1232381448471278930, guid: 4f55081642c039f48a24db34d8a4709c, type: 3}
+  ui_canvas_mobile: {fileID: 1232381448471278930, guid: 2b7088afbbb10244186bde16326da911, type: 3}
+  audio_manager: {fileID: 5708119964492820813, guid: fa6acc6ac379d6443b2ed48be60e54e5, type: 3}
+  action_selector: {fileID: 6895896490523729839, guid: bbcf7b3bf5076894597d75166b41b44a, type: 3}
+  action_progress: {fileID: 6895896490523729839, guid: f6a4b49477e65d24c9d10db0e01489a2, type: 3}
+  item_take_fx: {fileID: 2411029866222914402, guid: 53ce9b2b9b0c65147af029ba16673a3d, type: 3}
+  item_select_fx: {fileID: 2411029866222914402, guid: f68838033cd326b469cd07e58a4741cf, type: 3}
+  item_drag_fx: {fileID: 2411029866222914402, guid: 6e3b161fa9dbc6d4392a9902f8cacc5a, type: 3}
+  item_merge_fx: {fileID: 2411029866222914402, guid: b3e32580ca48de34487b0489f5586fdf, type: 3}

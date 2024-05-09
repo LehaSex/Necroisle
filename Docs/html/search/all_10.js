@@ -1,27 +1,6 @@
 var searchData=
 [
-  ['r_0',['r',['../struct_necroisle_1_1_r_g_b.html#a60b2844d63f1f362510284665539ae7d',1,'Necroisle::RGB']]],
-  ['raycastcollision_1',['RaycastCollision',['../class_necroisle_1_1_phys_tool.html#a4452517728166c7985e835cff66cc830',1,'Necroisle::PhysTool']]],
-  ['raycastcollisionlayer_2',['RaycastCollisionLayer',['../class_necroisle_1_1_phys_tool.html#a3b807af7680b5f100afe5d1b5f563984',1,'Necroisle::PhysTool']]],
-  ['readme_2emd_3',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['recolor_4',['recolor',['../class_necroisle_1_1_map_chunk.html#a53345771f55afb6fc7cd7e51c7c4ceda',1,'Necroisle::MapChunk']]],
-  ['recolormap_5',['recolorMap',['../class_necroisle_1_1_map_generator.html#afd332927f47a0f9e0263df54e9a331f1',1,'Necroisle::MapGenerator']]],
-  ['regrowthdata_6',['RegrowthData',['../class_necroisle_1_1_regrowth_data.html',1,'Necroisle']]],
-  ['removeallcustom_7',['RemoveAllCustom',['../class_necroisle_1_1_player_data.html#a2abcacc67f8234065b7ab605167ae2e7',1,'Necroisle::PlayerData']]],
-  ['removeallsubuids_8',['RemoveAllSubUIDs',['../class_necroisle_1_1_unique_i_d.html#ad7308759769b4c9089fae3de959c5cd5',1,'Necroisle::UniqueID']]],
-  ['removecharacter_9',['RemoveCharacter',['../class_necroisle_1_1_player_data.html#a3c06bbd5b9272228036da8bec287d2dd',1,'Necroisle::PlayerData']]],
-  ['removeconstruction_10',['RemoveConstruction',['../class_necroisle_1_1_player_data.html#aad93df8f4f3cc5f82213441b11ce6c2c',1,'Necroisle::PlayerData']]],
-  ['removecustomfloat_11',['RemoveCustomFloat',['../class_necroisle_1_1_player_data.html#ae05d6aed9cab6fd1c37e0c6f1ea8490b',1,'Necroisle::PlayerData']]],
-  ['removecustomint_12',['RemoveCustomInt',['../class_necroisle_1_1_player_data.html#af338c06b4c522412c16cbc824c46fbdc',1,'Necroisle::PlayerData']]],
-  ['removecustomstring_13',['RemoveCustomString',['../class_necroisle_1_1_player_data.html#a9ee167460f2f07e0fc4728e1af8bb9d6',1,'Necroisle::PlayerData']]],
-  ['removed_5fobjects_14',['removed_objects',['../class_necroisle_1_1_player_data.html#a13709696b71861058c3b6adc8fe2a453',1,'Necroisle::PlayerData']]],
-  ['removedroppeditem_15',['RemoveDroppedItem',['../class_necroisle_1_1_player_data.html#ab565ca0f6b07442f977b0023922b3d44',1,'Necroisle::PlayerData']]],
-  ['removeobject_16',['RemoveObject',['../class_necroisle_1_1_player_data.html#a0d4aa2f98ccda39715201e61ad3ff11c',1,'Necroisle::PlayerData']]],
-  ['removeplant_17',['RemovePlant',['../class_necroisle_1_1_player_data.html#a2ecddba960719f8dfdc894790f25729d',1,'Necroisle::PlayerData']]],
-  ['removespawnedobject_18',['RemoveSpawnedObject',['../class_necroisle_1_1_player_data.html#ae1a9eb2d8e82fcd1b093b0378d4952ca',1,'Necroisle::PlayerData']]],
-  ['removeworldregrowth_19',['RemoveWorldRegrowth',['../class_necroisle_1_1_player_data.html#a296dd94231af43ea06984f0b3293a468',1,'Necroisle::PlayerData']]],
-  ['rgb_20',['RGB',['../struct_necroisle_1_1_r_g_b.html',1,'Necroisle']]],
-  ['rot_21',['rot',['../class_necroisle_1_1_built_construction_data.html#a6b50bc95f6877b0d27f7c2fe0259c55f',1,'Necroisle.BuiltConstructionData.rot'],['../class_necroisle_1_1_sowed_plant_data.html#adb69acaff06580d5037f46257388ab2f',1,'Necroisle.SowedPlantData.rot'],['../class_necroisle_1_1_trained_character_data.html#a04275350b1a7ae800bcd4b06bca51455',1,'Necroisle.TrainedCharacterData.rot'],['../class_necroisle_1_1_spawned_data.html#a7ab47670c4b059c2d9d675355b84b41f',1,'Necroisle.SpawnedData.rot'],['../class_necroisle_1_1_scene_object_data.html#ada0f0f4b9173f662b74a96b76546e1b4',1,'Necroisle.SceneObjectData.rot'],['../class_necroisle_1_1_regrowth_data.html#a58643d5fc29aaf124238dde8f6a904fb',1,'Necroisle.RegrowthData.rot']]],
-  ['rotate_5fspeed_22',['rotate_speed',['../class_necroisle_1_1_camera_controller.html#a033e2fb5739a3017610fbbbf0597afbc',1,'Necroisle.CameraController.rotate_speed'],['../class_necroisle_1_1_player_controller.html#a6fded69873816cb2813032f97a6ec7f5',1,'Necroisle.PlayerController.rotate_speed']]],
-  ['rotate_5fspeed_5ftouch_23',['rotate_speed_touch',['../class_necroisle_1_1_camera_controller.html#a69a7bb9d25e34d84fa11f8f97e96e10a',1,'Necroisle::CameraController']]]
+  ['quantity_0',['quantity',['../class_necroisle_1_1_inventory_item_data.html#a7e3c80167da4aa47d34f9db3e5bb17c4',1,'Necroisle.InventoryItemData.quantity'],['../struct_necroisle_1_1_item_data_value.html#ac054c14c594b4166443ddfb37a5c90e2',1,'Necroisle.ItemDataValue.quantity'],['../class_necroisle_1_1_loot_data.html#a58dc99be76ede43e9399e9c04c0c5505',1,'Necroisle.LootData.quantity'],['../class_necroisle_1_1_dropped_item_data.html#aea989fca3075b9d702d7e8b4e201909e',1,'Necroisle.DroppedItemData.quantity'],['../class_necroisle_1_1_item.html#ae6f0dc5ef5d98dfae2f043fd13c6b453',1,'Necroisle.Item.quantity']]],
+  ['quantity_5fmax_1',['quantity_max',['../class_necroisle_1_1_furnace.html#a4b358793cd14d1a4c916f68cd089fed5',1,'Necroisle::Furnace']]],
+  ['quaterniondata_2',['quaterniondata',['../struct_necroisle_1_1_quaternion_data.html',1,'Necroisle.QuaternionData'],['../struct_necroisle_1_1_quaternion_data.html#a5a335611e9af5f769d1d9280baaf1daf',1,'Necroisle.QuaternionData.QuaternionData()']]]
 ];

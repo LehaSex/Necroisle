@@ -1,0 +1,13 @@
+<map id="Necroisle.MapData.FixData" name="Necroisle.MapData.FixData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="725,55,907,80"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_data.html#a110c66ab26162b5b57183aea9cda9bf3" title=" " alt="" coords="493,5,666,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="736,54,643,34,644,29,738,48"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_data.html#a354fe7527987a0d359165ce23aedc35e" title=" " alt="" coords="497,55,661,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="710,70,662,70,662,65,710,65"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_map_data.html#a39a44e94558a8cc4cf2910c5daadd8a2" title=" " alt="" coords="481,104,677,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="738,86,644,106,643,101,736,81"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_data.html#ad46050b2f1f539cea36a1223cfece447" title=" " alt="" coords="243,55,433,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="482,70,434,70,434,65,482,65"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_map_data.html#ac809c4bd5ab189ba26eb07506fe4219d" title=" " alt="" coords="5,55,195,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="227,70,195,70,195,65,227,65"/>
+</map>

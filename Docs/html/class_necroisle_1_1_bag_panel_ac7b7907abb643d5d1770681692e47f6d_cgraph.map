@@ -1,0 +1,5 @@
+<map id="Necroisle.BagPanel.Get" name="Necroisle.BagPanel.Get">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,167,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_slot_panel.html#a0d5e5c0fe26e8867e868b47822d48e57" title=" " alt="" coords="215,5,380,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,23,199,23,199,28,167,28"/>
+</map>

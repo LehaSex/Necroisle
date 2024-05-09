@@ -1,0 +1,9 @@
+<map id="Necroisle.Buildable.SetBuildPositionTemporary" name="Necroisle.Buildable.SetBuildPositionTemporary">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,69,413,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_craft.html#aa057ee168baf7378dd657382b7eec3a9" title=" " alt="" coords="5,5,179,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,67,165,48,166,43,233,62"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_character_craft.html#a601a601c3e25c6d9af14e10e794e55b2" title=" " alt="" coords="5,69,179,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,92,179,92,179,87,211,87"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_character_craft.html#a56749703e8d5580dd364ce5806cd82b9" title=" " alt="" coords="5,133,179,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="233,117,166,135,165,130,231,111"/>
+</map>

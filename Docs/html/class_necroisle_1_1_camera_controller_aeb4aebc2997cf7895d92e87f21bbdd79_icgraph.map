@@ -1,0 +1,9 @@
+<map id="Necroisle.CameraController.IsFreeRotation" name="Necroisle.CameraController.IsFreeRotation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="229,69,413,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_controller.html#a32f7f2a805ef0c32fd1102d03166c82e" title=" " alt="" coords="5,5,181,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,67,166,48,168,43,234,62"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_action_selector.html#af1c3a402a94dc5d71aa6820e6beffab5" title=" " alt="" coords="9,69,178,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,92,178,92,178,87,214,87"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_u_i.html#adc08a4eacbc289cc28e5c43f7d9c6b6b" title=" " alt="" coords="6,134,181,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="225,116,148,136,146,131,224,111"/>
+</map>

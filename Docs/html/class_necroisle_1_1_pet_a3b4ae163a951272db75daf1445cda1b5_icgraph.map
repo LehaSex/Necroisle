@@ -1,0 +1,19 @@
+<map id="Necroisle.Pet.StopAction" name="Necroisle.Pet.StopAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="671,95,839,121"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_pet.html#a0ef2950e9cd0ec32b76151593c30b038" title=" " alt="" coords="467,17,609,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="705,92,622,60,579,45,581,40,624,55,707,87"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_pet.html#a55d30de0a96272ce853f90384602cdb4" title=" " alt="" coords="466,70,610,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="655,99,610,94,611,88,656,94"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_pet.html#acf29f323eed148a65266a2a70bc5e5f3" title=" " alt="" coords="454,119,622,145"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="656,122,623,125,622,120,655,116"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_pet.html#a15c8498b59fbb383a97a9b781aac6895" title=" " alt="" coords="453,169,623,194"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="707,129,624,160,589,171,587,165,622,155,705,124"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_action_pet_follow.html#a52d7ffc840065da3f02d23fd605f8d34" title=" " alt="" coords="227,5,405,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="452,30,406,30,406,24,452,25"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_pet.html#aaadffc50be609aea034068d9cc889898" title=" " alt="" coords="238,70,394,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="450,85,395,85,395,80,450,80"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_action_pet_tame.html#a96befea28f437cf2eab3755e53b61f94" title=" " alt="" coords="5,63,179,103"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="223,85,179,85,179,80,223,80"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_action_pet_stay.html#ae171f5aca1a29da32b95546f7a493d77" title=" " alt="" coords="232,120,400,160"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="439,138,400,140,400,134,439,133"/>
+</map>

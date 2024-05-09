@@ -1,0 +1,5 @@
+<map id="Necroisle.MapTool.MapToWorldPos" name="Necroisle.MapTool.MapToWorldPos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,235,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_zone.html#aac558944514287821b7eb48762fb769a" title=" " alt="" coords="283,5,475,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="235,23,267,23,267,28,235,28"/>
+</map>

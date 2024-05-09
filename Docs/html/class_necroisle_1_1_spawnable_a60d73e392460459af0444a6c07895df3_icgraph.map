@@ -1,0 +1,7 @@
+<map id="Necroisle.Spawnable.GetAll" name="Necroisle.Spawnable.GetAll">
+<area shape="rect" id="Node000001" title=" " alt="" coords="485,13,668,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_spawnable.html#a98ad8bdb3f64d868960e5403c61f8914" title=" " alt="" coords="256,5,437,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,28,438,28,438,23,470,23"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_n_object.html#a578c2d12e6d606ddf73c2a992938cc27" title=" " alt="" coords="5,5,208,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="240,28,209,28,209,23,240,23"/>
+</map>

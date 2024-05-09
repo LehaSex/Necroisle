@@ -1,0 +1,15 @@
+<map id="Necroisle.Selectable.CanBeInteracted" name="Necroisle.Selectable.CanBeInteracted">
+<area shape="rect" id="Node000001" title=" " alt="" coords="677,101,845,141"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_selectable.html#aae00b1efe40b4849120cff1c0a06f677" title=" " alt="" coords="457,69,625,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="662,110,626,104,626,99,662,104"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_controller.html#afdcc44e57fc58d7c5838f271b3d47ad2" title=" " alt="" coords="453,133,629,173"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="663,138,630,143,630,138,662,133"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_character_combat.html#a62539adb591b4279b52ec7a0b622a8a6" title=" " alt="" coords="231,5,404,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="454,67,389,48,391,43,455,62"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_selectable.html#a90e68f51b74b524ff8953d4cac0b28cd" title=" " alt="" coords="234,69,401,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="442,92,401,92,401,87,442,87"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_controller.html#a32f7f2a805ef0c32fd1102d03166c82e" title=" " alt="" coords="5,69,181,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="218,92,182,92,182,87,218,87"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_player_controller.html#a007f6eb9aeb35a9df0d770c4326a4cce" title=" " alt="" coords="229,133,405,173"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="438,156,406,156,406,151,438,151"/>
+</map>

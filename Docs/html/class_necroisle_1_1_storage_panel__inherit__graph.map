@@ -1,0 +1,11 @@
+<map id="Necroisle.StoragePanel" name="Necroisle.StoragePanel">
+<area shape="rect" id="Node000001" title="Main UI panel for storages boxes (chest)" alt="" coords="27,2119,178,2364"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_slot_panel.html" title="Generic parent UI panel that manages multiple item slots (Inventory/Equip/Storage,..." alt="" coords="5,1185,200,2071"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,2085,105,2119,100,2119,100,2085"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_u_i_slot_panel.html" title="Basic class for any panel containing slots that can be selected." alt="" coords="33,492,173,1137"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,1152,105,1186,100,1186,100,1152"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_u_i_panel.html" title="Generic script for any UI panel, can be inherited." alt="" coords="47,119,159,444"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="105,459,105,492,100,492,100,459"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="51,5,154,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="105,85,105,119,100,119,100,85"/>
+</map>

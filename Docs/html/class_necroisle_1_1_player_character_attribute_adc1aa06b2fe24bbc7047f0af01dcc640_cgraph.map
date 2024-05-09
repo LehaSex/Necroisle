@@ -1,0 +1,9 @@
+<map id="Necroisle.PlayerCharacterAttribute.GetBonusEffectTotal" name="Necroisle.PlayerCharacterAttribute.GetBonusEffectTotal">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,200,63"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_attribute.html#a2ae91eb6cc9b6a9f9d50746d8445f431" title=" " alt="" coords="248,23,479,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,41,232,41,232,46,200,46"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_data.html#ace6ab6611cc54017e60f3985708ba674" title=" " alt="" coords="540,5,697,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="479,29,524,25,525,30,479,35"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_bonus_aura.html#a114b0e22915728eb7cebccb3dc59593c" title=" " alt="" coords="527,55,711,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="479,52,511,55,511,60,479,57"/>
+</map>

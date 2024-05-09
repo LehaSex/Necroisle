@@ -1,0 +1,5 @@
+<map id="Necroisle.UISlot.Start" name="Necroisle.UISlot.Start">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,152,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot.html#a2936ca381fd65f5ec3968b1aa256b84b" title=" " alt="" coords="200,5,371,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,15,184,15,184,21,152,21"/>
+</map>

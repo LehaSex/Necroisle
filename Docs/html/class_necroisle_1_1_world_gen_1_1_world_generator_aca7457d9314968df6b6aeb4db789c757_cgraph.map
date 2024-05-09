@@ -1,0 +1,29 @@
+<map id="Necroisle.WorldGen.WorldGenerator.NoisyEdges" name="Necroisle.WorldGen.WorldGenerator.NoisyEdges">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,106,181,146"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#add6757e1a5b3f827fc756fbb2d588caf" title=" " alt="" coords="715,95,913,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,103,232,63,295,43,364,24,439,10,516,3,592,6,667,21,699,32,729,48,779,83,776,87,726,53,697,37,666,26,592,11,516,9,439,16,366,29,296,48,234,68,138,108"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_biome_zone.html#ae0282f80897ee0905537a207ebb3be4e" title=" " alt="" coords="229,106,408,146"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,123,214,123,214,128,181,128"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_world_gen_1_1_biome_zone.html#a51da62d11ac67e3958e6db6f045560ba" title=" " alt="" coords="472,284,651,324"/>
+<area shape="poly" id="edge14_Node000001_Node000008" title=" " alt="" coords="149,144,493,276,491,281,147,149"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="345,103,395,72,424,58,455,47,514,34,561,31,608,36,667,47,719,64,766,85,764,90,717,69,666,52,607,41,561,36,515,40,457,52,426,63,397,77,348,108"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_world_gen_1_1_biome_zone.html#aa60a7c35456c27464f8ece40c6a0cd3c" title=" " alt="" coords="456,106,667,146"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="408,123,440,123,440,128,408,128"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#a7b1d4bc9980b31aa863e6a080243042a" title=" " alt="" coords="726,159,902,199"/>
+<area shape="poly" id="edge8_Node000003_Node000005" title=" " alt="" coords="372,103,435,85,510,72,550,70,590,71,630,78,668,91,685,103,694,117,702,132,716,145,724,149,721,154,713,149,698,135,689,120,681,107,665,96,629,84,590,77,550,75,510,77,436,90,374,108"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_world_gen_1_1_biome_zone.html#af6d84784c74c151073d9a2ea9d84d7ec" title=" " alt="" coords="725,223,903,263"/>
+<area shape="poly" id="edge9_Node000003_Node000006" title=" " alt="" coords="343,144,392,185,423,204,457,219,520,236,586,246,650,249,709,249,709,254,650,255,586,251,519,242,455,224,421,209,389,189,339,148"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_world_gen_1_1_biome_zone.html#ac901023ed8e00ff9af1eeb2aaeb89118" title=" " alt="" coords="464,170,659,210"/>
+<area shape="poly" id="edge10_Node000003_Node000007" title=" " alt="" coords="398,144,469,163,468,168,397,149"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="667,119,699,117,699,123,667,124"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="660,144,711,155,710,160,659,149"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="646,144,668,156,684,169,693,183,702,196,716,209,724,213,721,218,713,213,698,200,689,186,680,173,665,160,643,149"/>
+<area shape="poly" id="edge11_Node000007_Node000002" title=" " alt="" coords="631,167,728,138,730,143,632,172"/>
+<area shape="poly" id="edge12_Node000007_Node000005" title=" " alt="" coords="659,183,710,181,710,186,659,188"/>
+<area shape="poly" id="edge13_Node000007_Node000006" title=" " alt="" coords="660,208,710,218,709,224,659,213"/>
+<area shape="poly" id="edge16_Node000008_Node000002" title=" " alt="" coords="592,282,628,254,665,220,679,200,686,181,696,163,713,145,719,141,722,145,716,149,700,166,691,184,683,202,669,224,632,258,595,286"/>
+<area shape="poly" id="edge17_Node000008_Node000005" title=" " alt="" coords="590,282,646,245,714,209,727,203,730,208,716,214,648,250,593,286"/>
+<area shape="poly" id="edge18_Node000008_Node000006" title=" " alt="" coords="646,281,713,265,715,270,647,286"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_world_gen_1_1_biome_zone.html#a67d5f030d5dda347d479a65f46b37bd3" title=" " alt="" coords="725,287,903,327"/>
+<area shape="poly" id="edge15_Node000008_Node000009" title=" " alt="" coords="651,303,709,303,709,309,651,308"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Necroisle.PlayerController.IsMovementEnabled" name="Necroisle.PlayerController.IsMovementEnabled">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,181,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_controller.html#a9a792587cce6111dba9d18eb619df641" title=" " alt="" coords="229,5,405,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,23,214,23,214,28,182,28"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_character_combat.html#a4e5ee73bd527845ee4e1084cf0234d75" title=" " alt="" coords="453,5,627,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="406,23,438,23,438,28,406,28"/>
+</map>

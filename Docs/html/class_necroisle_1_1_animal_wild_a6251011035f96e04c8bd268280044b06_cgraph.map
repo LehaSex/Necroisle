@@ -1,0 +1,7 @@
+<map id="Necroisle.AnimalWild.EscapeTarget" name="Necroisle.AnimalWild.EscapeTarget">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,200,75"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_animal_wild.html#a949a0674604aee1d1b50914271bce3b4" title=" " alt="" coords="248,5,443,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,40,232,36,233,42,201,46"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_character.html#af06bc905a15e8757f39d3cd79e6e02ef" title=" " alt="" coords="253,70,437,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,63,238,68,237,73,200,69"/>
+</map>

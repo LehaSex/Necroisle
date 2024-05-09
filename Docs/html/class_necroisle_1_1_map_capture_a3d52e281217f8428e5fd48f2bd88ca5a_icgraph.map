@@ -1,0 +1,10 @@
+<map id="Necroisle.MapCapture.CreateCamera" name="Necroisle.MapCapture.CreateCamera">
+<area shape="rect" id="Node000001" title=" " alt="" coords="487,63,679,103"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_capture.html#a9ff78fefa824d02beca3edeea4dec78a" title=" " alt="" coords="254,5,435,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="482,61,430,49,431,43,483,56"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_editor_tool_1_1_map_capture_editor.html#afa042239e076fa3d76b398b5b9ab3762" title=" " alt="" coords="5,92,203,132"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="471,92,203,109,203,103,471,87"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_capture.html#aea2ad595ac027e1c7891d523143554e6" title=" " alt="" coords="251,120,439,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="483,109,431,122,430,117,482,104"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="235,130,203,126,203,121,236,125"/>
+</map>

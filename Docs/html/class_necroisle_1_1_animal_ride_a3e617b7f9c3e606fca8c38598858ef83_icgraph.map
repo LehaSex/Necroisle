@@ -1,0 +1,7 @@
+<map id="Necroisle.AnimalRide.StopRide" name="Necroisle.AnimalRide.StopRide">
+<area shape="rect" id="Node000001" title=" " alt="" coords="471,13,673,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_ride.html#aff3d714299cb1629c74163fc2ce07003" title=" " alt="" coords="249,5,423,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="455,28,423,28,423,23,455,23"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_animal_ride.html#a7f56d09fb3067547394b843f873593ee" title=" " alt="" coords="5,5,201,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="234,28,202,28,202,23,234,23"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Necroisle.Animal" name="Necroisle.Animal">
+<area shape="rect" id="Node000001" title="THIS SCRIPT is not in use, was moved to AnimalWild.cs, file was not deleted to make updating version ..." alt="" coords="5,119,117,184"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="10,5,113,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,85,64,119,59,119,59,85"/>
+</map>

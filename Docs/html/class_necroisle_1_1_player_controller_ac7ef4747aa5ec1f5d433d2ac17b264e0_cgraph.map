@@ -1,0 +1,11 @@
+<map id="Necroisle.PlayerController.TriggerProgressAction" name="Necroisle.PlayerController.TriggerProgressAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,181,67"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_asset_data.html#ab9d54c2b09bd439c4489e6a5908c7d32" title=" " alt="" coords="234,5,401,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,33,218,28,219,34,182,38"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_controller.html#ab3d4f2004c9922ea3cbb2739ad512ab2" title=" " alt="" coords="229,55,405,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,56,214,60,213,65,181,61"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_the_data.html#ae069cdb56c3f6233a51f69bd0d46eff1" title=" " alt="" coords="465,5,618,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="401,15,449,15,449,21,401,21"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_controller.html#a93d6515ce943ec318b08fe041ac22608" title=" " alt="" coords="453,55,629,95"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="406,73,438,73,438,78,406,78"/>
+</map>

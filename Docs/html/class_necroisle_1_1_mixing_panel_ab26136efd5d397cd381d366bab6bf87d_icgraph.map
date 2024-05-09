@@ -1,0 +1,9 @@
+<map id="Necroisle.MixingPanel.CanMix" name="Necroisle.MixingPanel.CanMix">
+<area shape="rect" id="Node000001" title=" " alt="" coords="487,45,685,70"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_mixing_panel.html#a0cdaa7c2f5c2e967aae5a9a783c09b6c" title=" " alt="" coords="253,5,425,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="471,45,426,39,426,34,471,40"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_mixing_panel.html#ac9ff4492b71de96fe4c513076d7770b7" title=" " alt="" coords="240,69,439,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="471,75,440,79,439,74,471,70"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_mixing_panel.html#aa911a17ba4a7bbd047a751e1608e0333" title=" " alt="" coords="5,69,192,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="224,92,192,92,192,87,224,87"/>
+</map>

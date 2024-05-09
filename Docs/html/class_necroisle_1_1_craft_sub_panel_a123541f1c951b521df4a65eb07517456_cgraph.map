@@ -1,0 +1,9 @@
+<map id="Necroisle.CraftSubPanel.GetPlayer" name="Necroisle.CraftSubPanel.GetPlayer">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,172,75"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_controller.html#a984d8d9f8543c5491d1b75ab9942761e" title=" " alt="" coords="227,5,403,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,41,212,36,212,41,172,47"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_u_i.html#afa865821b9f33aa5dd5c2d928b57a7fc" title=" " alt="" coords="220,70,411,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,62,205,66,204,72,172,68"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_controller.html#a26ca3e925bbd306909355b2b9865d3b8" title=" " alt="" coords="459,70,656,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="411,80,443,80,443,85,411,85"/>
+</map>

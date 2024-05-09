@@ -1,0 +1,19 @@
+local text = "Hello World"
+
+function start()
+	print("lua start...")
+	print("injected object", GameSingleton)
+	-- Find class GameSingleton 
+	GameSingletonComponent= GameSingleton:GetComponent(typeof(CS.Necroisle.GameSingleton))
+	print("GameSingletonComponent", GameSingletonComponent)
+end
+
+function update()
+	GameSingletonComponent:CallDebugLog(text)
+	local pos = GameSingleton.transform
+	pos.position = pos.position + CS.UnityEngine.Vector3(0, 1, 0)
+end
+
+function ondestroy()
+    print("lua destroy")
+end

@@ -1,0 +1,16 @@
+<map id="UnityEditor.AI.NavMeshSurfaceEditor.OnInspectorGUI" name="UnityEditor.AI.NavMeshSurfaceEditor.OnInspectorGUI">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,133,208,173"/>
+<area shape="rect" id="Node000002" href="$class_unity_editor_1_1_a_i_1_1_nav_mesh_components_g_u_i_utility.html#a21e6bc162db0568182bde0d0f5289864" title=" " alt="" coords="256,5,488,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,131,187,93,255,55,270,48,273,53,257,60,190,97,135,135"/>
+<area shape="rect" id="Node000003" href="$class_unity_editor_1_1_a_i_1_1_nav_mesh_components_g_u_i_utility.html#a3a766aa7560b9342338bae8d406c87fb" title=" " alt="" coords="256,69,488,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,130,271,111,272,116,193,135"/>
+<area shape="rect" id="Node000004" href="$class_unity_editor_1_1_a_i_1_1_nav_mesh_asset_manager.html#a8cbb2f329edbe846b4fe609f1e274805" title=" " alt="" coords="275,133,469,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="208,151,260,151,260,156,208,156"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#a29b3013714ce2cb0f40489b0094cde15" title=" " alt="" coords="797,220,1011,260"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="195,171,256,183,397,201,539,215,782,232,782,237,538,220,396,206,256,188,194,177"/>
+<area shape="rect" id="Node000006" href="$class_unity_editor_1_1_a_i_1_1_nav_mesh_asset_manager.html#a9eb384b5a70428c55a15dae6a4dd48c7" title=" " alt="" coords="275,248,469,288"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="146,172,257,227,291,240,289,245,255,232,143,176"/>
+<area shape="rect" id="Node000007" href="$class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#afe022e3ea5130431bae0366ff2df756a" title=" " alt="" coords="536,248,749,288"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="470,265,521,265,521,271,470,271"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="750,254,782,250,782,256,750,259"/>
+</map>

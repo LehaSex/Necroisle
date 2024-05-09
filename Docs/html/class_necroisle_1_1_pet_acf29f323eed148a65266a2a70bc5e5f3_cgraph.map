@@ -1,0 +1,10 @@
+<map id="Necroisle.Pet.StopFollow" name="Necroisle.Pet.StopFollow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,173,55"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_pet.html#a7cdb19938265e627043ef49055777f38" title=" " alt="" coords="437,5,616,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,35,421,21,422,26,174,40"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_pet.html#a3b4ae163a951272db75daf1445cda1b5" title=" " alt="" coords="221,55,389,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,49,206,53,205,58,173,55"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="365,52,451,32,452,37,366,57"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_character.html#a0e4e432711b3a28e9f458ad7fe3a3325" title=" " alt="" coords="443,55,610,80"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="390,65,428,65,428,70,390,70"/>
+</map>

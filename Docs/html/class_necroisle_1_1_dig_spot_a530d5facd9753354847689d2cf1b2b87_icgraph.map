@@ -1,0 +1,5 @@
+<map id="Necroisle.DigSpot.GetNearest" name="Necroisle.DigSpot.GetNearest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="247,5,443,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_dig.html#acfa38c990edf106c575f41cba7965223" title=" " alt="" coords="5,5,199,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,21,199,21,199,15,231,15"/>
+</map>

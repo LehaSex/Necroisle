@@ -1,0 +1,9 @@
+<map id="Necroisle.CraftSubPanel.Hide" name="Necroisle.CraftSubPanel.Hide">
+<area shape="rect" id="Node000001" title=" " alt="" coords="229,55,423,80"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_craft_panel.html#ab47abfee67949af6827dad2ff8141df8" title=" " alt="" coords="8,5,179,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,54,156,34,157,29,249,48"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_craft_panel.html#a93d4014f3816c1a0ef50401584349c66" title=" " alt="" coords="5,55,181,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,70,182,70,182,65,214,65"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_craft_sub_panel.html#a4182ae6bcd8aca00717b28ec95029a0e" title=" " alt="" coords="10,105,177,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="257,87,178,107,176,102,256,82"/>
+</map>

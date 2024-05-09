@@ -1,0 +1,5 @@
+<map id="Necroisle.CraftStation.GetNearestInRange" name="Necroisle.CraftStation.GetNearestInRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,179,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_buildable.html#aaf2d9256111f0f7f6838c07f4cc211f5" title=" " alt="" coords="227,13,420,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,23,211,23,211,28,179,28"/>
+</map>

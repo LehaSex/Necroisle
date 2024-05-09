@@ -1,0 +1,13 @@
+<map id="Necroisle.PlayAudioAnim.PlayMusic" name="Necroisle.PlayAudioAnim.PlayMusic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,39,179,79"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_the_audio.html#a6bbcfb87bacfef5cdbe5ea90976db3c8" title=" " alt="" coords="247,21,405,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,47,231,41,231,46,179,52"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_the_audio.html#a49e278ee7405e760a539f50ee1d6e53b" title=" " alt="" coords="227,70,425,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,65,211,68,211,74,179,70"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_the_audio.html#ab20a513cfb54c85a81268ababe76e11a" title=" " alt="" coords="483,5,659,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="383,67,467,47,468,52,384,72"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_data.html#a3a1b590972f900f8d1e6813ef3f48f8b" title=" " alt="" coords="486,70,655,95"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="426,80,471,80,471,85,426,85"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_the_audio.html#abd2140b1fbba4549d508e4d867151db8" title=" " alt="" coords="473,120,668,160"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="384,93,468,113,467,118,383,99"/>
+</map>

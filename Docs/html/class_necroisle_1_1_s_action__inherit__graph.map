@@ -1,0 +1,77 @@
+<map id="Necroisle.SAction" name="Necroisle.SAction">
+<area shape="rect" id="Node000001" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="2293,119,2412,284"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_a_action.html" title="Automatic Action parent class: Any action performed automatically when the object is clicked on If yo..." alt="" coords="471,342,595,487"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="2279,208,1907,221,1383,247,1121,265,889,285,710,308,648,321,608,334,592,345,589,340,606,330,647,316,710,303,888,280,1120,259,1382,242,1907,216,2279,202"/>
+<area shape="rect" id="Node000010" href="$class_necroisle_1_1_action_attack.html" title="Action to attack a destructible (if the destructible cant be attack automatically)" alt="" coords="619,382,766,447"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="2278,205,1967,208,1755,213,1528,224,1301,240,1090,263,995,277,910,294,838,313,779,334,745,357,718,384,714,380,742,353,777,330,836,308,909,289,994,272,1089,257,1300,234,1528,218,1755,208,1967,202,2278,200"/>
+<area shape="rect" id="Node000011" href="$class_necroisle_1_1_action_build.html" title="Build an item into a construction (trap, lure)" alt="" coords="790,382,929,447"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="2278,206,1996,211,1806,217,1604,228,1403,245,1216,267,1057,297,993,314,942,334,909,357,884,384,880,380,906,352,939,330,992,309,1056,291,1215,262,1402,239,1604,223,1806,212,1995,205,2278,200"/>
+<area shape="rect" id="Node000012" href="$class_necroisle_1_1_action_dig.html" title="Dig using the shovel, to remove plants or to dig burried things." alt="" coords="953,372,1081,457"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="2279,206,2023,213,1676,233,1498,249,1334,271,1195,299,1139,316,1094,334,1068,352,1047,374,1043,370,1065,348,1091,330,1137,311,1194,294,1333,266,1498,244,1675,227,2023,208,2278,201"/>
+<area shape="rect" id="Node000013" href="$class_necroisle_1_1_action_drink_pond.html" title="Drink directly from a water source." alt="" coords="1105,352,1275,477"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="2279,209,2060,222,1771,247,1624,264,1489,284,1373,307,1288,334,1254,354,1252,350,1286,330,1372,302,1488,279,1624,258,1771,241,2060,217,2278,204"/>
+<area shape="rect" id="Node000014" href="$class_necroisle_1_1_action_drop.html" title="Drop an item." alt="" coords="1299,382,1435,447"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="2279,210,2089,224,1847,249,1725,266,1613,286,1518,309,1449,334,1417,357,1392,384,1388,380,1414,353,1446,330,1516,303,1612,281,1724,261,1846,244,2089,219,2278,204"/>
+<area shape="rect" id="Node000015" href="$class_necroisle_1_1_action_eat.html" title="Eat an item." alt="" coords="1460,372,1589,457"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="2279,212,2120,229,1922,256,1733,291,1657,312,1602,334,1577,352,1556,374,1552,370,1573,348,1599,330,1656,307,1732,286,1921,250,2119,224,2279,207"/>
+<area shape="rect" id="Node000016" href="$class_necroisle_1_1_action_equip.html" title="Use to equip/unequip equipment items." alt="" coords="1613,372,1756,457"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="2279,209,2174,219,2043,240,1973,257,1902,278,1834,303,1769,334,1742,352,1719,374,1716,370,1739,348,1766,330,1832,298,1901,273,1972,252,2042,235,2173,214,2278,203"/>
+<area shape="rect" id="Node000017" href="$class_necroisle_1_1_action_fish.html" title="Use your fishing rod to fish a fish!" alt="" coords="1780,362,1915,467"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="2279,216,2203,232,2113,256,2018,290,1929,334,1892,364,1888,360,1926,330,2016,285,2111,251,2202,227,2278,211"/>
+<area shape="rect" id="Node000018" href="$class_necroisle_1_1_action_learn.html" title="Learn a crafting recipe." alt="" coords="1939,352,2081,477"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="2281,234,2189,277,2140,304,2094,334,2069,354,2066,350,2091,330,2138,300,2187,272,2278,229"/>
+<area shape="rect" id="Node000019" href="$class_necroisle_1_1_action_open.html" title="Open a package with more items inside (like a gift, box)" alt="" coords="2105,372,2245,457"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="2286,286,2212,374,2208,371,2282,283"/>
+<area shape="rect" id="Node000020" href="$class_necroisle_1_1_action_pet_follow.html" title="Use to order a pet to follow (follow the player, and attack)" alt="" coords="2269,372,2436,457"/>
+<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="2355,299,2355,372,2350,372,2350,299"/>
+<area shape="rect" id="Node000021" href="$class_necroisle_1_1_action_pet_stay.html" title="Use to order a pet to stay (stop moving)" alt="" coords="2460,372,2616,457"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="2424,279,2504,371,2500,374,2420,283"/>
+<area shape="rect" id="Node000022" href="$class_necroisle_1_1_action_pet_tame.html" title="Use to tame a pet, tamed pet will follow the player that tamed them." alt="" coords="2640,372,2801,457"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="2427,228,2525,272,2578,299,2629,330,2680,370,2677,374,2626,334,2575,304,2523,277,2425,233"/>
+<area shape="rect" id="Node000023" href="$class_necroisle_1_1_action_plant.html" title="Sow a seed in the ground." alt="" coords="2826,372,2965,457"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="2428,209,2510,224,2610,248,2714,282,2765,304,2814,330,2840,348,2863,370,2859,374,2837,353,2811,334,2763,309,2712,287,2608,253,2509,229,2427,215"/>
+<area shape="rect" id="Node000024" href="$class_necroisle_1_1_action_read.html" title="Read a note on an item." alt="" coords="2989,372,3127,457"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="2427,202,2539,211,2680,231,2756,248,2833,269,2907,296,2978,330,3005,348,3028,370,3024,374,3001,352,2975,334,2905,301,2831,274,2755,253,2679,237,2539,216,2427,207"/>
+<area shape="rect" id="Node000025" href="$class_necroisle_1_1_action_read_image.html" title="Read a note on an item." alt="" coords="3152,372,3327,457"/>
+<area shape="poly" id="edge24_Node000001_Node000025" title=" " alt="" coords="2427,200,2565,205,2746,224,2845,241,2946,263,3045,292,3140,330,3172,348,3201,370,3197,374,3169,352,3138,334,3044,297,2945,268,2844,246,2745,229,2564,211,2427,205"/>
+<area shape="rect" id="Node000026" href="$class_necroisle_1_1_action_ride.html" title="Action to attack a destructible (if the destructible cant be attack automatically)" alt="" coords="3351,372,3485,457"/>
+<area shape="poly" id="edge25_Node000001_Node000026" title=" " alt="" coords="2427,203,2631,216,2897,240,3032,257,3156,277,3262,301,3339,330,3367,348,3389,370,3386,374,3363,352,3337,334,3260,307,3155,283,3031,262,2897,246,2631,222,2426,209"/>
+<area shape="rect" id="Node000027" href="$class_necroisle_1_1_action_set_trap.html" title="ReActivate a trap that was previously triggered." alt="" coords="3510,372,3665,457"/>
+<area shape="poly" id="edge26_Node000001_Node000027" title=" " alt="" coords="2427,203,2661,214,2973,237,3132,253,3280,274,3405,299,3456,314,3498,330,3528,348,3554,370,3550,374,3525,352,3496,334,3454,319,3404,305,3279,280,3132,259,2973,242,2661,219,2427,208"/>
+<area shape="rect" id="Node000028" href="$class_necroisle_1_1_action_sleep.html" title="Sleeeep!" alt="" coords="3689,342,3837,487"/>
+<area shape="poly" id="edge27_Node000001_Node000028" title=" " alt="" coords="2427,201,2694,208,3059,228,3247,245,3421,267,3569,295,3629,311,3678,330,3696,340,3693,344,3676,334,3627,316,3568,300,3420,272,3246,250,3059,234,2694,214,2427,206"/>
+<area shape="rect" id="Node000029" href="$class_necroisle_1_1_action_split.html" title="Split item stack into 2 stacks." alt="" coords="3861,372,3996,457"/>
+<area shape="poly" id="edge28_Node000001_Node000029" title=" " alt="" coords="2427,200,2725,203,2926,209,3141,219,3356,235,3556,258,3725,289,3794,308,3850,330,3878,348,3901,370,3897,374,3874,352,3847,334,3793,313,3724,294,3555,263,3356,241,3141,225,2926,214,2725,208,2427,205"/>
+<area shape="rect" id="Node000030" href="$class_necroisle_1_1_action_take.html" title="Use to take a construction that has an item variant (lure/trap)" alt="" coords="4020,382,4157,447"/>
+<area shape="poly" id="edge29_Node000001_Node000030" title=" " alt="" coords="2427,203,2781,218,3276,245,3524,263,3742,283,3911,305,3970,317,4009,330,4042,353,4069,381,4065,384,4039,357,4006,334,3968,322,3910,311,3741,288,3523,268,3276,251,2781,223,2427,208"/>
+<area shape="rect" id="Node000031" href="$class_necroisle_1_1_m_action.html" title="Merge Action parent class: Any action that happens when mixing two items (ex: coconut and axe),..." alt="" coords="4182,332,4302,497"/>
+<area shape="poly" id="edge30_Node000001_Node000031" title=" " alt="" coords="2427,202,2812,215,3359,240,3633,257,3875,278,4062,302,4127,315,4170,330,4183,338,4181,342,4168,334,4126,320,4061,307,3874,283,3632,263,3358,245,2812,220,2426,207"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="2297,5,2408,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2355,85,2355,119,2350,119,2350,85"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_action_cut_plant.html" title="Cut a plant and return it to growth stage 0, and gain items (cut grass)" alt="" coords="5,575,164,661"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="457,439,324,482,249,513,178,548,133,578,130,573,175,543,247,508,322,477,455,434"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_action_destroy.html" title="Just destroy the destructible." alt="" coords="189,575,343,661"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="460,471,357,547,318,578,315,573,354,543,457,467"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_action_dig_auto.html" title="Dig using the shovel, put this on a Selectable to auto dig on left click." alt="" coords="367,575,522,661"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="498,502,465,576,460,574,493,500"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_action_harvest.html" title="Harvest the fruit of a plant." alt="" coords="546,575,698,661"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="573,500,606,574,601,576,568,502"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_action_storage.html" title="Use to allow storing item inside a construction (chest) Careful! This action will not work without a ..." alt="" coords="722,575,877,661"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="608,494,609,495,636,511,659,520,683,528,711,543,754,573,751,578,709,548,681,533,657,525,633,516,606,500,605,499"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_action_water_plant.html" title="Use to Water plant with the watering can." alt="" coords="901,575,1076,661"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="606,493,609,495,647,512,682,521,715,524,746,523,811,523,848,529,890,543,942,573,939,578,888,548,847,534,811,528,746,528,714,529,681,526,646,517,606,500,603,498"/>
+<area shape="rect" id="Node000032" href="$class_necroisle_1_1_action_add_fuel.html" title="Add fuel to a fire (wood, grass, etc)" alt="" coords="3681,585,3838,651"/>
+<area shape="poly" id="edge31_Node000031_Node000032" title=" " alt="" coords="4171,499,4170,500,4125,519,4085,528,4047,530,4011,528,3938,526,3897,532,3851,548,3820,566,3792,587,3789,583,3817,561,3849,543,3896,527,3937,521,4011,523,4047,525,4084,523,4123,514,4167,495,4168,495"/>
+<area shape="rect" id="Node000033" href="$class_necroisle_1_1_action_cook.html" title="Cook an item on the fire (like raw meat)" alt="" coords="3862,575,4001,661"/>
+<area shape="poly" id="edge32_Node000031_Node000033" title=" " alt="" coords="4171,499,4170,500,4128,519,4092,525,4056,531,4014,548,3973,578,3970,573,4011,543,4054,526,4091,520,4127,514,4167,495,4169,494"/>
+<area shape="rect" id="Node000034" href="$class_necroisle_1_1_action_cut.html" title="Cut an item with another item (ex: open coconut with axe)" alt="" coords="4025,585,4155,651"/>
+<area shape="poly" id="edge33_Node000031_Node000034" title=" " alt="" coords="4175,508,4116,587,4111,584,4171,505"/>
+<area shape="rect" id="Node000035" href="$class_necroisle_1_1_action_fill.html" title="Fill a jug with water (or other)" alt="" coords="4179,585,4305,651"/>
+<area shape="poly" id="edge34_Node000031_Node000035" title=" " alt="" coords="4245,512,4245,586,4239,586,4239,512"/>
+<area shape="rect" id="Node000036" href="$class_necroisle_1_1_action_fill_provider.html" title="Fill a jug with item from item provider." alt="" coords="4329,575,4501,661"/>
+<area shape="poly" id="edge35_Node000031_Node000036" title=" " alt="" coords="4314,495,4382,574,4378,577,4310,498"/>
+<area shape="rect" id="Node000037" href="$class_necroisle_1_1_action_furnace.html" title="Melt an item in the furnace." alt="" coords="4525,545,4681,691"/>
+<area shape="poly" id="edge36_Node000031_Node000037" title=" " alt="" coords="4317,443,4413,487,4515,543,4527,551,4524,555,4513,548,4411,492,4315,448"/>
+<area shape="rect" id="Node000038" href="$class_necroisle_1_1_action_repair.html" title="Action to repair a building/items with a repair kit." alt="" coords="4706,555,4853,681"/>
+<area shape="poly" id="edge37_Node000031_Node000038" title=" " alt="" coords="4317,425,4398,441,4494,465,4597,499,4695,543,4712,553,4709,558,4693,548,4595,504,4493,471,4397,446,4316,430"/>
+</map>

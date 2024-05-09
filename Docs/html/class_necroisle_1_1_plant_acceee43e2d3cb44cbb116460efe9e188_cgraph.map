@@ -1,0 +1,7 @@
+<map id="Necroisle.Plant.HasGroup" name="Necroisle.Plant.HasGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,177,60"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_craft_data.html#a0c031bb80ead6a148e4b207cde7f1711" title=" " alt="" coords="225,5,421,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,34,210,30,210,35,178,39"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_selectable.html#adcc803cceec4bdf94ce6bea76384ef89" title=" " alt="" coords="239,55,407,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="178,55,224,61,223,66,177,60"/>
+</map>

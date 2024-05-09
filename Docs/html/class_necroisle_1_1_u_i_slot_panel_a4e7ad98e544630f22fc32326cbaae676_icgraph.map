@@ -1,0 +1,10 @@
+<map id="Necroisle.UISlotPanel.CountActiveSlots" name="Necroisle.UISlotPanel.CountActiveSlots">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,69,428,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_craft_panel.html#ab3277d34d0060311e9fba414e62771e6" title=" " alt="" coords="5,5,193,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,67,175,48,176,43,245,62"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_craft_sub_panel.html#a9a049420f6698ffd3f67f3df1292108e" title=" " alt="" coords="16,69,183,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,92,183,92,183,87,225,87"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_action_selector_u_i.html#a76faeed09bc0ea3f78dc1c0397f25de5" title=" " alt="" coords="17,157,182,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="266,118,156,159,154,154,264,113"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="138,144,124,138,99,136,77,138,63,143,58,149,61,156,55,158,53,148,60,138,75,133,99,131,125,133,140,139"/>
+</map>

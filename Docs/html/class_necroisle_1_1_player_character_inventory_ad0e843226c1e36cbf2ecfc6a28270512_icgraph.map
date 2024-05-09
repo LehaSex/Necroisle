@@ -1,0 +1,6 @@
+<map id="Necroisle.PlayerCharacterInventory.DropItem" name="Necroisle.PlayerCharacterInventory.DropItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="255,29,428,69"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="380,16,366,10,341,8,319,10,305,15,300,21,303,28,297,30,295,20,302,10,317,5,341,3,367,5,382,11"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_drop.html#ae9507a46c5391d671cb5ef1f6d9bbe3c" title=" " alt="" coords="5,37,207,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,52,207,52,207,47,239,47"/>
+</map>

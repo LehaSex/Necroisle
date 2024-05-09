@@ -1,19 +1,8 @@
 var searchData=
 [
-  ['raycastcollision_0',['RaycastCollision',['../class_necroisle_1_1_phys_tool.html#a4452517728166c7985e835cff66cc830',1,'Necroisle::PhysTool']]],
-  ['raycastcollisionlayer_1',['RaycastCollisionLayer',['../class_necroisle_1_1_phys_tool.html#a3b807af7680b5f100afe5d1b5f563984',1,'Necroisle::PhysTool']]],
-  ['recolor_2',['recolor',['../class_necroisle_1_1_map_chunk.html#a53345771f55afb6fc7cd7e51c7c4ceda',1,'Necroisle::MapChunk']]],
-  ['recolormap_3',['recolorMap',['../class_necroisle_1_1_map_generator.html#afd332927f47a0f9e0263df54e9a331f1',1,'Necroisle::MapGenerator']]],
-  ['removeallcustom_4',['RemoveAllCustom',['../class_necroisle_1_1_player_data.html#a2abcacc67f8234065b7ab605167ae2e7',1,'Necroisle::PlayerData']]],
-  ['removeallsubuids_5',['RemoveAllSubUIDs',['../class_necroisle_1_1_unique_i_d.html#ad7308759769b4c9089fae3de959c5cd5',1,'Necroisle::UniqueID']]],
-  ['removecharacter_6',['RemoveCharacter',['../class_necroisle_1_1_player_data.html#a3c06bbd5b9272228036da8bec287d2dd',1,'Necroisle::PlayerData']]],
-  ['removeconstruction_7',['RemoveConstruction',['../class_necroisle_1_1_player_data.html#aad93df8f4f3cc5f82213441b11ce6c2c',1,'Necroisle::PlayerData']]],
-  ['removecustomfloat_8',['RemoveCustomFloat',['../class_necroisle_1_1_player_data.html#ae05d6aed9cab6fd1c37e0c6f1ea8490b',1,'Necroisle::PlayerData']]],
-  ['removecustomint_9',['RemoveCustomInt',['../class_necroisle_1_1_player_data.html#af338c06b4c522412c16cbc824c46fbdc',1,'Necroisle::PlayerData']]],
-  ['removecustomstring_10',['RemoveCustomString',['../class_necroisle_1_1_player_data.html#a9ee167460f2f07e0fc4728e1af8bb9d6',1,'Necroisle::PlayerData']]],
-  ['removedroppeditem_11',['RemoveDroppedItem',['../class_necroisle_1_1_player_data.html#ab565ca0f6b07442f977b0023922b3d44',1,'Necroisle::PlayerData']]],
-  ['removeobject_12',['RemoveObject',['../class_necroisle_1_1_player_data.html#a0d4aa2f98ccda39715201e61ad3ff11c',1,'Necroisle::PlayerData']]],
-  ['removeplant_13',['RemovePlant',['../class_necroisle_1_1_player_data.html#a2ecddba960719f8dfdc894790f25729d',1,'Necroisle::PlayerData']]],
-  ['removespawnedobject_14',['RemoveSpawnedObject',['../class_necroisle_1_1_player_data.html#ae1a9eb2d8e82fcd1b093b0378d4952ca',1,'Necroisle::PlayerData']]],
-  ['removeworldregrowth_15',['RemoveWorldRegrowth',['../class_necroisle_1_1_player_data.html#a296dd94231af43ea06984f0b3293a468',1,'Necroisle::PlayerData']]]
+  ['navigate_0',['navigate',['../class_necroisle_1_1_key_controls_u_i.html#ac57c3a28ee19e251b7a1c4406a26d6ff',1,'Necroisle.KeyControlsUI.Navigate(Vector2 dir)'],['../class_necroisle_1_1_key_controls_u_i.html#a3e41fc1f330ac8efe7308380c297a443',1,'Necroisle.KeyControlsUI.Navigate(UISlotPanel panel, Vector2 dir)']]],
+  ['navigateauto_1',['NavigateAuto',['../class_necroisle_1_1_key_controls_u_i.html#a78d8e712331dcab8f09d42fd761cc379',1,'Necroisle::KeyControlsUI']]],
+  ['navigateto_2',['NavigateTo',['../class_necroisle_1_1_key_controls_u_i.html#a149732384e7c06d5a395e79bdfd66e74',1,'Necroisle::KeyControlsUI']]],
+  ['newgame_3',['newgame',['../class_necroisle_1_1_player_data.html#ac45f885e97b9a5285edf95492e1e67df',1,'Necroisle.PlayerData.NewGame()'],['../class_necroisle_1_1_player_data.html#a7d81ec0d5a16cd535296d4b51c10e184',1,'Necroisle.PlayerData.NewGame(string filename)'],['../class_necroisle_1_1_the_game.html#a27900aa72948388b65212e90f63d1c44',1,'Necroisle.TheGame.NewGame()'],['../class_necroisle_1_1_the_game.html#a4a09c61cefff6a9e6f5dfaf76129af6a',1,'Necroisle.TheGame.NewGame(string filename, string scene)'],['../class_necroisle_1_1_map_data.html#a8b5007886d80588a62137e10beee61f2',1,'Necroisle.MapData.NewGame()'],['../class_necroisle_1_1_map_data.html#a39a44e94558a8cc4cf2910c5daadd8a2',1,'Necroisle.MapData.NewGame(string filename)']]],
+  ['noisyedges_4',['NoisyEdges',['../class_necroisle_1_1_world_gen_1_1_world_generator.html#aca7457d9314968df6b6aeb4db789c757',1,'Necroisle::WorldGen::WorldGenerator']]]
 ];

@@ -1,0 +1,11 @@
+<map id="Necroisle.UISlot.IsDrag" name="Necroisle.UISlot.IsDrag">
+<area shape="rect" id="Node000001" title=" " alt="" coords="479,35,635,60"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot.html#ac6ae99bb9bb080b0026085a03a5dfc4e" title=" " alt="" coords="261,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="463,37,428,32,428,27,463,32"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_u_i_slot_panel.html#a6c1e8db8e30a1fd2828274d1be3e0640" title=" " alt="" coords="257,55,431,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="464,62,432,67,431,61,463,57"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_u_i.html#a43ce90e04b420555eafcc4fea58e5366" title=" " alt="" coords="5,33,209,59"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="241,65,210,61,210,56,242,60"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_item_slot_panel.html#a5e0f544eb504eac07b519c21c5959dcc" title=" " alt="" coords="25,83,190,123"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="242,90,191,96,190,91,242,85"/>
+</map>

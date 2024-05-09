@@ -1,0 +1,7 @@
+<map id="Necroisle.UIPanel.SetVisible" name="Necroisle.UIPanel.SetVisible">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,193,56"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_panel.html#af70ba9dfa8ef1b37de727957e05504f3" title=" " alt="" coords="245,5,399,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,30,229,26,229,31,194,35"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_u_i_panel.html#ae5ae64091d18f4ab546d73ce67dd04d1" title=" " alt="" coords="241,55,403,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,51,226,54,225,60,194,56"/>
+</map>

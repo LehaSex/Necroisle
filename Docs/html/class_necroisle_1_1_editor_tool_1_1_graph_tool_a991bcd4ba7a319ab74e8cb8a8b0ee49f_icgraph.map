@@ -1,0 +1,6 @@
+<map id="Necroisle.EditorTool.GraphTool.AddFunction" name="Necroisle.EditorTool.GraphTool.AddFunction">
+<area shape="rect" id="Node000001" title="Add a custom function to the graph using the default color." alt="" coords="309,29,487,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="442,16,426,10,398,8,372,10,357,15,351,21,354,28,349,30,346,20,354,10,371,5,398,3,427,5,444,11"/>
+<area shape="rect" id="Node000002" href="$class_camera_movement_editor.html#a2412e42c1b0289f05fbcfe893ee1b81c" title=" " alt="" coords="5,37,261,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="294,52,262,52,262,47,294,47"/>
+</map>

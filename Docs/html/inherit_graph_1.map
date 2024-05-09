@@ -1,3 +1,27 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$class_necroisle_1_1_built_construction_data.html" title=" " alt="" coords="5,5,212,31"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,337,61,363"/>
+<area shape="rect" id="Node000001" href="$class_camera_movement_editor.html" title=" " alt="" coords="131,5,291,31"/>
+<area shape="poly" id="edge2_Node000000_Node000001" title=" " alt="" coords="35,321,44,255,59,171,80,93,93,63,107,41,129,27,132,31,111,45,98,65,85,95,64,172,50,256,40,322"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_editor_tool_1_1_grass_circle_editor.html" title="Editor script for GrassCircle." alt="" coords="123,55,300,95"/>
+<area shape="poly" id="edge3_Node000000_Node000002" title=" " alt="" coords="33,321,37,275,49,217,71,158,87,130,107,105,122,94,126,98,111,109,92,133,76,160,54,219,42,276,38,322"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_editor_tool_1_1_grass_mesh_editor.html" title="Editor script for GrassMesh." alt="" coords="123,119,300,159"/>
+<area shape="poly" id="edge4_Node000000_Node000003" title=" " alt="" coords="36,321,44,287,58,246,78,205,108,169,124,158,127,162,111,173,83,208,63,248,49,288,41,323"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_editor_tool_1_1_map_capture_editor.html" title=" " alt="" coords="128,183,295,223"/>
+<area shape="poly" id="edge5_Node000000_Node000004" title=" " alt="" coords="43,322,69,276,86,253,108,233,127,222,129,226,111,237,90,257,73,279,48,324"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_editor_tool_1_1_u_i_d_editor.html" title="Just the text on the UniqueID component in Unity inspector." alt="" coords="113,248,310,273"/>
+<area shape="poly" id="edge6_Node000000_Node000005" title=" " alt="" coords="55,325,79,303,108,284,139,271,141,276,111,288,82,307,58,329"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_world_gen_1_1_editor_tool_1_1_biome_generator_editor.html" title=" " alt="" coords="122,298,301,338"/>
+<area shape="poly" id="edge7_Node000000_Node000006" title=" " alt="" coords="76,340,121,332,122,337,77,345"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_world_gen_1_1_editor_tool_1_1_biome_zone_editor.html" title=" " alt="" coords="123,362,299,402"/>
+<area shape="poly" id="edge8_Node000000_Node000007" title=" " alt="" coords="77,355,123,363,122,369,76,360"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_world_gen_1_1_editor_tool_1_1_world_generator_editor.html" title=" " alt="" coords="123,426,299,466"/>
+<area shape="poly" id="edge9_Node000000_Node000008" title=" " alt="" coords="59,371,83,393,111,412,135,423,133,428,108,416,80,397,55,375"/>
+<area shape="rect" id="Node000009" href="$class_unity_editor_1_1_a_i_1_1_nav_mesh_link_editor.html" title=" " alt="" coords="120,490,303,530"/>
+<area shape="poly" id="edge10_Node000000_Node000009" title=" " alt="" coords="46,376,71,427,89,453,111,476,129,487,126,492,108,480,85,457,66,430,41,378"/>
+<area shape="rect" id="Node000010" href="$class_unity_editor_1_1_a_i_1_1_nav_mesh_modifier_editor.html" title=" " alt="" coords="109,554,313,594"/>
+<area shape="poly" id="edge11_Node000000_Node000010" title=" " alt="" coords="41,377,48,414,61,458,81,502,111,540,127,551,123,556,107,544,77,505,56,460,42,415,35,378"/>
+<area shape="rect" id="Node000011" href="$class_unity_editor_1_1_a_i_1_1_nav_mesh_modifier_volume_editor.html" title=" " alt="" coords="109,618,313,658"/>
+<area shape="poly" id="edge12_Node000000_Node000011" title=" " alt="" coords="37,378,41,427,52,487,74,550,91,579,111,604,126,616,122,620,107,608,86,582,69,552,47,489,36,428,32,379"/>
+<area shape="rect" id="Node000012" href="$class_unity_editor_1_1_a_i_1_1_nav_mesh_surface_editor.html" title=" " alt="" coords="110,682,313,722"/>
+<area shape="poly" id="edge13_Node000000_Node000012" title=" " alt="" coords="40,377,49,446,64,533,85,615,98,647,111,668,125,680,122,684,107,672,93,649,80,617,59,535,44,447,35,378"/>
 </map>

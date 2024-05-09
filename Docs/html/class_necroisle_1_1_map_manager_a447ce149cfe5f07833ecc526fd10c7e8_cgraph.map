@@ -1,0 +1,20 @@
+<map id="Necroisle.MapManager.RevealAt" name="Necroisle.MapManager.RevealAt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,118,216,143"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_tool.html#a3aba0bbaef1cca10fff95289af91d23e" title=" " alt="" coords="270,29,469,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,115,288,72,290,77,155,120"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_manager.html#a07df5564bea18745e94f081159d7b7eb" title=" " alt="" coords="279,111,459,151"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="216,128,264,128,264,133,216,133"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_map_scene_data.html#a1fb5e263127b1255c7e5f2613fe9d86a" title=" " alt="" coords="264,175,475,201"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="172,141,295,169,293,174,171,147"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="321,30,318,20,326,10,343,5,369,3,397,5,414,11,412,16,396,10,369,8,344,10,329,15,324,21,326,28"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_zone.html#a802f071ff674c4e7e2e95157d8bf8153" title=" " alt="" coords="554,27,713,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="469,43,538,41,538,46,469,48"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_map_data.html#a31a7963c8437479fc0d4f3a92ec29aab" title=" " alt="" coords="555,77,712,102"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="459,114,539,101,540,107,460,119"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_map_tool.html#af3895b09043203d42bf53f29dfc520e3" title=" " alt="" coords="792,157,988,197"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="460,136,777,165,776,170,459,141"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_map_data.html#a4a81ed244b291e3cbbe59e358e139a82" title=" " alt="" coords="523,202,744,227"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="439,149,475,160,579,194,578,199,474,165,438,154"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="725,199,776,191,777,196,726,204"/>
+<area shape="poly" id="edge9_Node000007_Node000007" title=" " alt="" coords="591,203,583,193,588,183,605,177,633,175,665,178,681,185,679,190,664,183,633,181,606,183,591,188,588,193,595,200"/>
+</map>

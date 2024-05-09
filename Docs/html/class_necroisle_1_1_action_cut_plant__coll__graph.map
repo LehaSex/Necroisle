@@ -1,0 +1,9 @@
+<map id="Necroisle.ActionCutPlant" name="Necroisle.ActionCutPlant">
+<area shape="rect" id="Node000001" title="Cut a plant and return it to growth stage 0, and gain items (cut grass)" alt="" coords="5,525,164,611"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_a_action.html" title="Automatic Action parent class: Any action performed automatically when the object is clicked on If yo..." alt="" coords="23,332,147,477"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,492,87,526,82,526,82,492"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_s_action.html" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="29,119,140,284"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,299,87,332,82,332,82,299"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="29,5,140,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="87,85,87,119,82,119,82,85"/>
+</map>

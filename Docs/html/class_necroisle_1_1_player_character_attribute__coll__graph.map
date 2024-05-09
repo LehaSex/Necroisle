@@ -1,0 +1,9 @@
+<map id="Necroisle.PlayerCharacterAttribute" name="Necroisle.PlayerCharacterAttribute">
+<area shape="rect" id="Node000001" title=" " alt="" coords="10,388,199,808"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,190,108,255"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,270,80,388,75,389,60,270"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_attribute_data.html" title="Attribute data (health, hunger, thirst, etc)" alt="" coords="132,120,280,325"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,326,168,372,163,371,176,324"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="151,5,261,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="209,86,209,120,203,120,203,86"/>
+</map>

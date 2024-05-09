@@ -1,0 +1,10 @@
+<map id="Necroisle.ActionOpen" name="Necroisle.ActionOpen">
+<area shape="rect" id="Node000001" title="Open a package with more items inside (like a gift, box)" alt="" coords="56,348,196,433"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_s_action.html" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="5,120,116,285"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,299,114,347,109,349,92,301"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="71,5,181,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="110,85,96,121,91,119,105,83"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_s_data.html" title="SData is the base scriptable object data for this engine." alt="" coords="140,170,248,235"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="147,83,183,169,178,171,143,86"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,236,150,333,145,331,180,234"/>
+</map>

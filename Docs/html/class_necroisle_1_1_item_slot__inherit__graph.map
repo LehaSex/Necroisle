@@ -1,0 +1,9 @@
+<map id="Necroisle.ItemSlot" name="Necroisle.ItemSlot">
+<area shape="rect" id="Node000001" title="Item slot that shows a single item, in your inventory or equipped bar." alt="" coords="10,1072,141,1577"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_equip_slot_u_i.html" title="Allow to set the EquipSlot for the EquipPanel." alt="" coords="5,1625,145,1691"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="78,1592,78,1626,73,1626,73,1592"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot.html" title="Basic class for any type of slot (item, other)" alt="" coords="8,119,143,1024"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,1039,78,1072,73,1072,73,1039"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="24,5,127,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,86,78,119,73,119,73,86"/>
+</map>

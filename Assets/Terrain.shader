@@ -14,10 +14,7 @@ Shader "Custom/TextureBlendingShader" {
         LOD 100
 
         CGPROGRAM
-        #pragma surface surf Standard fullforwardshadows
-
-        // Use shader model 3.0 target, to get nicer looking lighting
-        #pragma target 3.0
+        #pragma surface surf Standard
 
         struct Input {
             float2 uv_MainTex1;
@@ -46,6 +43,9 @@ Shader "Custom/TextureBlendingShader" {
             fixed4 col4 = tex2D(_MainTex4, IN.uv_MainTex4);
 
             fixed4 finalColor = col1 * _BlendRatio1 + col2 * _BlendRatio2 + col3 * _BlendRatio3 + col4 * _BlendRatio4;
+
+            // Multiply final color by directional light color
+            finalColor.rgb *= _LightColor0.rgb;
 
             o.Albedo = finalColor.rgb;
             o.Alpha = finalColor.a;

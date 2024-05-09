@@ -1,0 +1,19 @@
+<map id="Necroisle.WorldGen.BiomeZone.FindAdjacents" name="Necroisle.WorldGen.BiomeZone.FindAdjacents">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,97,184,137"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#add6757e1a5b3f827fc756fbb2d588caf" title=" " alt="" coords="491,97,689,137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,135,232,147,337,154,442,147,494,138,495,144,443,152,337,160,232,152,169,141"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_biome_zone.html#aa60a7c35456c27464f8ece40c6a0cd3c" title=" " alt="" coords="232,33,443,73"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,94,244,75,245,80,174,99"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#a7b1d4bc9980b31aa863e6a080243042a" title=" " alt="" coords="502,161,678,201"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="148,135,189,149,233,160,298,170,364,176,487,180,486,186,364,181,297,175,231,165,187,154,146,140"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_world_gen_1_1_biome_zone.html#af6d84784c74c151073d9a2ea9d84d7ec" title=" " alt="" coords="501,33,679,73"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="115,95,164,53,197,34,231,19,267,10,304,5,378,4,448,13,510,26,509,31,447,18,377,10,304,10,268,15,233,24,199,38,168,58,118,99"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_world_gen_1_1_biome_zone.html#ac901023ed8e00ff9af1eeb2aaeb89118" title=" " alt="" coords="240,97,435,137"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="184,115,224,115,224,120,184,120"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="420,71,494,90,493,96,418,76"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="424,72,444,83,461,99,469,116,477,132,492,147,499,151,496,156,489,151,473,135,464,118,456,103,441,87,421,76"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="443,51,485,51,485,56,443,56"/>
+<area shape="poly" id="edge9_Node000006_Node000002" title=" " alt="" coords="435,115,475,115,475,120,435,120"/>
+<area shape="poly" id="edge10_Node000006_Node000004" title=" " alt="" coords="420,135,494,154,493,160,418,140"/>
+<area shape="poly" id="edge11_Node000006_Node000005" title=" " alt="" coords="418,94,493,75,494,80,420,99"/>
+</map>

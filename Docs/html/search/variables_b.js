@@ -1,5 +1,29 @@
 var searchData=
 [
-  ['object_5ftitle_0',['object_title',['../class_necroisle_1_1_editor_tool_1_1_create_object.html#afd735866fa6e171c8fe0c648dbe7a305',1,'Necroisle::EditorTool::CreateObject']]],
-  ['outline_1',['outline',['../class_necroisle_1_1_editor_tool_1_1_create_object_settings.html#a37ba0688dd0b2da8a59ef48901fc853c',1,'Necroisle::EditorTool::CreateObjectSettings']]]
+  ['last_5fsave_0',['last_save',['../class_necroisle_1_1_player_data.html#a0d30407735baf6b834886f7fc339d5e6',1,'Necroisle.PlayerData.last_save'],['../class_necroisle_1_1_map_data.html#a8c35c0c39db1a4ac555c13e5bb9945e3',1,'Necroisle.MapData.last_save']]],
+  ['layer_1',['layer',['../class_necroisle_1_1_regrowth_data.html#a7e13ac1fc1c18e11e70e89e8e382ba3a',1,'Necroisle::RegrowthData']]],
+  ['layermask_2',['layerMask',['../class_necroisle_1_1_nav_mesh_tool_path.html#a50bf7d858212fa0d21974ad0f502b9fa',1,'Necroisle::NavMeshToolPath']]],
+  ['learn_5faudio_3',['learn_audio',['../class_necroisle_1_1_action_learn.html#a65f5f7f883e041c67bb9d79f05ee6b39',1,'Necroisle::ActionLearn']]],
+  ['learn_5flist_4',['learn_list',['../class_necroisle_1_1_action_learn.html#a7254ff5ccdc06d9b829b39cd41ae3488',1,'Necroisle::ActionLearn']]],
+  ['left_5',['left',['../class_necroisle_1_1_u_i_slot.html#aa9190b82e3c837e4927e873cc5e9377a',1,'Necroisle::UISlot']]],
+  ['length_6',['length',['../class_necroisle_1_1_grass_circle.html#a274fbc432c3c5d2666a427fa0c7e9e1a',1,'Necroisle::GrassCircle']]],
+  ['lengthsegments_7',['lengthSegments',['../class_necroisle_1_1_grass_circle.html#ac0b8cdab99d2bb48c44339d4154b3c3b',1,'Necroisle::GrassCircle']]],
+  ['level_8',['level',['../class_necroisle_1_1_level_data.html#a9c7fce8287e607a859b419b988a766ff',1,'Necroisle.LevelData.level'],['../class_necroisle_1_1_player_level_data.html#a0357264c637282758a3dbab6812a4dee',1,'Necroisle.PlayerLevelData.level']]],
+  ['level_5fid_9',['level_id',['../class_necroisle_1_1_x_p_bar.html#a06f5ee7677222330926f11a3ee28cb5a',1,'Necroisle::XPBar']]],
+  ['level_5ftxt_10',['level_txt',['../class_necroisle_1_1_x_p_bar.html#a65e696b1a9c3e6afc3a9a0ac48b52588',1,'Necroisle::XPBar']]],
+  ['levels_11',['levels',['../class_necroisle_1_1_player_character_data.html#ad957a0d8503a4009dc9edeaa91b2f29f',1,'Necroisle.PlayerCharacterData.levels'],['../class_necroisle_1_1_world_gen_1_1_world_generator.html#ad122d94d7d2ca60e727982e6b705cc1c',1,'Necroisle.WorldGen.WorldGenerator.levels']]],
+  ['lifetime_12',['lifetime',['../class_necroisle_1_1_spawn_f_x.html#ab34e54724a70ebc79eafdf65f1eb4d95',1,'Necroisle::SpawnFX']]],
+  ['light_5fmult_13',['light_mult',['../class_necroisle_1_1_weather_data.html#a140283ff3e734a50fa7c26cdb3ead2dc',1,'Necroisle::WeatherData']]],
+  ['limit_5fone_5fitem_14',['limit_one_item',['../class_necroisle_1_1_item_slot_panel.html#a956b609e04b590c9616a26767da873f7',1,'Necroisle::ItemSlotPanel']]],
+  ['load_5ffolder_15',['load_folder',['../class_necroisle_1_1_the_data.html#ad9170fad38bb54480aa398d5efe46da4',1,'Necroisle::TheData']]],
+  ['loadingpanel_16',['LoadingPanel',['../class_necroisle_1_1_main_menu_manager.html#a095b7c4c967ed6f92a496446be4fbf9a',1,'Necroisle::MainMenuManager']]],
+  ['loadingscreenmanager_17',['loadingScreenManager',['../class_necroisle_1_1_main_menu_manager.html#a88b7bcb5efd0f32e041f3475c1ede4f1',1,'Necroisle::MainMenuManager']]],
+  ['locked_18',['locked',['../class_necroisle_1_1_map_viewer.html#ae6d12dbef630e3731e520d7b0567a8eb',1,'Necroisle::MapViewer']]],
+  ['loots_19',['loots',['../class_necroisle_1_1_destructible.html#a53004950312470d6fe8a8823779f3285',1,'Necroisle::Destructible']]],
+  ['luabutton_20',['LuaButton',['../class_necroisle_1_1_main_menu_manager.html#af9465ba971cd5f26a4d365bf09763f1b',1,'Necroisle::MainMenuManager']]],
+  ['luaexecutebuttons_21',['LuaExecuteButtons',['../class_necroisle_1_1_l_u_a_loader.html#a6c1cd34b38b20336472a64c8ea6d7b6e',1,'Necroisle::LUALoader']]],
+  ['luaobjectprefab_22',['luaObjectPrefab',['../class_necroisle_1_1_l_u_a_loader.html#a06cd83c29357fe9d084ed2ccd18938b3',1,'Necroisle::LUALoader']]],
+  ['luapanel_23',['LuaPanel',['../class_necroisle_1_1_main_menu_manager.html#adedf121b362305bc9b06085252e332e7',1,'Necroisle::MainMenuManager']]],
+  ['luarefreshbutton_24',['luarefreshbutton',['../class_necroisle_1_1_l_u_a_loader.html#a77926c46db70f0f2b0d010e888a08741',1,'Necroisle.LUALoader.LuaRefreshButton'],['../class_necroisle_1_1_main_menu_manager.html#aa125a2a245f03c19d549efb404fc7536',1,'Necroisle.MainMenuManager.LuaRefreshButton']]],
+  ['luascript_25',['luaScript',['../class_necroisle_1_1_mod_injector.html#a43985ecbe45c0595e4134b8a7f6c7dc2',1,'Necroisle::ModInjector']]]
 ];

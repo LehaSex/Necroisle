@@ -1,0 +1,30 @@
+<map id="Necroisle.WorldGen.WorldGenerator.GenerateZones" name="Necroisle.WorldGen.WorldGenerator.GenerateZones">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,181,103"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#ab885c1a0e6a2369e560b2af95c60e20b" title=" " alt="" coords="237,31,413,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,68,221,62,221,68,182,73"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a9e06c5654ae1260fa243802931c677e5" title=" " alt="" coords="229,95,420,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,92,214,97,213,102,181,97"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a78f738f8e7b6ae5f1ab5405d5ac46b5e" title=" " alt="" coords="468,95,659,135"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="421,112,452,112,452,117,421,117"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#af86787171d1f9fbf3e6a46501a830487" title=" " alt="" coords="707,63,897,103"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="659,99,691,95,691,100,660,104"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#ae6784759d4e37519f09dca8d6edd8116" title=" " alt="" coords="707,127,897,167"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="660,125,691,129,691,134,659,130"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_world_gen_1_1_vertex.html#a42a10748f3b3df1fb370c28e3c2c57d2" title=" " alt="" coords="963,5,1147,45"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="876,124,896,113,910,99,919,84,928,70,944,55,952,50,955,55,947,59,932,73,923,87,915,102,899,117,878,128"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a31177ff6d896b436d9ebf52615f3a258" title=" " alt="" coords="953,69,1158,109"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="893,123,949,111,950,116,894,129"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#aae565ccff6874046e5d4d6b54d14653c" title=" " alt="" coords="1213,124,1404,164"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="898,144,1198,142,1198,147,898,149"/>
+<area shape="rect" id="Node000011" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a0e45b28aca18b838ad6ab7cad772a3b9" title=" " alt="" coords="945,184,1165,224"/>
+<area shape="poly" id="edge10_Node000006_Node000011" title=" " alt="" coords="894,165,950,177,949,183,893,170"/>
+<area shape="rect" id="Node000014" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a023cf6f5f4beea84fa745c91eae9f348" title=" " alt="" coords="960,248,1151,288"/>
+<area shape="poly" id="edge14_Node000006_Node000014" title=" " alt="" coords="832,165,884,200,946,234,962,240,960,245,944,238,881,204,829,169"/>
+<area shape="rect" id="Node000010" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a002b60ca96f69ed25a6efd3fe296e3ea" title=" " alt="" coords="1452,124,1643,164"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="1405,141,1436,141,1436,147,1405,147"/>
+<area shape="rect" id="Node000012" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#adf42d10535babb17e386274ea957be62" title=" " alt="" coords="1213,188,1404,228"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1166,203,1198,204,1198,209,1166,208"/>
+<area shape="poly" id="edge13_Node000012_Node000010" title=" " alt="" coords="1385,185,1455,166,1456,171,1387,190"/>
+<area shape="rect" id="Node000013" href="$class_necroisle_1_1_world_gen_1_1_triangle.html#a158c34180e880c0961a2ef494ce67663" title=" " alt="" coords="1452,188,1643,228"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="1405,205,1436,205,1436,211,1405,211"/>
+</map>

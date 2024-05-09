@@ -1,0 +1,9 @@
+<map id="Necroisle.PlayerController.IsDoingAction" name="Necroisle.PlayerController.IsDoingAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,69,403,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_inventory.html#af3d880552f2751a978dc699877da40be" title=" " alt="" coords="5,5,179,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,67,163,48,165,43,229,62"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_character_jump.html#a5c93e2ecd4a3d4d34cd27d26c157d39c" title=" " alt="" coords="5,69,179,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,92,179,92,179,87,211,87"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_character_inventory.html#a7ebecf35b6d334f2badd7e0ae73291d7" title=" " alt="" coords="5,133,179,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,117,165,135,163,130,227,112"/>
+</map>

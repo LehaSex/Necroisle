@@ -1,0 +1,9 @@
+<map id="Necroisle.Buildable.StartBuild" name="Necroisle.Buildable.StartBuild">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,27,171,67"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_the_game.html#a9d6907252c9d50e448285b354c0cdf3d" title=" " alt="" coords="219,5,407,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,34,203,30,204,35,171,39"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_buildable.html#a2b73dfb4064dd219f3f556cc2d6d1ac0" title=" " alt="" coords="219,55,406,95"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="171,55,204,59,203,64,170,60"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_web_g_l_tool.html#a603638e0adc123c5d455a674d9c0092f" title=" " alt="" coords="455,5,655,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,15,439,15,439,21,407,21"/>
+</map>

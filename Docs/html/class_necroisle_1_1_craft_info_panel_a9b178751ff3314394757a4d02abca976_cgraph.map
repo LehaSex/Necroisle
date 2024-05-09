@@ -1,0 +1,7 @@
+<map id="Necroisle.CraftInfoPanel.ShowData" name="Necroisle.CraftInfoPanel.ShowData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,169,63"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_slot.html#acac28c01decc2094e37e079be391c1b2" title=" " alt="" coords="217,5,424,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,32,201,28,202,34,170,37"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_u_i_panel.html#ae5ae64091d18f4ab546d73ce67dd04d1" title=" " alt="" coords="240,55,401,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,49,225,55,224,60,170,54"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Necroisle.ActionSelectorButton" name="Necroisle.ActionSelectorButton">
+<area shape="rect" id="Node000001" title="One of the buttons on the ActionSelector." alt="" coords="5,1072,163,1232"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot.html" title="Basic class for any type of slot (item, other)" alt="" coords="17,119,151,1024"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,1039,87,1072,81,1072,81,1039"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="33,5,135,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,86,87,119,81,119,81,86"/>
+</map>

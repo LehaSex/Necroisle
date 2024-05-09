@@ -1,0 +1,5 @@
+<map id="Necroisle.TooltipPanel.Update" name="Necroisle.TooltipPanel.Update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,201,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_tooltip_panel.html#a8b28fca390166a3354b3b6580e66fa1e" title=" " alt="" coords="249,5,431,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,15,234,15,234,21,202,21"/>
+</map>

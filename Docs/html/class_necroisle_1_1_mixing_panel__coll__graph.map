@@ -1,0 +1,29 @@
+<map id="Necroisle.MixingPanel" name="Necroisle.MixingPanel">
+<area shape="rect" id="Node000001" title="Main UI panel for storages boxes (chest)" alt="" coords="167,5921,318,6307"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_slot_panel.html" title="Generic parent UI panel that manages multiple item slots (Inventory/Equip/Storage,..." alt="" coords="248,4993,443,5859"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="297,5874,293,5898,289,5922,284,5921,288,5897,292,5873"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_u_i_slot_panel.html" title="Basic class for any panel containing slots that can be selected." alt="" coords="275,4229,415,4854"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="348,4869,348,4994,343,4994,343,4869"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_u_i_panel.html" title="Generic script for any UI panel, can be inherited." alt="" coords="108,120,220,445"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="185,460,185,469,250,1244,297,1846,333,2450,363,3227,368,3490,368,3756,359,4229,354,4229,363,3756,362,3490,357,3227,327,2450,292,1847,245,1244,180,470,179,461"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_u_i_slot_panel.html" title="Basic class for any panel containing slots that can be selected." alt="" coords="94,2539,234,3164"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="167,460,167,2539,161,2539,161,460"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="58,5,161,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="122,85,130,120,125,121,117,86"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_u_i_slot.html" title="Basic class for any type of slot (item, other)" alt="" coords="146,3227,281,4032"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="103,86,99,120,72,488,58,799,55,1073,58,1328,75,1858,82,2170,84,2539,80,2635,69,2718,45,2859,39,2926,41,2996,55,3074,84,3163,96,3182,111,3194,127,3206,142,3225,148,3238,144,3240,138,3228,124,3209,108,3198,92,3186,79,3165,49,3075,35,2997,34,2926,40,2858,64,2717,74,2635,79,2539,76,2170,70,1858,53,1328,49,1073,53,799,67,487,93,120,98,85"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_player_controller.html" title=" " alt="" coords="406,469,581,2515"/>
+<area shape="poly" id="edge12_Node000008_Node000005" title=" " alt="" coords="175,70,206,92,234,118,302,204,326,242,344,280,374,362,404,469,409,486,403,487,399,470,369,364,340,282,321,245,298,207,230,122,202,96,172,74"/>
+<area shape="rect" id="Node000010" href="$class_necroisle_1_1_u_i_slot.html" title="Basic class for any type of slot (item, other)" alt="" coords="23,4139,158,4944"/>
+<area shape="poly" id="edge15_Node000010_Node000005" title=" " alt="" coords="80,84,56,124,33,173,15,226,8,282,8,3631,11,3758,17,3888,39,4139,34,4139,12,3888,5,3758,3,3631,3,281,10,225,28,171,51,122,76,81"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="274,4031,300,4212,295,4212,269,4032"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="283,3549,292,3559,300,3576,306,3599,307,3629,304,3669,295,3696,290,3694,299,3668,302,3629,300,3600,295,3577,288,3562,279,3553"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="143,3251,143,3188,143,3181,148,3181,148,3188,149,3251"/>
+<area shape="poly" id="edge16_Node000010_Node000006" title=" " alt="" coords="162,4032,150,4122,144,4121,157,4031"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="193,3163,195,3188,196,3210,191,3210,189,3188,188,3164"/>
+<area shape="poly" id="edge17_Node000010_Node000007" title=" " alt="" coords="97,3164,89,3227,72,3456,65,3689,65,3914,70,4121,64,4122,59,3915,59,3689,67,3456,84,3226,92,3163"/>
+<area shape="poly" id="edge11_Node000002_Node000008" title=" " alt="" coords="477,2515,472,3194,472,4543,469,4651,461,4761,436,4977,430,4976,456,4761,464,4651,467,4543,467,3194,472,2515"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_item_slot.html" title="Item slot that shows a single item, in your inventory or equipped bar." alt="" coords="84,5173,215,5679"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="186,5678,217,5904,212,5905,181,5679"/>
+<area shape="poly" id="edge14_Node000009_Node000010" title=" " alt="" coords="121,4959,135,5173,130,5174,116,4959"/>
+</map>

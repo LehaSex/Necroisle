@@ -1,0 +1,6 @@
+<map id="Necroisle.TheGame.Save" name="Necroisle.TheGame.Save">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,173,55"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="53,30,46,21,50,11,65,5,89,3,116,5,129,12,127,17,114,10,89,8,66,10,54,15,51,20,58,27"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_data.html#a3a1b590972f900f8d1e6813ef3f48f8b" title=" " alt="" coords="221,29,391,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,39,206,39,206,45,173,45"/>
+</map>

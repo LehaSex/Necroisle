@@ -1,0 +1,5 @@
+<map id="Necroisle.TheAudio" name="Necroisle.TheAudio">
+<area shape="rect" id="Node000001" title="Manager script to play audio on different channels, two sounds can&#39;t play on the same chanel." alt="" coords="5,119,181,444"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="42,5,145,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,85,96,119,91,119,91,85"/>
+</map>

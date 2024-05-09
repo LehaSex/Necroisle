@@ -1,0 +1,7 @@
+<map id="Necroisle.TheUI.IsBlockingPanelOpened" name="Necroisle.TheUI.IsBlockingPanelOpened">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,37,419,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_controls_mouse.html#ab7303f24d198bb2aa9bf8a485cfdafe5" title=" " alt="" coords="9,5,190,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,46,190,41,191,35,227,40"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_craft_panel.html#ab3277d34d0060311e9fba414e62771e6" title=" " alt="" coords="5,69,193,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="227,74,194,79,194,74,226,69"/>
+</map>

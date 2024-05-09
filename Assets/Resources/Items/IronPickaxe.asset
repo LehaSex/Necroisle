@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8eeaef4e1d3af6e49bdb53b6a51bd510, type: 3}
+  m_Name: IronPickaxe
+  m_EditorClassIdentifier: 
+  id: ironpickaxe
+  title: "\u0416\u0435\u043B\u0435\u0437\u043D\u0430\u044F \u041A\u0438\u0440\u043A\u0430"
+  icon: {fileID: 21300000, guid: 277e083a13c88c943be15e9b772f8678, type: 3}
+  desc: "\u041B\u043E\u043C\u0430\u0435\u0442 \u043A\u0430\u043C\u0435\u043D\u044C"
+  groups:
+  - {fileID: 11400000, guid: 4723df1d872dc754188b96c803a1bcf4, type: 2}
+  - {fileID: 11400000, guid: e8b56f12c6315fe46aa88beea8997010, type: 2}
+  craftable: 1
+  craft_quantity: 1
+  craft_duration: 0
+  craft_sort_order: 0
+  craft_near: {fileID: 0}
+  craft_items:
+  - {fileID: 11400000, guid: ede2b643758395842ab1574efeab871c, type: 2}
+  - {fileID: 11400000, guid: ede2b643758395842ab1574efeab871c, type: 2}
+  - {fileID: 11400000, guid: ede2b643758395842ab1574efeab871c, type: 2}
+  craft_fillers: []
+  craft_requirements: []
+  craft_xp: 0
+  craft_xp_type: 
+  craft_sound: {fileID: 8300000, guid: 4d94bbef739d431428c55a32685cd11e, type: 3}
+  type: 20
+  inventory_max: 1
+  durability_type: 5
+  durability: 100
+  equip_slot: 10
+  equip_side: 2
+  armor: 0
+  bag_size: 0
+  equip_bonus: []
+  weapon_type: 10
+  damage: 30
+  range: 1
+  attack_speed: 1
+  attack_cooldown: 1
+  strike_per_attack: 0
+  strike_interval: 0
+  eat_hp: 0
+  eat_hunger: 0
+  eat_thirst: 0
+  eat_happiness: 0
+  eat_bonus: []
+  eat_bonus_duration: 0
+  actions:
+  - {fileID: 11400000, guid: 0efc65a5b0a6b0f44a5755e78d6a2421, type: 2}
+  - {fileID: 11400000, guid: 925a6e1b7dcbc764cb15f91d825e9437, type: 2}
+  - {fileID: 11400000, guid: b116f3b69981762499597fee1be4496a, type: 2}
+  buy_cost: 0
+  sell_cost: 0
+  container_data: {fileID: 0}
+  plant_data: {fileID: 0}
+  construction_data: {fileID: 0}
+  character_data: {fileID: 0}
+  projectile_group: {fileID: 0}
+  item_prefab: {fileID: 7187422828308164559, guid: 4c8578b7ca5ee4d4cba8273cbf158294, type: 3}
+  equipped_prefab: {fileID: 7923607199914860708, guid: 88f54a22c89803d4ca4650e5b5fbc7ac, type: 3}
+  projectile_prefab: {fileID: 0}

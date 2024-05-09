@@ -1,0 +1,9 @@
+<map id="Necroisle.Selectable.CanAutoInteract" name="Necroisle.Selectable.CanAutoInteract">
+<area shape="rect" id="Node000001" title=" " alt="" coords="451,37,619,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_combat.html#a62539adb591b4279b52ec7a0b622a8a6" title=" " alt="" coords="229,5,403,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="435,45,403,41,404,35,436,40"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_selectable.html#a90e68f51b74b524ff8953d4cac0b28cd" title=" " alt="" coords="233,69,399,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="436,74,400,80,399,75,435,69"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_controller.html#a32f7f2a805ef0c32fd1102d03166c82e" title=" " alt="" coords="5,69,181,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,92,182,92,182,87,217,87"/>
+</map>

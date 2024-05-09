@@ -1,0 +1,16 @@
+<map id="Necroisle.PlayerCharacterCombat.GetProjectileSpawnPos" name="Necroisle.PlayerCharacterCombat.GetProjectileSpawnPos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,213,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_inventory.html#aea7d5350f2718b35d00987ad7a0bf92e" title=" " alt="" coords="261,5,460,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,41,245,37,246,43,214,47"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_inventory_data.html#ad1293019f53866733ab3351b97a0c464" title=" " alt="" coords="275,69,447,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,68,259,74,259,79,214,73"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_inventory_data.html#a5fdc446cab7ce74b69050fedf12850a9" title=" " alt="" coords="520,101,683,141"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="448,98,505,106,504,111,447,103"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_inventory_item_data.html#a606c1dd770c9e267cc96246b4683bcbf" title=" " alt="" coords="508,37,695,77"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="447,75,492,69,493,74,448,81"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_item_data.html#ace6ab6611cc54017e60f3985708ba674" title=" " alt="" coords="761,53,919,78"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="683,100,767,80,768,85,684,105"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_item_data.html#a83b49ead0e7561f5a3dcd13db0872256" title=" " alt="" coords="743,109,937,134"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="683,119,727,119,727,124,683,124"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="695,58,746,60,746,65,695,63"/>
+</map>

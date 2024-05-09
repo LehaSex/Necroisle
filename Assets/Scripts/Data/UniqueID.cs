@@ -6,8 +6,7 @@ namespace Necroisle
 {
 
     /// <summary>
-    /// Helps to generate unique ids for each individual instance of objects in the scene. 
-    /// Unique IDs are mostly used in the save file to keep track of the state of an object.
+    /// Уникальный айдишник для уникального инстанса предмета
     /// </summary>
 
     public class UniqueID : MonoBehaviour

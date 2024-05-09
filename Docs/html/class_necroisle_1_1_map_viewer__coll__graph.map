@@ -1,0 +1,8 @@
+<map id="Necroisle.MapViewer" name="Necroisle.MapViewer">
+<area shape="rect" id="Node000001" title="Renders the map." alt="" coords="5,508,204,1213"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="48,5,151,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,86,105,508,100,509,97,86"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_u_i_panel.html" title="Generic script for any UI panel, can be inherited." alt="" coords="121,120,238,445"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="117,84,129,120,124,121,112,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,445,155,492,150,491,156,445"/>
+</map>

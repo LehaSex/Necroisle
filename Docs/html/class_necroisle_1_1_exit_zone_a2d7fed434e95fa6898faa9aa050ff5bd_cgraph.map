@@ -1,0 +1,9 @@
+<map id="Necroisle.ExitZone.EnterZone" name="Necroisle.ExitZone.EnterZone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,200,60"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_the_game.html#a4a7132acb1d325667008180e7a5a487d" title=" " alt="" coords="265,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,33,249,27,250,32,201,38"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_the_game.html#a4826ab649a8a62bf4e11d6d777ca652e" title=" " alt="" coords="248,55,444,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,56,233,60,232,65,200,61"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_scene_nav.html#a9d602fcfcb838c9bdfdfef6634b4a1a6" title=" " alt="" coords="492,55,687,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="445,73,477,73,477,78,445,78"/>
+</map>

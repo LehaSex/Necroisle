@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38d63eba896e0f144b66d0da66265db1, type: 3}
+  m_Name: PlentyPlainTree
+  m_EditorClassIdentifier: 
+  density: 20
+  variance: 50
+  random_rotation: 1
+  random_scale: 0.1
+  spawns:
+  - prefab: {fileID: 8699214700739271863, guid: ebbc9a2895f4662468e9ad42dc8b51ce, type: 3}
+    probability: 4
+  - prefab: {fileID: 8699214700739271863, guid: 49a589ab9d7affb48a5b2b907ba78bb5, type: 3}
+    probability: 5
+  - prefab: {fileID: 7370896937148047224, guid: f73f23589de182049a2792d275acc85a, type: 3}
+    probability: 2
+  - prefab: {fileID: 7904449135149145374, guid: 932f97ab53afe1244b541af7e19e932f, type: 3}
+    probability: 2
+  - prefab: {fileID: 5344605213599138023, guid: 646e668c896a4424da2efff782b387b6, type: 3}
+    probability: 3

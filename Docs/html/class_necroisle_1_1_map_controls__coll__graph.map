@@ -1,0 +1,7 @@
+<map id="Necroisle.MapControls" name="Necroisle.MapControls">
+<area shape="rect" id="Node000001" title="Keyboard controls manager." alt="" coords="31,133,186,619"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,108,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,85,74,133,69,134,61,85"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="133,5,191,71"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="160,71,152,117,147,116,154,70"/>
+</map>

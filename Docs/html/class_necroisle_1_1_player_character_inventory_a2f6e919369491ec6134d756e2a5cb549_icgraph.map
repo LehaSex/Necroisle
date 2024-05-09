@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerCharacterInventory.RemoveEquipItem" name="Necroisle.PlayerCharacterInventory.RemoveEquipItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="240,5,421,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_water_plant.html#ada2ea4090e4fdf95321ac2cfbedaaffd" title=" " alt="" coords="5,5,192,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,28,192,28,192,23,224,23"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="Necroisle.MAction" name="Necroisle.MAction">
+<area shape="rect" id="Node000001" title="Merge Action parent class: Any action that happens when mixing two items (ex: coconut and axe),..." alt="" coords="507,332,627,497"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_action_add_fuel.html" title="Add fuel to a fire (wood, grass, etc)" alt="" coords="5,585,163,651"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="493,435,343,478,258,509,176,548,146,567,119,588,116,583,143,562,173,543,256,504,341,473,492,430"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_action_cook.html" title="Cook an item on the fire (like raw meat)" alt="" coords="187,575,325,661"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="495,455,418,497,339,548,301,578,298,574,336,543,415,492,492,450"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_action_cut.html" title="Cut an item with another item (ex: open coconut with axe)" alt="" coords="350,585,479,651"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="500,508,440,587,436,584,496,505"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_action_fill.html" title="Fill a jug with water (or other)" alt="" coords="503,585,630,651"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="569,512,569,586,564,586,564,512"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_action_fill_provider.html" title="Fill a jug with item from item provider." alt="" coords="654,575,826,661"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="638,495,707,574,703,577,634,498"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_action_furnace.html" title="Melt an item in the furnace." alt="" coords="850,545,1006,691"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="642,443,738,487,840,543,852,551,849,555,837,548,736,492,640,448"/>
+<area shape="rect" id="Node000010" href="$class_necroisle_1_1_action_repair.html" title="Action to repair a building/items with a repair kit." alt="" coords="1031,555,1177,681"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="642,425,722,441,819,465,921,499,1020,543,1037,553,1034,558,1017,548,920,504,817,471,721,446,641,430"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_s_action.html" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="511,119,622,284"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="569,299,569,332,564,332,564,299"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="511,5,622,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="569,85,569,119,564,119,564,85"/>
+</map>

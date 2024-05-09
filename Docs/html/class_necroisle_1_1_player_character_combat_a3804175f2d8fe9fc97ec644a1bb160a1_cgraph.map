@@ -1,0 +1,16 @@
+<map id="Necroisle.PlayerCharacterCombat.HasRangedWeapon" name="Necroisle.PlayerCharacterCombat.HasRangedWeapon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,192,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_inventory_data.html#ad1293019f53866733ab3351b97a0c464" title=" " alt="" coords="249,37,421,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,74,234,68,235,74,193,79"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_item_data.html#acead414b5109e6fe9e5d044877b42590" title=" " alt="" coords="240,101,431,141"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="193,99,225,104,224,109,192,105"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_inventory_data.html#a5fdc446cab7ce74b69050fedf12850a9" title=" " alt="" coords="491,69,653,109"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="422,66,476,74,475,79,421,72"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_inventory_item_data.html#a606c1dd770c9e267cc96246b4683bcbf" title=" " alt="" coords="479,5,665,45"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="421,43,463,37,464,43,422,48"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_item_data.html#ace6ab6611cc54017e60f3985708ba674" title=" " alt="" coords="732,21,889,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="653,68,738,48,739,53,655,73"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_item_data.html#a83b49ead0e7561f5a3dcd13db0872256" title=" " alt="" coords="713,77,908,102"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="654,87,698,87,698,92,654,92"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="666,26,717,28,716,33,666,31"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Necroisle.KeyControlsUI.Navigate" name="Necroisle.KeyControlsUI.Navigate">
+<area shape="rect" id="Node000001" title=" " alt="" coords="435,37,601,77"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="553,24,540,18,518,16,497,18,485,23,481,29,483,36,478,38,475,28,482,18,496,13,518,11,542,13,555,19"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_key_controls_u_i.html#a78d8e712331dcab8f09d42fd761cc379" title=" " alt="" coords="220,5,387,45"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="419,45,387,40,387,35,419,40"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_key_controls_u_i.html#a149732384e7c06d5a395e79bdfd66e74" title=" " alt="" coords="220,69,387,109"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="419,75,387,80,387,74,419,69"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_key_controls_u_i.html#a3e41fc1f330ac8efe7308380c297a443" title=" " alt="" coords="5,37,172,77"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="205,43,173,48,172,42,204,37"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="204,77,172,72,173,67,205,72"/>
+</map>

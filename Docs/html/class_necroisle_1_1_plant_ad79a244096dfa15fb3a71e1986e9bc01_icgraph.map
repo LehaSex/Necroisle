@@ -1,0 +1,5 @@
+<map id="Necroisle.Plant.CountInRange" name="Necroisle.Plant.CountInRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,13,417,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_craftable.html#a2c7e7c0ef1156917bc1f834425d65300" title=" " alt="" coords="5,5,175,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,28,175,28,175,23,207,23"/>
+</map>

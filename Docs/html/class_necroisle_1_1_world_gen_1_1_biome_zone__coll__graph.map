@@ -1,0 +1,14 @@
+<map id="Necroisle.WorldGen.BiomeZone" name="Necroisle.WorldGen.BiomeZone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,599,204,1004"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="32,421,135,486"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,501,95,599,90,599,84,501"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_biome_data.html" title=" " alt="" coords="159,371,357,536"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,537,203,585,198,582,220,535"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="161,23,272,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="224,103,245,308,251,371,246,371,239,308,219,103"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_world_gen_1_1_biome_spawn_data.html" title=" " alt="" coords="254,168,425,308"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="249,99,295,167,290,170,244,102"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="316,309,298,356,293,354,311,307"/>
+<area shape="rect" id="Node000006" href="$struct_necroisle_1_1_world_gen_1_1_biome_spawn.html" title=" " alt="" coords="297,5,467,105"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="373,106,362,152,357,151,368,104"/>
+</map>

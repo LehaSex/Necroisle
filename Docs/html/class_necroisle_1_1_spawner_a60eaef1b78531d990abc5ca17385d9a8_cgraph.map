@@ -1,0 +1,10 @@
+<map id="Necroisle.Spawner.CountObjectsInRange" name="Necroisle.Spawner.CountObjectsInRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,219,69"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_craft_data.html#a7e48390e1934905b4a15578b27c3d392" title=" " alt="" coords="267,29,439,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,47,251,47,251,52,219,52"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_craft_data.html#a7e724da4abbcedeef0ba73995bb0bf60" title=" " alt="" coords="487,29,659,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="439,47,471,47,471,52,439,52"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_craftable.html#acb86f92ab9021de29c0a4ec59e3ae2e7" title=" " alt="" coords="707,29,876,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="659,47,691,47,691,52,659,52"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="750,30,748,20,754,10,769,5,791,3,815,5,829,11,827,16,814,10,791,8,770,10,758,15,753,21,755,28"/>
+</map>

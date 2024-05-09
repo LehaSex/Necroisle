@@ -1,0 +1,19 @@
+<map id="Necroisle.ItemSlotPanel" name="Necroisle.ItemSlotPanel">
+<area shape="rect" id="Node000001" title="Generic parent UI panel that manages multiple item slots (Inventory/Equip/Storage,..." alt="" coords="301,1185,496,2071"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_bag_panel.html" title="Main UI panel for storages boxes (chest)" alt="" coords="5,2239,133,2404"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="297,1819,221,1965,148,2120,100,2240,95,2238,143,2118,216,1963,292,1817"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_equip_panel.html" title="Shows currently equipped items." alt="" coords="157,2229,296,2414"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="300,2035,252,2230,247,2229,295,2034"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_inventory_panel.html" title="Main Inventory bar that list all items in your inventory." alt="" coords="321,2239,477,2404"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="401,2086,401,2239,396,2239,396,2086"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_mixing_panel.html" title="Main UI panel for storages boxes (chest)" alt="" coords="501,2119,651,2524"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="502,2022,527,2118,522,2120,497,2023"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_storage_panel.html" title="Main UI panel for storages boxes (chest)" alt="" coords="675,2199,826,2444"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="506,1811,586,1960,666,2118,703,2198,698,2200,662,2120,582,1963,501,1814"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot_panel.html" title="Basic class for any panel containing slots that can be selected." alt="" coords="329,492,469,1137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="401,1152,401,1186,396,1186,396,1152"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_u_i_panel.html" title="Generic script for any UI panel, can be inherited." alt="" coords="343,119,455,444"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="401,459,401,492,396,492,396,459"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="347,5,450,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="401,85,401,119,396,119,396,85"/>
+</map>

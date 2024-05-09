@@ -1,0 +1,29 @@
+<map id="Necroisle.CraftSubPanel.Show" name="Necroisle.CraftSubPanel.Show">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,185,204,210"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_craft_sub_panel.html#a1b94ce1e0d4eb6b27e4704fbf0173729" title=" " alt="" coords="252,177,419,217"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,195,236,195,236,200,204,200"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_slot.html#acac28c01decc2094e37e079be391c1b2" title=" " alt="" coords="693,234,900,259"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,200,646,221,699,229,699,234,645,227,418,206"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_craft_data.html#a35c11a8603f75ef53ec945fb2a90f9c1" title=" " alt="" coords="469,5,643,45"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="349,175,396,116,429,84,465,55,473,50,476,55,468,60,432,88,400,120,353,179"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_craft_sub_panel.html#a123541f1c951b521df4a65eb07517456" title=" " alt="" coords="473,69,639,109"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="372,174,465,126,491,114,494,118,468,130,375,179"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_player_u_i.html#afa865821b9f33aa5dd5c2d928b57a7fc" title=" " alt="" coords="701,134,892,159"/>
+<area shape="poly" id="edge9_Node000002_Node000008" title=" " alt="" coords="419,186,686,156,686,161,419,191"/>
+<area shape="rect" id="Node000010" href="$class_necroisle_1_1_u_i_slot.html#a6bdacddd2522abf66478825f826a240d" title=" " alt="" coords="483,235,629,261"/>
+<area shape="poly" id="edge10_Node000002_Node000010" title=" " alt="" coords="420,214,484,229,483,234,418,219"/>
+<area shape="rect" id="Node000011" href="$class_necroisle_1_1_u_i_panel.html#a2fb62d7125179f7a4597b78d692e3655" title=" " alt="" coords="467,285,645,310"/>
+<area shape="poly" id="edge11_Node000002_Node000011" title=" " alt="" coords="368,216,414,244,468,271,484,277,482,282,466,276,411,249,365,220"/>
+<area shape="rect" id="Node000012" href="$class_necroisle_1_1_item_slot.html#afdcc1f6d6b5223c31ff0f7bd0c377b72" title=" " alt="" coords="469,334,643,359"/>
+<area shape="poly" id="edge12_Node000002_Node000012" title=" " alt="" coords="354,216,402,269,433,297,468,320,478,326,476,330,465,325,430,301,398,272,350,220"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_craft_data.html#a0c031bb80ead6a148e4b207cde7f1711" title=" " alt="" coords="699,13,895,38"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="644,23,683,23,683,28,644,28"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_player_controller.html#a984d8d9f8543c5491d1b75ab9942761e" title=" " alt="" coords="709,69,885,109"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="640,87,693,87,693,92,640,92"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="641,107,726,127,725,132,639,112"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_player_controller.html#a26ca3e925bbd306909355b2b9865d3b8" title=" " alt="" coords="948,134,1145,159"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="893,144,933,144,933,149,893,149"/>
+<area shape="poly" id="edge13_Node000012_Node000003" title=" " alt="" coords="612,331,644,320,706,293,759,265,761,269,708,298,646,325,614,336"/>
+<area shape="rect" id="Node000013" href="$class_necroisle_1_1_u_i_slot.html#a5307e35b8c654e5b193887ea27eaeb5e" title=" " alt="" coords="721,334,872,359"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="644,344,706,344,706,349,644,349"/>
+</map>

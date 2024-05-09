@@ -1,0 +1,6 @@
+<map id="Necroisle.MapData.GetSceneData" name="Necroisle.MapData.GetSceneData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,227,55"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="74,31,65,21,70,11,88,5,116,3,148,5,164,13,161,17,146,11,116,8,89,10,74,15,71,20,78,27"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_tool.html#af3895b09043203d42bf53f29dfc520e3" title=" " alt="" coords="275,22,471,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,39,259,39,259,45,227,45"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Necroisle.WeatherSystem.Get" name="Necroisle.WeatherSystem.Get">
+<area shape="rect" id="Node000001" title=" " alt="" coords="273,31,472,56"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_the_render.html#a30b710553ba7bd82ad3ac91b6a8dced7" title=" " alt="" coords="5,5,225,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="258,35,226,32,226,26,258,29"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_the_game.html#a81d9007233798a1622dd44d60962f08f" title=" " alt="" coords="16,55,215,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="258,57,216,61,215,55,257,51"/>
+</map>

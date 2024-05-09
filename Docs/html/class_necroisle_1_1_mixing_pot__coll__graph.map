@@ -1,0 +1,45 @@
+<map id="Necroisle.MixingPot" name="Necroisle.MixingPot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,1774,136,1859"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="11,1026,114,1091"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="66,1106,73,1774,68,1774,60,1106"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_data.html" title="Data file for Items." alt="" coords="383,656,537,1461"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="385,1153,211,1362,110,1487,88,1557,76,1630,70,1699,70,1757,65,1757,65,1699,70,1629,83,1555,106,1484,207,1359,381,1150"/>
+<area shape="poly" id="edge20_Node000003_Node000003" title=" " alt="" coords="539,980,549,991,557,1007,562,1030,564,1059,561,1097,551,1124,546,1122,555,1096,559,1059,557,1031,552,1009,545,994,535,984"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_craft_data.html" title="Parent data class for craftable items (items, constructions, plants)" alt="" coords="534,2172,701,2757"/>
+<area shape="poly" id="edge9_Node000004_Node000003" title=" " alt="" coords="482,1461,505,1879,516,2034,524,2109,530,2120,537,2132,546,2155,541,2157,532,2134,525,2123,519,2110,510,2035,500,1879,477,1461"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_craft_data.html" title="Parent data class for craftable items (items, constructions, plants)" alt="" coords="827,1524,994,2109"/>
+<area shape="poly" id="edge13_Node000009_Node000003" title=" " alt="" coords="540,1209,606,1332,680,1460,820,1679,816,1682,675,1463,602,1335,535,1211"/>
+<area shape="rect" id="Node000013" href="$class_necroisle_1_1_construction_data.html" title="Data file for Constructions." alt="" coords="227,2807,399,2972"/>
+<area shape="poly" id="edge25_Node000013_Node000003" title=" " alt="" coords="385,1317,332,1525,287,1698,251,1834,237,1900,229,1971,225,2052,228,2148,242,2326,261,2502,301,2789,295,2790,256,2503,237,2326,223,2148,220,2052,223,1970,232,1899,245,1833,282,1697,327,1523,380,1315"/>
+<area shape="rect" id="Node000014" href="$class_necroisle_1_1_character_data.html" title="Data file for Characters." alt="" coords="661,2837,816,2942"/>
+<area shape="poly" id="edge28_Node000014_Node000003" title=" " alt="" coords="540,1252,568,1306,601,1360,638,1412,679,1459,690,1467,701,1470,712,1474,722,1484,729,1661,734,2053,741,2820,736,2820,729,2053,724,1661,718,1486,709,1478,699,1475,688,1471,676,1463,634,1416,596,1363,563,1309,535,1255"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="632,2157,634,2010,631,1850,621,1686,601,1524,573,1392,535,1265,540,1264,578,1391,607,1524,626,1685,637,1850,640,2010,638,2157"/>
+<area shape="rect" id="Node000012" href="$class_necroisle_1_1_plant_data.html" title="Data file for plants." alt="" coords="453,2817,605,2962"/>
+<area shape="poly" id="edge22_Node000012_Node000004" title=" " alt="" coords="556,2772,547,2817,542,2816,551,2771"/>
+<area shape="poly" id="edge24_Node000013_Node000004" title=" " alt="" coords="528,2595,374,2808,370,2805,523,2592"/>
+<area shape="poly" id="edge27_Node000014_Node000004" title=" " alt="" coords="707,2769,727,2836,721,2838,702,2771"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_id_data.html" title="IdData adds an ID to the class." alt="" coords="892,1026,943,1091"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="950,1102,999,1178,1057,1280,1112,1398,1135,1461,1153,1523,1189,1687,1199,1754,1204,1818,1202,1882,1193,1949,1177,2024,1153,2110,1140,2147,1122,2181,1101,2212,1076,2242,1019,2294,955,2339,887,2376,820,2406,701,2446,699,2441,818,2401,885,2371,952,2334,1016,2290,1072,2238,1096,2209,1117,2178,1135,2144,1148,2109,1172,2022,1188,1948,1197,1881,1198,1818,1194,1755,1184,1688,1148,1525,1130,1462,1107,1400,1052,1282,995,1181,946,1105"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="920,1106,916,1524,911,1524,914,1106"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_s_data.html" title="SData is the base scriptable object data for this engine." alt="" coords="777,140,828,205"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="831,218,844,248,875,361,898,477,913,593,921,705,926,899,922,1026,917,1026,921,899,916,705,907,594,892,478,870,362,839,250,826,220"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="285,5,395,71"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="410,53,524,82,653,117,779,160,777,165,651,123,523,87,409,58"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_group_data.html" title="A group doesn&#39;t do anything by itself, but it serves to reference objects as a group instead of refer..." alt="" coords="505,120,639,225"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="409,76,506,131,504,136,407,80"/>
+<area shape="rect" id="Node000010" href="$class_necroisle_1_1_bonus_effect_data.html" title="Data file bonus effects (ongoing effect applied to the character when equipping an item or near a con..." alt="" coords="475,439,669,564"/>
+<area shape="poly" id="edge16_Node000010_Node000007" title=" " alt="" coords="365,83,544,438,539,440,360,85"/>
+<area shape="rect" id="Node000011" href="$class_necroisle_1_1_s_action.html" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="185,249,303,415"/>
+<area shape="poly" id="edge19_Node000011_Node000007" title=" " alt="" coords="313,85,308,96,280,174,261,250,256,249,275,172,303,94,308,82"/>
+<area shape="poly" id="edge29_Node000003_Node000008" title=" " alt="" coords="514,227,473,269,430,320,390,377,361,440,347,491,339,544,336,597,338,651,354,757,380,855,375,857,349,758,333,652,331,597,333,543,342,490,356,438,386,375,425,316,469,265,510,223"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="612,224,625,248,648,299,664,340,674,383,684,438,701,604,708,811,709,1045,703,1292,682,1774,656,2148,655,2155,650,2155,651,2148,676,1774,698,1292,703,1045,703,811,695,605,679,439,669,384,659,342,644,301,620,251,607,226"/>
+<area shape="poly" id="edge12_Node000009_Node000008" title=" " alt="" coords="640,189,687,212,709,228,728,248,743,299,762,404,804,731,848,1131,885,1507,879,1507,842,1132,799,732,757,405,738,300,723,251,706,232,685,216,638,194"/>
+<area shape="poly" id="edge17_Node000010_Node000008" title=" " alt="" coords="575,225,575,422,569,422,569,225"/>
+<area shape="poly" id="edge10_Node000004_Node000009" title=" " alt="" coords="859,2110,844,2149,816,2205,783,2259,713,2356,709,2353,779,2256,811,2202,839,2147,854,2108"/>
+<area shape="poly" id="edge14_Node000009_Node000009" title=" " alt="" coords="996,1758,1006,1766,1014,1779,1019,1796,1021,1817,1018,1844,1009,1863,1004,1861,1012,1842,1015,1817,1014,1797,1009,1781,1002,1770,992,1762"/>
+<area shape="poly" id="edge15_Node000003_Node000010" title=" " alt="" coords="562,564,543,658,538,657,557,563"/>
+<area shape="poly" id="edge18_Node000003_Node000011" title=" " alt="" coords="247,414,253,487,265,563,288,646,316,729,378,883,373,885,311,731,283,648,260,565,247,488,242,415"/>
+<area shape="poly" id="edge21_Node000003_Node000012" title=" " alt="" coords="517,2817,484,2526,466,2338,453,2148,444,1806,445,1478,451,1478,449,1806,459,2148,471,2338,489,2525,523,2816"/>
+<area shape="poly" id="edge23_Node000003_Node000013" title=" " alt="" coords="310,2807,314,2510,320,2322,331,2133,361,1799,399,1478,404,1479,367,1799,336,2134,325,2323,319,2510,316,2807"/>
+<area shape="poly" id="edge26_Node000003_Node000014" title=" " alt="" coords="781,2835,828,2776,882,2700,936,2611,983,2515,1002,2465,1017,2415,1027,2364,1030,2315,1027,2267,1016,2220,996,2176,967,2135,951,2122,933,2117,914,2119,894,2123,854,2130,833,2125,814,2111,798,2088,787,2059,780,2024,776,1984,776,1896,781,1800,787,1703,788,1614,779,1539,769,1510,755,1487,738,1475,719,1474,698,1474,676,1464,636,1426,600,1383,569,1337,542,1290,547,1287,574,1335,605,1380,640,1422,679,1459,699,1468,719,1469,740,1470,759,1484,774,1508,784,1538,793,1614,792,1703,787,1800,781,1896,782,1984,785,2023,792,2057,803,2086,818,2107,835,2120,854,2124,893,2118,913,2113,933,2112,953,2117,971,2132,1001,2174,1021,2219,1032,2266,1036,2315,1032,2365,1022,2416,1007,2467,988,2517,941,2614,886,2703,832,2779,785,2839"/>
+</map>

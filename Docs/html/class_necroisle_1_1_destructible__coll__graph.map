@@ -1,0 +1,12 @@
+<map id="Necroisle.Destructible" name="Necroisle.Destructible">
+<area shape="rect" id="Node000001" title="Destructibles are objects that can be destroyed." alt="" coords="116,303,283,1188"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,140,108,205"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,219,119,411,113,412,65,220"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_group_data.html" title="A group doesn&#39;t do anything by itself, but it serves to reference objects as a group instead of refer..." alt="" coords="132,120,267,225"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,225,202,286,197,286,197,225"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="216,5,327,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="249,85,230,121,225,119,245,82"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_s_data.html" title="SData is the base scriptable object data for this engine." alt="" coords="291,140,399,205"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="298,82,330,139,325,142,294,85"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="339,206,290,401,284,400,334,204"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Necroisle.Regrowth.CreateRegrowthData" name="Necroisle.Regrowth.CreateRegrowthData">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,35,181,75"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_data.html#abd7f6fc8682dff97312f4a932db0f357" title=" " alt="" coords="229,5,400,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,40,213,36,214,41,182,46"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_data.html#a3a1b590972f900f8d1e6813ef3f48f8b" title=" " alt="" coords="230,70,399,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,63,215,67,214,73,181,68"/>
+</map>

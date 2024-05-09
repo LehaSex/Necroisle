@@ -1,5 +1,9 @@
 <map id="Necroisle.UniqueID.SetUID" name="Necroisle.UniqueID.SetUID">
-<area shape="rect" id="Node000001" title=" " alt="" coords="264,5,441,31"/>
-<area shape="rect" id="Node000002" href="$class_necroisle_1_1_unique_i_d.html#a05179b01a39bbc11dc62e492a3ccd7d0" title=" " alt="" coords="5,5,216,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,21,216,21,216,15,248,15"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="485,31,663,56"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_unique_i_d.html#a05179b01a39bbc11dc62e492a3ccd7d0" title=" " alt="" coords="227,5,437,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,35,437,32,438,26,470,30"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_pet.html#aaadffc50be609aea034068d9cc889898" title=" " alt="" coords="254,55,410,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="470,56,411,62,410,57,470,51"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_action_pet_tame.html#a96befea28f437cf2eab3755e53b61f94" title=" " alt="" coords="5,47,179,87"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="239,70,179,70,179,65,239,65"/>
 </map>

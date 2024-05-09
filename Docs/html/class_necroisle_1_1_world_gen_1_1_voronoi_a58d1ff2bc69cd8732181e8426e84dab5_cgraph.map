@@ -1,0 +1,9 @@
+<map id="Necroisle.WorldGen.Voronoi.ClipPolygon" name="Necroisle.WorldGen.Voronoi.ClipPolygon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,196,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a6e354dee8f87f3ca55ebc1fa3fdef2cd" title=" " alt="" coords="263,5,453,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,66,260,47,261,52,185,71"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a559de48c59d3e90cd041855f9c597076" title=" " alt="" coords="263,69,453,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,87,247,87,247,92,196,92"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#ab601830c88ed0403a502bcc9df3ca494" title=" " alt="" coords="244,133,472,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="185,107,261,127,260,132,183,113"/>
+</map>

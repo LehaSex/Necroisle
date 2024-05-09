@@ -1,0 +1,25 @@
+<map id="Necroisle.PlayerCharacterCombat.IsDead" name="Necroisle.PlayerCharacterCombat.IsDead">
+<area shape="rect" id="Node000001" title=" " alt="" coords="928,55,1101,95"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_controller.html#a9a792587cce6111dba9d18eb619df641" title=" " alt="" coords="704,55,880,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="913,78,881,78,881,73,913,73"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_character.html#a3be48a1b49f9d07ff8b5bd21089aaadb" title=" " alt="" coords="477,5,656,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="695,54,619,34,620,29,697,48"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_controller.html#aeb2dba4a782bd9a40a9fd6f168efbbc8" title=" " alt="" coords="479,55,655,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="689,78,655,78,655,73,689,73"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_controller.html#af79fc0bef65a89a07fe8739a1a898525" title=" " alt="" coords="479,119,655,159"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="705,103,640,121,639,116,704,98"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_character_climb.html#a127463c629e94068dc00e98704dca880" title=" " alt="" coords="255,50,428,90"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="484,117,408,93,410,88,486,112"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_player_character_ride.html#adea146768233d1ee34af1c4ec65b581b" title=" " alt="" coords="255,119,428,159"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="463,142,428,142,428,137,463,137"/>
+<area shape="rect" id="Node000011" href="$class_necroisle_1_1_player_controller.html#a96a28261860d4f605b74cba34e5875a3" title=" " alt="" coords="253,194,429,234"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="491,167,405,196,403,191,489,162"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_ladder.html#a3b2c6425c93a5eb8d57fec725be0b05c" title=" " alt="" coords="8,52,203,77"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="239,70,203,70,203,64,239,65"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_action_ride.html#add56df5b65931f3bc36b82665515bfb8" title=" " alt="" coords="5,101,205,127"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="239,131,205,127,206,122,240,126"/>
+<area shape="rect" id="Node000010" href="$class_necroisle_1_1_player_character_ride.html#a0636cb2627d2b9f5e1858e9fef548c19" title=" " alt="" coords="19,151,192,191"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="240,156,193,162,192,157,239,150"/>
+<area shape="rect" id="Node000012" href="$class_necroisle_1_1_action_sleep.html#ab2883f7b803c355aaafb502e7c1f8820" title=" " alt="" coords="20,215,191,255"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="238,226,192,230,191,225,238,221"/>
+</map>

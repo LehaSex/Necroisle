@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['last_5fsave_0',['last_save',['../class_necroisle_1_1_player_data.html#a0d30407735baf6b834886f7fc339d5e6',1,'Necroisle::PlayerData']]],
-  ['layer_1',['layer',['../class_necroisle_1_1_regrowth_data.html#a7e13ac1fc1c18e11e70e89e8e382ba3a',1,'Necroisle::RegrowthData']]]
+  ['jump_5fduration_0',['jump_duration',['../class_necroisle_1_1_player_character_jump.html#a128f6bf70613f65d4004797930fe4c77',1,'Necroisle::PlayerCharacterJump']]],
+  ['jump_5fkey_1',['jump_key',['../class_necroisle_1_1_player_controls.html#a69c063429afadc5f8725bc02c6197cde',1,'Necroisle::PlayerControls']]],
+  ['jump_5fpower_2',['jump_power',['../class_necroisle_1_1_player_character_jump.html#a45daff259dec82debcd74c84e477fd0d',1,'Necroisle::PlayerCharacterJump']]]
 ];

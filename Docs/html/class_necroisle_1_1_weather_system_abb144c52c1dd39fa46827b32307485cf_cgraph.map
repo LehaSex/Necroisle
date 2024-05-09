@@ -1,0 +1,13 @@
+<map id="Necroisle.WeatherSystem.ChangeWeatherRandom" name="Necroisle.WeatherSystem.ChangeWeatherRandom">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,184,117"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_weather_system.html#a48774addca0ab370a3415ffc40d89212" title=" " alt="" coords="232,77,411,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,94,216,94,216,99,185,99"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_camera_controller.html#a88e028239b1b810c6ee5a3d33347bd10" title=" " alt="" coords="459,5,664,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="368,74,458,39,482,32,484,38,460,45,370,79"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_data.html#a3a1b590972f900f8d1e6813ef3f48f8b" title=" " alt="" coords="477,55,646,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="411,83,461,77,462,82,411,88"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_camera_controller.html#a4e27beffba0e21b85a69d8d161e3633d" title=" " alt="" coords="469,105,653,145"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="411,104,454,110,454,115,411,110"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_data.html#a25b7dcbea5751243904e96c635a22db4" title=" " alt="" coords="477,169,645,209"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="367,115,460,154,478,161,477,166,458,159,365,120"/>
+</map>

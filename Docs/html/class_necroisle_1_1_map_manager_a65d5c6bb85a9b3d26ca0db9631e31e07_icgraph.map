@@ -1,0 +1,7 @@
+<map id="Necroisle.MapManager.IsRevealed" name="Necroisle.MapManager.IsRevealed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="300,35,521,60"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_manager.html#a4422852ec2b01af9482a0f8ea8a3d8ef" title=" " alt="" coords="5,5,252,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="284,37,252,34,253,28,285,32"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_icon.html#aca948c56c01b64ffe958a711cb8348fc" title=" " alt="" coords="40,55,217,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,62,218,69,218,64,284,57"/>
+</map>

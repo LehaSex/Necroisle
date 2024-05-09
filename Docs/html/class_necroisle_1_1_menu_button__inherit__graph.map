@@ -1,0 +1,7 @@
+<map id="Necroisle.MenuButton" name="Necroisle.MenuButton">
+<area shape="rect" id="Node000001" title="Generic Menu button script (for handling with keyboard/gamepad)" alt="" coords="5,1072,148,1317"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot.html" title="Basic class for any type of slot (item, other)" alt="" coords="9,119,144,1024"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,1039,79,1072,74,1072,74,1039"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="25,5,128,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,86,79,119,74,119,74,86"/>
+</map>

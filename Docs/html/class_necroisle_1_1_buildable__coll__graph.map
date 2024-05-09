@@ -1,0 +1,25 @@
+<map id="Necroisle.Buildable" name="Necroisle.Buildable">
+<area shape="rect" id="Node000001" title="Buildable is the base script for objects that can be placed on the map and have a build mode (transpa..." alt="" coords="145,1371,336,2076"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="154,170,257,235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,247,121,300,102,331,88,364,47,501,21,621,10,728,10,830,20,932,38,1041,88,1307,113,1410,147,1510,142,1512,108,1412,83,1309,33,1042,15,933,5,830,4,728,16,620,42,500,83,362,98,328,117,297,160,244"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_selectable.html" title=" " alt="" coords="269,363,441,1308"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="224,249,259,362,272,412,266,413,254,363,219,251"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_destructible.html" title="Destructibles are objects that can be destroyed." alt="" coords="465,393,632,1278"/>
+<area shape="poly" id="edge9_Node000007_Node000002" title=" " alt="" coords="241,245,263,266,288,283,318,293,344,295,371,296,403,307,435,329,456,361,471,392,466,394,451,364,431,333,400,312,370,301,344,300,317,299,286,288,260,270,237,248"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_unique_i_d.html" title="Уникальный айдишник для уникального инстанса предмета" alt="" coords="98,673,244,998"/>
+<area shape="poly" id="edge14_Node000009_Node000002" title=" " alt="" coords="206,251,182,673,177,673,200,250"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="296,1308,291,1354,285,1354,291,1308"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_s_action.html" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="298,120,417,285"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="360,285,360,346,354,346,355,285"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="461,5,572,71"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="477,83,418,143,414,139,473,80"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_group_data.html" title="A group doesn&#39;t do anything by itself, but it serves to reference objects as a group instead of refer..." alt="" coords="449,150,584,255"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="519,86,519,150,514,150,514,86"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_s_data.html" title="SData is the base scriptable object data for this engine." alt="" coords="612,170,720,235"/>
+<area shape="poly" id="edge12_Node000008_Node000005" title=" " alt="" coords="561,80,598,118,642,169,638,172,594,122,557,83"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="490,256,467,310,448,368,443,366,462,308,485,254"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="521,255,528,375,522,376,516,255"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="467,1275,456,1309,405,1433,346,1549,341,1547,400,1430,451,1307,462,1273"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="662,236,636,376,631,375,657,235"/>
+<area shape="poly" id="edge13_Node000001_Node000009" title=" " alt="" coords="186,997,214,1354,209,1354,181,998"/>
+</map>

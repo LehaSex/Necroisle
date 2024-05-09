@@ -1,0 +1,7 @@
+<map id="Necroisle.SceneNav.DoSceneExist" name="Necroisle.SceneNav.DoSceneExist">
+<area shape="rect" id="Node000001" title=" " alt="" coords="492,5,687,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_the_game.html#a4826ab649a8a62bf4e11d6d777ca652e" title=" " alt="" coords="248,5,444,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="476,28,445,28,445,23,476,23"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_exit_zone.html#a2d7fed434e95fa6898faa9aa050ff5bd" title=" " alt="" coords="5,13,200,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="232,28,200,28,200,23,232,23"/>
+</map>

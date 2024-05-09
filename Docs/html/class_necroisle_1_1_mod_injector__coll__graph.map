@@ -1,0 +1,7 @@
+<map id="Necroisle.ModInjector" name="Necroisle.ModInjector">
+<area shape="rect" id="Node000001" title=" " alt="" coords="55,153,194,239"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,15,108,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,93,108,152,103,155,75,95"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_injection.html" title=" " alt="" coords="133,5,253,91"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,92,153,140,149,137,171,89"/>
+</map>

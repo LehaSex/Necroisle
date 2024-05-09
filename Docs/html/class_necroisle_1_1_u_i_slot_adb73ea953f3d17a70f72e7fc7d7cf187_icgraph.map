@@ -1,0 +1,7 @@
+<map id="Necroisle.UISlot.GetParent" name="Necroisle.UISlot.GetParent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="435,13,613,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_key_controls_u_i.html#a149732384e7c06d5a395e79bdfd66e74" title=" " alt="" coords="220,5,387,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="419,28,387,28,387,23,419,23"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_key_controls_u_i.html#a3e41fc1f330ac8efe7308380c297a443" title=" " alt="" coords="5,5,172,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,28,172,28,172,23,204,23"/>
+</map>

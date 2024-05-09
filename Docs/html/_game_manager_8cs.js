@@ -1,4 +1,4 @@
 var _game_manager_8cs =
 [
-    [ "GameManager", "class_game_manager.html", null ]
+    [ "Necroisle.GameManager", "class_necroisle_1_1_game_manager.html", "class_necroisle_1_1_game_manager" ]
 ];

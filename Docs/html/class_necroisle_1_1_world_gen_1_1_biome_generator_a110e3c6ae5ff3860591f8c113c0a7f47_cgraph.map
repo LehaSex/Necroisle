@@ -1,0 +1,6 @@
+<map id="Necroisle.WorldGen.BiomeGenerator.SpawnBiomeGroup" name="Necroisle.WorldGen.BiomeGenerator.SpawnBiomeGroup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,200,69"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_physics_tool.html#a176b7176264a794ba082a94b859687b7" title=" " alt="" coords="248,29,428,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,47,232,47,232,52,201,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="294,30,291,20,299,10,314,5,338,3,364,5,379,11,377,16,362,10,338,8,315,10,302,15,297,21,299,28"/>
+</map>

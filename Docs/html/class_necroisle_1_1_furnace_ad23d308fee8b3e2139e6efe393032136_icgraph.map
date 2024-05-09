@@ -1,0 +1,5 @@
+<map id="Necroisle.Furnace.PutItem" name="Necroisle.Furnace.PutItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="221,13,397,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_furnace.html#acc2210a78c8a124113922833413452bc" title=" " alt="" coords="5,5,173,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,28,174,28,174,23,206,23"/>
+</map>

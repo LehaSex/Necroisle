@@ -1,0 +1,11 @@
+<linker>
+  <assembly fullname="Necroisle.DevConsole" preserve="all"/>
+  <assembly fullname="Necroisle.DevConsole.Parsers" preserve="all"/>
+  <assembly fullname="Necroisle.DevConsole.Grammar" preserve="all"/>
+  <assembly fullname="Necroisle.DevConsole.Serializers" preserve="all"/>
+  <assembly fullname="Necroisle.DevConsole.Suggestors" preserve="all"/>
+  <assembly fullname="Necroisle.DevConsole.Extras" preserve="all"/>
+  <assembly fullname="System.Core">
+    <type fullname="System.Linq.Expressions.Interpreter.LightLambda" preserve="all" />
+  </assembly>
+</linker>

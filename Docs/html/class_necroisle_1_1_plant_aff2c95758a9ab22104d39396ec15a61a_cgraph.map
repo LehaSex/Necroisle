@@ -1,0 +1,13 @@
+<map id="Necroisle.Plant.RemoveFruit" name="Necroisle.Plant.RemoveFruit">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,84,192,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_data.html#a3a1b590972f900f8d1e6813ef3f48f8b" title=" " alt="" coords="245,5,414,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,81,239,39,260,33,262,38,241,45,132,86"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_plant.html#a08734a77fae5f18d321ac8ad815ba696" title=" " alt="" coords="240,55,419,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,82,224,78,225,83,192,87"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_data.html#adca9253feb776f432d703ed6222e687a" title=" " alt="" coords="245,105,413,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="192,105,230,110,229,115,192,111"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_data.html#ad18d2ef2d6b694d3bda62c429b426049" title=" " alt="" coords="245,169,413,209"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="130,107,241,154,257,160,255,165,239,159,128,112"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_unique_i_d.html#a31232bffdf0b426c47f1721b4007a2b4" title=" " alt="" coords="467,55,668,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="419,65,451,65,451,70,419,70"/>
+</map>

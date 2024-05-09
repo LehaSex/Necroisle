@@ -1,0 +1,5 @@
+<map id="Necroisle.LevelData.GetLevel" name="Necroisle.LevelData.GetLevel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,13,196,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_level_data.html#abb87d14ba25e40710c053352470c7329" title=" " alt="" coords="244,5,431,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,23,228,23,228,28,197,28"/>
+</map>

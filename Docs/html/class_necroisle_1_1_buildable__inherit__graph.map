@@ -1,0 +1,5 @@
+<map id="Necroisle.Buildable" name="Necroisle.Buildable">
+<area shape="rect" id="Node000001" title="Buildable is the base script for objects that can be placed on the map and have a build mode (transpa..." alt="" coords="5,119,196,884"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="49,5,152,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,86,103,119,98,119,98,86"/>
+</map>

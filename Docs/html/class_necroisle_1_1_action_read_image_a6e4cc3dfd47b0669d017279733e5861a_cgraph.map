@@ -1,0 +1,13 @@
+<map id="Necroisle.ActionReadImage.DoAction" name="Necroisle.ActionReadImage.DoAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,192,87"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_read_panel.html#aa63c7e4b9af9a3a75a06dba9a4227a9e" title=" " alt="" coords="245,5,413,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,45,251,32,252,37,193,50"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_slot.html#a88607add8173b22760cfac68cab5aa70" title=" " alt="" coords="240,55,419,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,65,224,65,224,70,192,70"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_read_panel.html#a8953224c179084e595839d9704393b3f" title=" " alt="" coords="240,105,419,145"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="182,85,232,98,231,103,181,90"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_craft_data.html#ae0d03ab4f5acfb0bc9b202dd83b16aa5" title=" " alt="" coords="467,55,651,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="419,65,451,65,451,70,419,70"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_u_i_panel.html#ae5ae64091d18f4ab546d73ce67dd04d1" title=" " alt="" coords="478,112,639,137"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="419,122,462,122,462,127,419,127"/>
+</map>

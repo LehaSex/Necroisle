@@ -1,0 +1,18 @@
+<map id="Necroisle.Item.DestroyItem" name="Necroisle.Item.DestroyItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="456,79,635,104"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_craftable.html#a832aeab07540250e7a30a1cb0a2af6c0" title=" " alt="" coords="228,29,408,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="441,80,349,58,351,53,442,75"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_item.html#a768b5c0b60eba1a3fc2bb652f14c3daa" title=" " alt="" coords="241,79,395,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="441,94,396,94,396,89,441,89"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_item.html#ab964ea989ed54a71d94a0805845f2cfb" title=" " alt="" coords="237,128,399,153"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="470,110,380,130,379,125,468,105"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_item.html#a62b2aa6c17a84d11456a1472db1d8391" title=" " alt="" coords="237,177,399,203"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="512,115,464,142,409,168,377,179,375,174,407,164,462,138,509,110"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="424,53,513,75,512,81,423,58"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_plant.html#a9dda274bdc908fc376c7349a5370456f" title=" " alt="" coords="5,5,180,31"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="212,33,180,30,181,25,213,28"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_construction.html#a192cd66559decae2086d329003b30e75" title=" " alt="" coords="5,55,180,80"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="213,57,181,60,180,55,212,51"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_player_character_inventory.html#af3d880552f2751a978dc699877da40be" title=" " alt="" coords="6,170,179,210"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="221,193,180,193,180,187,221,187"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Necroisle.MapData.LoadLast" name="Necroisle.MapData.LoadLast">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,195,129"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_data.html#ad46050b2f1f539cea36a1223cfece447" title=" " alt="" coords="243,79,433,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,104,227,100,227,106,195,109"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_map_data.html#a047b6c9edd9925cad9537420260ac0d5" title=" " alt="" coords="725,104,936,129"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="195,114,710,114,710,119,195,119"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_data.html#a354fe7527987a0d359165ce23aedc35e" title=" " alt="" coords="497,5,661,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="374,76,481,39,506,32,507,37,482,45,375,81"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_map_data.html#a8b5007886d80588a62137e10beee61f2" title=" " alt="" coords="481,79,677,104"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="434,89,466,89,466,94,434,94"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_data.html#ae745491a66c9e3b0e23ced855393cad3" title=" " alt="" coords="740,5,921,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="662,15,725,15,725,21,662,21"/>
+<area shape="poly" id="edge7_Node000005_Node000005" title=" " alt="" coords="540,80,532,70,536,60,553,54,579,52,609,55,624,61,622,66,607,60,579,57,554,59,540,64,537,69,544,76"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="678,99,710,102,709,107,678,104"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_save_system.html#a95b3169603d77eb133167764e69e2752" title=" " alt="" coords="984,97,1163,137"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="937,114,968,114,968,119,937,119"/>
+</map>

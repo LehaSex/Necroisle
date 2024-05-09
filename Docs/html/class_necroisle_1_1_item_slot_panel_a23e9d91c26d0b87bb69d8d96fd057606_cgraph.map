@@ -1,0 +1,17 @@
+<map id="Necroisle.ItemSlotPanel.UseItem" name="Necroisle.ItemSlotPanel.UseItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,61,171,101"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_slot.html#a54e786058158cc7c897b0e266dce8917" title=" " alt="" coords="219,37,423,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,67,204,63,205,68,171,72"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_inventory_data.html#a1b29a2109efca7728ee4076396c7f22c" title=" " alt="" coords="239,89,402,129"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="171,88,224,94,223,100,171,93"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_slot_panel.html#ad62e903010bf7a6430e6fe33680b4bb3" title=" " alt="" coords="471,27,636,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="423,46,455,46,455,51,423,51"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_inventory_data.html#a2d6edff569122642fb9d55299a24b488" title=" " alt="" coords="684,35,867,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="636,45,668,45,668,50,636,50"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_data.html#a3a1b590972f900f8d1e6813ef3f48f8b" title=" " alt="" coords="915,5,1084,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="867,33,899,28,900,34,868,38"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_data.html#a440389797e76319ba36b1c2b85ccba61" title=" " alt="" coords="915,55,1084,95"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="868,56,900,60,899,65,867,61"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_inventory_data.html#afb597580973f8475dba0b65ecd77dcdf" title=" " alt="" coords="472,91,635,131"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="402,107,457,108,457,113,402,112"/>
+</map>

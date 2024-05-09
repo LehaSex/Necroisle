@@ -1,0 +1,12 @@
+<map id="Necroisle.Pet.Follow" name="Necroisle.Pet.Follow">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,147,56"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_pet.html#a7cdb19938265e627043ef49055777f38" title=" " alt="" coords="411,5,589,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,27,194,15,298,9,396,10,396,15,298,15,195,21,128,33"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_pet.html#a376bf2ab8d52a119d318c8d915cc9f82" title=" " alt="" coords="195,31,362,56"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,41,179,41,179,46,147,46"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_pet.html#a3b4ae163a951272db75daf1445cda1b5" title=" " alt="" coords="195,80,363,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="132,54,210,73,208,78,130,59"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="327,77,362,66,450,34,452,39,364,71,329,82"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_character.html#a0e4e432711b3a28e9f458ad7fe3a3325" title=" " alt="" coords="417,80,583,105"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="363,90,401,90,401,95,363,95"/>
+</map>

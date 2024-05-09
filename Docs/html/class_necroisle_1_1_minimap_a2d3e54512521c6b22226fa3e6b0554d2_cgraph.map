@@ -1,0 +1,31 @@
+<map id="Necroisle.Minimap.Update" name="Necroisle.Minimap.Update">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,142,180,167"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_viewer.html#aedff152970a056c23b0df5fb602ee9f3" title=" " alt="" coords="228,63,453,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,139,283,91,284,96,136,144"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_map_viewer.html#af1a7342f9fd0f606f621331dc4bb33c1" title=" " alt="" coords="246,163,435,203"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="181,162,231,168,230,173,180,167"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_viewer.html#a2ccdf03c0e92dba94e3940ba1c0cc54b" title=" " alt="" coords="515,5,713,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="413,60,498,44,499,49,414,65"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_settings_data.html#a46c45507ad6346eb1cafc65e432c22a5" title=" " alt="" coords="795,17,1001,42"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="714,24,780,25,780,30,714,29"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_map_level_settings.html#ad653f8623d3826d9452c5cfd21c03871" title=" " alt="" coords="1069,17,1276,42"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1001,27,1054,27,1054,32,1001,32"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_map_manager.html#a256db9daf719656c4481c52f0781e4bd" title=" " alt="" coords="1083,67,1263,93"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="971,40,1086,61,1085,67,970,45"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="374,160,432,130,501,105,576,90,653,78,808,66,950,65,1068,69,1067,74,950,70,808,72,654,84,577,95,502,111,434,135,377,165"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_map_center.html#af327a79a9eb9aedc86cd78bf4723f2b8" title=" " alt="" coords="530,121,698,146"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="435,163,524,147,525,152,436,168"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_map_reveal.html#a65881957d6f3b653dbe9bbba8f90c0ac" title=" " alt="" coords="511,170,717,195"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="436,180,496,180,496,185,436,185"/>
+<area shape="rect" id="Node000010" href="$class_necroisle_1_1_map_center.html#ae3fdd10af687afc6e1191b3ea5a6515b" title=" " alt="" coords="501,219,727,245"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="436,197,525,213,524,219,435,202"/>
+<area shape="rect" id="Node000011" href="$class_necroisle_1_1_map_reveal.html#a05f38f872feef13384274991a4dd7fb0" title=" " alt="" coords="501,269,727,294"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="382,201,438,228,502,253,530,262,528,267,500,259,436,233,379,205"/>
+<area shape="rect" id="Node000012" href="$class_necroisle_1_1_map_viewer.html#a1df51dee6c6057cab06b956770f0ae91" title=" " alt="" coords="517,343,711,383"/>
+<area shape="poly" id="edge12_Node000007_Node000012" title=" " alt="" coords="367,201,427,250,503,304,555,333,552,338,500,309,424,255,364,205"/>
+<area shape="poly" id="edge15_Node000012_Node000012" title=" " alt="" coords="563,343,560,333,569,324,586,318,614,316,644,318,661,325,659,330,642,324,614,321,587,323,571,328,566,334,568,341"/>
+<area shape="rect" id="Node000013" href="$class_necroisle_1_1_map_zone.html#a802f071ff674c4e7e2e95157d8bf8153" title=" " alt="" coords="819,325,977,350"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="711,351,803,343,803,348,711,357"/>
+<area shape="rect" id="Node000014" href="$class_necroisle_1_1_map_zone.html#a23ddc3c1f7d659769ae3b06aec04fd0b" title=" " alt="" coords="775,374,1021,399"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="711,368,760,372,759,378,711,373"/>
+</map>

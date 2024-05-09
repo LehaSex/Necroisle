@@ -1,0 +1,17 @@
+<map id="Necroisle.KeyControlsUI.GetFocusedPanel" name="Necroisle.KeyControlsUI.GetFocusedPanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="649,93,816,133"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_key_controls_u_i.html#abc98ba56827e90e2e575a7cbc5d38fc5" title=" " alt="" coords="435,5,601,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="670,89,600,60,572,48,574,43,602,55,672,84"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_key_controls_u_i.html#ac57c3a28ee19e251b7a1c4406a26d6ff" title=" " alt="" coords="435,93,601,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="634,116,602,116,602,111,634,111"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_u_i_slot.html#aa85eacae25f276f083011bf538ce4951" title=" " alt="" coords="438,158,598,183"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="642,140,569,160,568,155,640,135"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="553,80,540,74,518,72,497,74,485,79,481,85,483,92,478,94,475,84,482,74,496,69,518,67,542,69,555,75"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_key_controls_u_i.html#a78d8e712331dcab8f09d42fd761cc379" title=" " alt="" coords="220,61,387,101"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="419,101,387,96,387,91,419,96"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_key_controls_u_i.html#a149732384e7c06d5a395e79bdfd66e74" title=" " alt="" coords="220,125,387,165"/>
+<area shape="poly" id="edge6_Node000003_Node000006" title=" " alt="" coords="419,131,387,136,387,130,419,125"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_key_controls_u_i.html#a3e41fc1f330ac8efe7308380c297a443" title=" " alt="" coords="5,93,172,133"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="205,99,173,104,172,98,204,93"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="204,133,172,128,173,123,205,128"/>
+</map>

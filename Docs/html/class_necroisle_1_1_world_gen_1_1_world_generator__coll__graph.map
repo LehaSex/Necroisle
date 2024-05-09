@@ -1,0 +1,24 @@
+<map id="Necroisle.WorldGen.WorldGenerator" name="Necroisle.WorldGen.WorldGenerator">
+<area shape="rect" id="Node000001" title="Generator of random world." alt="" coords="229,1308,420,1948"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,571,108,637"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="51,652,37,759,27,908,28,992,34,1077,47,1162,67,1245,98,1322,139,1395,185,1463,232,1522,227,1525,181,1466,135,1398,93,1324,62,1246,41,1163,29,1078,23,992,22,908,31,759,46,651"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_world_gen_1_1_biome_zone.html" title=" " alt="" coords="77,840,276,1245"/>
+<area shape="poly" id="edge12_Node000009_Node000002" title=" " alt="" coords="72,650,124,840,119,841,67,651"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_biome_data.html" title=" " alt="" coords="164,521,363,687"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,686,289,710,304,857,315,1007,327,1291,321,1291,310,1007,299,858,283,711,280,687"/>
+<area shape="poly" id="edge13_Node000009_Node000003" title=" " alt="" coords="250,687,223,824,217,823,245,686"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="347,23,457,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="400,103,374,279,351,389,319,498,310,522,305,520,314,496,346,388,369,278,395,103"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_world_gen_1_1_biome_spawn_data.html" title=" " alt="" coords="142,168,313,308"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="363,100,333,131,295,170,291,167,329,127,359,97"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_s_action.html" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="371,332,489,497"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="408,103,426,332,421,332,403,103"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_group_data.html" title="A group doesn&#39;t do anything by itself, but it serves to reference objects as a group instead of refer..." alt="" coords="509,711,644,816"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="423,101,463,205,503,331,528,436,548,541,573,711,568,711,542,542,523,437,498,333,458,207,418,103"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="237,307,256,505,251,505,231,308"/>
+<area shape="rect" id="Node000006" href="$struct_necroisle_1_1_world_gen_1_1_biome_spawn.html" title=" " alt="" coords="142,5,313,105"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="230,105,230,151,225,151,225,105"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="427,497,414,711,404,978,399,1096,386,1246,381,1292,376,1291,381,1245,393,1095,399,978,409,711,422,497"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="566,816,512,1022,438,1285,428,1319,422,1318,433,1283,507,1020,561,815"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="230,1244,242,1291,237,1292,225,1246"/>
+</map>

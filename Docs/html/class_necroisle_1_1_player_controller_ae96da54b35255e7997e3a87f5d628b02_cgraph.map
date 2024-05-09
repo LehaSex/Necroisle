@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerController.IsSwimming" name="Necroisle.PlayerController.IsSwimming">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,181,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_swim.html#a7ec698d19d84ac01038cb2bcaca9a23d" title=" " alt="" coords="229,5,403,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,23,214,23,214,28,182,28"/>
+</map>

@@ -1,21 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" title=" " alt="" coords="5,219,116,244"/>
-<area shape="rect" id="Node000001" href="$class_game_manager.html" title=" " alt="" coords="201,5,307,31"/>
-<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="67,203,79,166,99,122,126,78,162,40,180,29,199,22,201,27,182,34,166,44,130,81,103,125,84,168,72,205"/>
-<area shape="rect" id="Node000002" href="$class_necroisle_1_1_camera_controller.html" title="Main camera script." alt="" coords="164,55,344,80"/>
-<area shape="poly" id="edge2_Node000000_Node000002" title=" " alt="" coords="72,203,107,145,133,115,163,89,183,78,186,83,165,94,136,119,112,148,77,206"/>
-<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_terrain.html" title="Generates map." alt="" coords="182,104,326,129"/>
-<area shape="poly" id="edge3_Node000000_Node000003" title=" " alt="" coords="81,206,117,172,163,140,192,127,194,132,165,144,121,176,85,210"/>
-<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_animation_controller.html" title=" " alt="" coords="167,154,341,194"/>
-<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="120,211,183,192,185,197,121,216"/>
-<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_controller.html" title=" " alt="" coords="168,219,340,244"/>
-<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="132,229,167,229,167,234,132,234"/>
-<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_controls.html" title="Keyboard controls manager." alt="" coords="171,268,337,293"/>
-<area shape="poly" id="edge6_Node000000_Node000006" title=" " alt="" coords="128,246,202,265,201,270,127,251"/>
-<area shape="rect" id="Node000007" href="$class_necroisle_1_1_player_craft.html" title=" " alt="" coords="182,317,326,343"/>
-<area shape="poly" id="edge7_Node000000_Node000007" title=" " alt="" coords="90,252,125,278,165,302,196,314,194,319,163,307,122,283,87,256"/>
-<area shape="rect" id="Node000008" href="$class_necroisle_1_1_player_heat.html" title=" " alt="" coords="182,367,326,392"/>
-<area shape="poly" id="edge8_Node000000_Node000008" title=" " alt="" coords="79,256,115,305,139,330,165,352,190,364,187,368,163,356,135,334,111,309,75,259"/>
-<area shape="rect" id="Node000009" href="$class_necroisle_1_1_unique_i_d.html" title="Helps to generate unique ids for each individual instance of objects in the scene." alt="" coords="188,416,320,441"/>
-<area shape="poly" id="edge9_Node000000_Node000009" title=" " alt="" coords="73,258,87,291,107,330,133,368,166,401,189,414,186,419,162,405,129,372,102,332,82,293,68,260"/>
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,13,76,38"/>
+<area shape="rect" id="Node000001" href="$class_necroisle_1_1_countable_function_attribute.html" title=" " alt="" coords="124,5,312,45"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="92,23,124,23,124,28,92,28"/>
 </map>

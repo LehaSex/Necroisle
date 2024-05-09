@@ -1,0 +1,11 @@
+<map id="Necroisle.GameSingleton" name="Necroisle.GameSingleton">
+<area shape="rect" id="Node000001" title=" " alt="" coords="111,396,273,561"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_singleton.html" title=" " alt="" coords="5,258,187,323"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,335,152,395,148,397,117,338"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_singleton.html" title=" " alt="" coords="17,120,175,185"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="99,200,99,258,93,258,93,200"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="45,5,147,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,86,99,120,93,120,93,86"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_resolution_info.html" title=" " alt="" coords="211,248,365,333"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="269,334,244,382,240,379,264,332"/>
+</map>

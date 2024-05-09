@@ -1,0 +1,5 @@
+<map id="Necroisle.Firepit" name="Necroisle.Firepit">
+<area shape="rect" id="Node000001" title="Firepits can be fueled with wood or other materials." alt="" coords="5,119,116,384"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="9,5,112,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="63,86,63,119,58,119,58,86"/>
+</map>

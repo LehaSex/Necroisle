@@ -1,0 +1,9 @@
+<map id="Necroisle.ItemTakeFX.DoTakeFX" name="Necroisle.ItemTakeFX.DoTakeFX">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,216,56"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_asset_data.html#ab9d54c2b09bd439c4489e6a5908c7d32" title=" " alt="" coords="279,5,446,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,30,263,25,264,31,217,35"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_item_take_f_x.html#a7c4dd703e9abff6fb7b7b41a03758739" title=" " alt="" coords="264,55,461,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,51,249,54,248,59,216,56"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_the_data.html#ae069cdb56c3f6233a51f69bd0d46eff1" title=" " alt="" coords="509,5,663,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,15,494,15,494,21,446,21"/>
+</map>

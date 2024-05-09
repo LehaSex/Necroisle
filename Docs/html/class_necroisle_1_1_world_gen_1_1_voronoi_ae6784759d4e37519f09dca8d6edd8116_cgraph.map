@@ -1,0 +1,20 @@
+<map id="Necroisle.WorldGen.Voronoi.TriangulateByFlippingEdges" name="Necroisle.WorldGen.Voronoi.TriangulateByFlippingEdges">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,127,196,167"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_vertex.html#a42a10748f3b3df1fb370c28e3c2c57d2" title=" " alt="" coords="262,5,446,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,124,180,89,243,55,258,48,260,53,245,60,183,94,131,128"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a31177ff6d896b436d9ebf52615f3a258" title=" " alt="" coords="251,69,457,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,123,247,111,248,116,193,129"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#aae565ccff6874046e5d4d6b54d14653c" title=" " alt="" coords="512,124,703,164"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="196,144,496,142,496,147,196,149"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a0e45b28aca18b838ad6ab7cad772a3b9" title=" " alt="" coords="244,184,464,224"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="193,165,248,177,247,183,192,170"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a023cf6f5f4beea84fa745c91eae9f348" title=" " alt="" coords="259,248,449,288"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="131,165,183,200,245,234,260,240,258,245,243,238,180,204,128,169"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a002b60ca96f69ed25a6efd3fe296e3ea" title=" " alt="" coords="751,124,941,164"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="703,141,735,141,735,147,703,147"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#adf42d10535babb17e386274ea957be62" title=" " alt="" coords="512,188,703,228"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="465,203,496,204,496,209,465,208"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="684,185,753,166,755,171,685,190"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_world_gen_1_1_triangle.html#a158c34180e880c0961a2ef494ce67663" title=" " alt="" coords="751,188,941,228"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="703,205,735,205,735,211,703,211"/>
+</map>

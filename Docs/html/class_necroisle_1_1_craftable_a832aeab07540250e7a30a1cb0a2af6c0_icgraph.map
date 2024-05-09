@@ -1,0 +1,18 @@
+<map id="Necroisle.Craftable.Destroy" name="Necroisle.Craftable.Destroy">
+<area shape="rect" id="Node000001" title=" " alt="" coords="664,80,844,105"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item.html#a22d9f424b2b7bf3683dc9ce432064027" title=" " alt="" coords="437,55,616,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="648,93,578,83,578,78,649,87"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_plant.html#a9dda274bdc908fc376c7349a5370456f" title=" " alt="" coords="439,104,614,129"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="649,106,615,110,614,105,649,101"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_construction.html#a192cd66559decae2086d329003b30e75" title=" " alt="" coords="439,153,614,179"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="705,114,617,145,580,155,579,150,615,139,704,109"/>
+<area shape="poly" id="edge2_Node000002_Node000001" title=" " alt="" coords="632,67,703,77,702,82,632,73"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item.html#a768b5c0b60eba1a3fc2bb652f14c3daa" title=" " alt="" coords="231,5,385,31"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="452,53,367,34,368,29,453,48"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_item.html#ab964ea989ed54a71d94a0805845f2cfb" title=" " alt="" coords="227,55,389,80"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="422,70,390,70,390,65,422,65"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_item.html#a62b2aa6c17a84d11456a1472db1d8391" title=" " alt="" coords="227,104,389,129"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="453,86,368,106,367,101,452,81"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_character_inventory.html#af3d880552f2751a978dc699877da40be" title=" " alt="" coords="5,97,179,137"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="211,119,179,119,179,114,211,114"/>
+</map>

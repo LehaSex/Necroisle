@@ -1,0 +1,9 @@
+<map id="Necroisle.WorldGen.BiomeZone.FixOverlappingTerrain" name="Necroisle.WorldGen.BiomeZone.FixOverlappingTerrain">
+<area shape="rect" id="Node000001" title=" " alt="" coords="617,37,796,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#a77268c43b2b6f3a3c2b7c3ddf46277bc" title=" " alt="" coords="344,5,549,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="602,47,550,41,550,35,602,42"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_world_gen_1_1_editor_tool_1_1_biome_zone_editor.html#ad45a3b6b08ebf7721c4baa9f980d432f" title=" " alt="" coords="324,69,569,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="602,73,570,77,570,72,601,68"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_editor_tool_1_1_world_generator_editor.html#ad86ecd2f83bdb93e0fb872c6206dcdc6" title=" " alt="" coords="5,5,276,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="328,28,276,28,276,23,328,23"/>
+</map>

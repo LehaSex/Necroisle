@@ -1,0 +1,13 @@
+<map id="Necroisle.LevelData.GetLevel" name="Necroisle.LevelData.GetLevel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="276,141,467,166"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_data.html#a0570ed96c9ef66e12067276cb24a1978" title=" " alt="" coords="30,5,203,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="341,133,289,96,227,60,199,48,201,43,229,55,292,91,344,129"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_character_attribute.html#a79a7b64fad44c39b43c9a1e2dac2f762" title=" " alt="" coords="30,69,203,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="302,139,198,112,200,107,304,134"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_character_data.html#a118c2d21d855c1fd14ffe58d28b8ca98" title=" " alt="" coords="30,133,203,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,156,204,156,204,151,260,151"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_level_data.html#aaf5e7dcf43420bebfc4a310fd48b060b" title=" " alt="" coords="5,198,228,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="297,173,177,200,176,195,296,167"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_character_data.html#a117d8532d6339ed7c1d4b7e112ebd2c2" title=" " alt="" coords="30,248,203,288"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="339,177,289,207,229,237,195,250,193,245,227,232,286,203,337,172"/>
+</map>

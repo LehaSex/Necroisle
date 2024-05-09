@@ -1,0 +1,6 @@
+<map id="Necroisle.MapData" name="Necroisle.MapData">
+<area shape="rect" id="Node000001" title="Map data that is saved." alt="" coords="5,593,129,1119"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_data.html" title="Map data that is saved." alt="" coords="5,5,129,531"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,530,70,576,65,576,65,530"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="131,212,141,218,149,230,154,247,156,268,153,294,145,313,140,310,148,293,151,268,149,248,144,232,137,222,128,216"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="UnityEngine.AI.NavMeshSurface.BuildNavMesh" name="UnityEngine.AI.NavMeshSurface.BuildNavMesh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,219,109"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#a59cb54cd1345b7f9f5ec569740249fbc" title=" " alt="" coords="267,5,480,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,66,273,47,275,52,197,71"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#a29b3013714ce2cb0f40489b0094cde15" title=" " alt="" coords="267,69,480,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="219,87,251,87,251,92,219,92"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#ab172d2aeaa1fc33361ec519b34e30bda" title=" " alt="" coords="267,133,480,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,107,275,127,273,132,196,113"/>
+</map>

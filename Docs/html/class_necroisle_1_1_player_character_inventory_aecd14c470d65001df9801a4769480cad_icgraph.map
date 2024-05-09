@@ -1,0 +1,6 @@
+<map id="Necroisle.PlayerCharacterInventory.BuildItem" name="Necroisle.PlayerCharacterInventory.BuildItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,29,400,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="350,16,336,10,313,8,292,10,279,15,275,21,277,28,272,30,269,20,276,10,291,5,313,3,338,5,352,11"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_inventory.html#a415c4bb81ba5b16ca936d4dda6f40fd2" title=" " alt="" coords="5,29,179,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="211,52,179,52,179,47,211,47"/>
+</map>

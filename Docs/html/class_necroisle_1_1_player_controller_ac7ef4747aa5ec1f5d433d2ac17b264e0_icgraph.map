@@ -1,0 +1,15 @@
+<map id="Necroisle.PlayerController.TriggerProgressAction" name="Necroisle.PlayerController.TriggerProgressAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="257,142,433,182"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_dig.html#acfa38c990edf106c575f41cba7965223" title=" " alt="" coords="11,5,204,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="315,132,267,87,239,65,208,46,179,34,181,29,211,41,242,60,271,83,318,128"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_action_repair.html#a6ae4237abf442ec8a24a6b81288fa7a4" title=" " alt="" coords="20,55,195,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="281,138,208,110,175,98,177,93,210,105,283,133"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_action_cook.html#aa1e188fe7d454a33b105bacf652fadbb" title=" " alt="" coords="5,120,209,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,152,209,148,210,143,242,147"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_action_repair.html#a43f9b7c2991bd7f7e53e34d9a923b57b" title=" " alt="" coords="20,170,195,210"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="242,177,195,182,195,177,242,172"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_action_dig_auto.html#a774e0eb15e68003a393af1515ca29f4d" title=" " alt="" coords="24,234,191,274"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="289,191,210,224,178,236,176,231,208,220,287,186"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_action_water_plant.html#ada2ea4090e4fdf95321ac2cfbedaaffd" title=" " alt="" coords="14,298,201,338"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="319,196,271,243,242,267,211,288,187,300,184,295,208,284,239,263,268,239,315,192"/>
+</map>

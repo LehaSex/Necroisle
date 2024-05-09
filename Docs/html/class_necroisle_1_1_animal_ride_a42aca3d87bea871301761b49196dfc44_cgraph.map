@@ -1,0 +1,7 @@
+<map id="Necroisle.AnimalRide.IsDead" name="Necroisle.AnimalRide.IsDead">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,196,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_character.html#a07b22c0a2d90286cc755663d86a35696" title=" " alt="" coords="244,5,424,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,15,228,15,228,21,196,21"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_destructible.html#a8d379474023260f276febfa1b397b6f5" title=" " alt="" coords="472,5,665,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="424,15,456,15,456,21,424,21"/>
+</map>

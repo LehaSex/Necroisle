@@ -1,0 +1,13 @@
+<map id="Necroisle.UISlot.GetNearestActive" name="Necroisle.UISlot.GetNearestActive">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,191,63"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_the_u_i.html#a65eccc28f76959415857b7864ca11fd1" title=" " alt="" coords="285,5,423,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,31,269,24,269,29,191,37"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_the_u_i.html#ae1df960a78595886a43f47483005e969" title=" " alt="" coords="239,55,469,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="191,49,223,52,223,58,191,55"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_camera_controller.html#a6676f3ac3659bf5974e1ec93eb7abb3c" title=" " alt="" coords="519,15,703,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="461,51,503,46,504,51,461,57"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_the_u_i.html#abb92a43c9a19b6e142371ce1a76982cf" title=" " alt="" coords="517,79,705,119"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="461,78,502,83,501,88,461,83"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_camera_controller.html#afdecfb6823c8d38c846ac94f5244755f" title=" " alt="" coords="753,15,937,55"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="703,33,738,33,738,38,703,38"/>
+</map>

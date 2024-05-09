@@ -1,0 +1,17 @@
+<map id="Necroisle.MapTool.GetFogWorldPos" name="Necroisle.MapTool.GetFogWorldPos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,181,95"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_zone.html#a802f071ff674c4e7e2e95157d8bf8153" title=" " alt="" coords="265,5,423,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,52,229,41,267,32,268,37,230,46,181,57"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_tool.html#a82a2d5469d941afdf1db2ab22c44c4c4" title=" " alt="" coords="256,55,432,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,73,240,73,240,78,182,78"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_map_tool.html#a9f74bcbdbd5c44067efbc66ed5f8e466" title=" " alt="" coords="229,120,459,145"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="181,93,230,105,268,113,267,119,229,110,180,99"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_settings_data.html#a46c45507ad6346eb1cafc65e432c22a5" title=" " alt="" coords="507,63,712,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="432,73,491,73,491,78,432,78"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_map_level_settings.html#ad653f8623d3826d9452c5cfd21c03871" title=" " alt="" coords="760,39,967,64"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="712,63,744,60,745,65,713,68"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_map_manager.html#a256db9daf719656c4481c52f0781e4bd" title=" " alt="" coords="773,88,953,113"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="713,83,758,88,758,93,712,88"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_map_zone.html#aac558944514287821b7eb48762fb769a" title=" " alt="" coords="513,113,705,153"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="459,130,498,130,498,135,459,135"/>
+</map>

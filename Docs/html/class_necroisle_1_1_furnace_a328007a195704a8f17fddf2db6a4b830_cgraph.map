@@ -1,0 +1,9 @@
+<map id="Necroisle.Furnace.GetQuantityUID" name="Necroisle.Furnace.GetQuantityUID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,228,56"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_furnace.html#a299dc399fec946848e4089d8fc99c37d" title=" " alt="" coords="277,5,450,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,29,261,26,262,31,229,35"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_furnace.html#ac0723ca1bd4c4629190fd91e7d7393ce" title=" " alt="" coords="276,55,451,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,52,261,55,260,60,228,57"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_unique_i_d.html#a405d94bbbd2a9ca036d895768860a350" title=" " alt="" coords="499,55,679,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="451,65,483,65,483,70,451,70"/>
+</map>

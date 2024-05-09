@@ -1,0 +1,10 @@
+<map id="Necroisle.TheUI.IsBlockingPanelOpened" name="Necroisle.TheUI.IsBlockingPanelOpened">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,183,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_read_panel.html#adac424296f49559bfa99a9b94c67d9d7" title=" " alt="" coords="231,5,411,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,66,232,48,233,53,168,71"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_storage_panel.html#aad6e2a9ef62df398cab9bcf4f1d30642" title=" " alt="" coords="235,69,407,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,87,219,87,219,92,183,92"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_u_i_panel.html#a2fb62d7125179f7a4597b78d692e3655" title=" " alt="" coords="459,106,637,131"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="169,107,231,119,340,125,443,123,443,129,340,130,230,124,168,113"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="407,98,443,102,443,108,407,103"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Necroisle.MapUI.Get" name="Necroisle.MapUI.Get">
+<area shape="rect" id="Node000001" title=" " alt="" coords="523,31,665,56"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_manager.html#ae8080fe91399529a5e72a11ccdf42e4a" title=" " alt="" coords="257,5,475,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="507,36,475,33,475,27,508,31"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_manager.html#a890bfee99d6cc5585c56cfd29aac692e" title=" " alt="" coords="259,55,473,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="508,55,474,59,473,53,507,50"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_minimap.html#aac3cf876a4d27a8813cf3de89d6a074f" title=" " alt="" coords="5,55,209,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="243,70,210,70,210,65,243,65"/>
+</map>

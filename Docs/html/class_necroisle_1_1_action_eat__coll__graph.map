@@ -1,0 +1,7 @@
+<map id="Necroisle.ActionEat" name="Necroisle.ActionEat">
+<area shape="rect" id="Node000001" title="Eat an item." alt="" coords="5,332,135,417"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_s_action.html" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="15,119,125,284"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,299,73,332,67,332,67,299"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="15,5,125,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="73,85,73,119,67,119,67,85"/>
+</map>

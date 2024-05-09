@@ -1,0 +1,11 @@
+<map id="Necroisle.ActionWaterPlant.CanDoAction" name="Necroisle.ActionWaterPlant.CanDoAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,192,63"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_inventory_data.html#a7766be877b24d80675baea651aba3cc9" title=" " alt="" coords="240,23,403,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,41,224,41,224,46,193,46"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_inventory_data.html#af9e07eda77207cb2916068fe8b50d695" title=" " alt="" coords="451,23,613,63"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,41,435,41,435,46,403,46"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_item_data.html#ace6ab6611cc54017e60f3985708ba674" title=" " alt="" coords="681,5,838,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="614,32,665,26,666,31,614,37"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_craft_data.html#a0c031bb80ead6a148e4b207cde7f1711" title=" " alt="" coords="661,55,857,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="614,49,646,53,645,58,614,55"/>
+</map>

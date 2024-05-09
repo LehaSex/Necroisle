@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerCharacterCombat.Kill" name="Necroisle.PlayerCharacterCombat.Kill">
+<area shape="rect" id="Node000001" title=" " alt="" coords="248,5,421,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_controller.html#a1cb8b3fe27eb903d2488eb6ae90608fe" title=" " alt="" coords="5,13,200,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,28,201,28,201,23,233,23"/>
+</map>

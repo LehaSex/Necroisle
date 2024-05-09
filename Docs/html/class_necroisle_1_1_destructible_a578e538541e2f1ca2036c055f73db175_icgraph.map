@@ -1,0 +1,5 @@
+<map id="Necroisle.Destructible.TakeDamage" name="Necroisle.Destructible.TakeDamage">
+<area shape="rect" id="Node000001" title=" " alt="" coords="201,5,383,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_trap.html#abe0a1162092a2198a3ad3e97b60b8f8f" title=" " alt="" coords="5,13,153,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,28,154,28,154,23,186,23"/>
+</map>

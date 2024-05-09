@@ -1,0 +1,12 @@
+<map id="Necroisle.TheData" name="Necroisle.TheData">
+<area shape="rect" id="Node000001" title="Manager script that will load all scriptable objects for use at runtime." alt="" coords="166,463,286,528"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,227,108,293"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,306,94,352,121,398,152,432,184,461,181,465,148,436,117,402,89,355,69,308"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_game_data.html" title="Generic game data (only one file)" alt="" coords="132,120,320,400"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,400,229,445,223,445,223,400"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="263,5,373,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="302,85,286,121,282,119,297,83"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_asset_data.html" title="Generic asset data (only one file)" alt="" coords="345,147,478,373"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="340,83,367,147,362,149,335,85"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="354,374,333,402,282,454,278,450,329,398,349,371"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="Necroisle.ConstructionData" name="Necroisle.ConstructionData">
+<area shape="rect" id="Node000001" title="Data file for Constructions." alt="" coords="5,1079,177,1264"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_craft_data.html" title="Parent data class for craftable items (items, constructions, plants)" alt="" coords="8,345,175,1031"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,1045,94,1079,89,1079,89,1045"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_id_data.html" title="IdData adds an ID to the class." alt="" coords="66,232,117,297"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,312,94,346,89,346,89,312"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_s_data.html" title="SData is the base scriptable object data for this engine." alt="" coords="66,119,117,184"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,198,94,232,89,232,89,198"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="36,5,147,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="94,85,94,119,89,119,89,85"/>
+</map>

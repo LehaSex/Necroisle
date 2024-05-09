@@ -1,0 +1,22 @@
+<map id="Necroisle.CategorySlot" name="Necroisle.CategorySlot">
+<area shape="rect" id="Node000001" title="A button slot for one of the crafting categories." alt="" coords="191,2544,337,2689"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot.html" title="Basic class for any type of slot (item, other)" alt="" coords="118,1676,253,2481"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="249,2496,256,2544,251,2545,244,2497"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="146,5,249,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="146,82,131,101,120,121,78,232,47,334,26,429,13,519,9,605,10,687,17,768,29,848,61,1011,99,1186,134,1384,147,1494,157,1613,161,1676,156,1676,152,1614,142,1494,129,1384,94,1187,56,1012,24,849,12,769,5,688,3,605,8,519,21,429,42,333,73,230,115,119,127,98,142,79"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_u_i_slot.html" title="Basic class for any type of slot (item, other)" alt="" coords="130,120,265,925"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="200,86,200,120,195,120,195,86"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_u_i_panel.html" title="Generic script for any UI panel, can be inherited." alt="" coords="356,360,468,685"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="264,58,307,83,328,99,345,118,376,175,398,236,411,299,418,360,413,361,406,300,393,237,371,177,340,122,324,103,305,87,261,63"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="171,925,168,988,162,1301,168,1613,169,1659,164,1659,163,1613,157,1301,163,988,165,925"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="266,443,276,453,284,470,289,493,291,523,288,562,279,588,274,586,283,561,286,523,284,494,279,472,272,456,263,447"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_u_i_slot_panel.html" title="Basic class for any panel containing slots that can be selected." alt="" coords="221,988,361,1613"/>
+<area shape="poly" id="edge9_Node000005_Node000004" title=" " alt="" coords="206,924,211,964,220,1022,215,1023,205,964,201,925"/>
+<area shape="poly" id="edge10_Node000002_Node000005" title=" " alt="" coords="251,1613,245,1660,239,1659,246,1613"/>
+<area shape="poly" id="edge6_Node000004_Node000005" title=" " alt="" coords="256,989,252,950,251,943,256,942,257,949,262,988"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="387,701,342,989,337,988,382,700"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_group_data.html" title="A group doesn&#39;t do anything by itself, but it serves to reference objects as a group instead of refer..." alt="" coords="341,2026,475,2131"/>
+<area shape="poly" id="edge11_Node000001_Node000007" title=" " alt="" coords="397,2132,290,2528,285,2527,392,2131"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="385,1268,495,1333"/>
+<area shape="poly" id="edge12_Node000007_Node000008" title=" " alt="" coords="441,1348,413,2026,407,2026,435,1348"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Necroisle.ItemSlot.SetSlot" name="Necroisle.ItemSlot.SetSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,180,56"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_slot.html#acac28c01decc2094e37e079be391c1b2" title=" " alt="" coords="228,5,435,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,31,212,28,213,33,181,37"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_u_i_slot.html#a5307e35b8c654e5b193887ea27eaeb5e" title=" " alt="" coords="256,55,407,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,49,241,56,240,61,180,55"/>
+</map>

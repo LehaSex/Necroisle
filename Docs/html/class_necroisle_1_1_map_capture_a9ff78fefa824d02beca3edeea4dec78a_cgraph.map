@@ -1,0 +1,13 @@
+<map id="Necroisle.MapCapture.AutoSetup" name="Necroisle.MapCapture.AutoSetup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,77,187,117"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_capture.html#a3d52e281217f8428e5fd48f2bd88ca5a" title=" " alt="" coords="235,47,427,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,83,219,79,219,84,187,88"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_map_icon.html#a2d469ecba77aa65c7cf72be7e94be4f2" title=" " alt="" coords="235,112,427,137"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="187,105,219,109,219,114,187,110"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_zone.html#ac00ecd8a708c6e463ba32079f99406e1" title=" " alt="" coords="480,5,676,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="427,46,495,32,496,37,428,51"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_zone.html#a4b31c15191737a1c9084c421eb2ba829" title=" " alt="" coords="475,55,681,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="427,65,459,65,459,70,427,70"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_map_zone.html#ac80e1ba8205a835ce4d752f187e00291" title=" " alt="" coords="486,104,670,129"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="428,84,496,98,495,103,427,89"/>
+</map>

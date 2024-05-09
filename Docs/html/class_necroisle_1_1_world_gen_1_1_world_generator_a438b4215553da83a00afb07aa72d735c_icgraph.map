@@ -1,0 +1,10 @@
+<map id="Necroisle.WorldGen.WorldGenerator.ClearAllBiomes" name="Necroisle.WorldGen.WorldGenerator.ClearAllBiomes">
+<area shape="rect" id="Node000001" title=" " alt="" coords="612,41,788,81"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#a7cce7d172d02979f7f40ee5caab9d485" title=" " alt="" coords="324,12,564,52"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="596,52,564,48,565,43,597,47"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_world_gen_1_1_editor_tool_1_1_world_generator_editor.html#ad86ecd2f83bdb93e0fb872c6206dcdc6" title=" " alt="" coords="5,69,276,109"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="597,69,277,85,276,80,596,64"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_world_generator.html#af504a772cb6a37bfdf023c41a715fe17" title=" " alt="" coords="31,5,250,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="309,32,250,30,250,25,309,26"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="320,58,251,71,250,66,319,53"/>
+</map>

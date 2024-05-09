@@ -1,0 +1,8 @@
+<map id="Necroisle.MapCapture" name="Necroisle.MapCapture">
+<area shape="rect" id="Node000001" title="Class to auto generate the map from your scene and creating a PNG image, EDITOR only." alt="" coords="5,488,160,753"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="26,5,129,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,85,84,488,79,488,75,85"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_zone.html" title="Map zone should always be defined in the XZ plane." alt="" coords="99,120,256,425"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="99,83,115,119,110,121,94,86"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,426,126,472,121,471,133,424"/>
+</map>

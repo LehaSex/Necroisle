@@ -1,0 +1,12 @@
+<map id="Necroisle.ActionAddFuel" name="Necroisle.ActionAddFuel">
+<area shape="rect" id="Node000001" title="Add fuel to a fire (wood, grass, etc)" alt="" coords="54,563,211,628"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_m_action.html" title="Merge Action parent class: Any action that happens when mixing two items (ex: coconut and axe),..." alt="" coords="77,348,188,513"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,528,135,563,130,563,130,528"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_s_action.html" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="5,120,116,285"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="94,298,109,347,104,349,88,300"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="77,5,188,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="115,86,99,121,94,119,110,83"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_group_data.html" title="A group doesn&#39;t do anything by itself, but it serves to reference objects as a group instead of refer..." alt="" coords="140,150,275,255"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="156,83,186,149,181,152,151,85"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="193,256,167,333,162,331,188,254"/>
+</map>

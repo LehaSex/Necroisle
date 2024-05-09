@@ -1,0 +1,13 @@
+<map id="Necroisle.PausePanel.OnClickLoad" name="Necroisle.PausePanel.OnClickLoad">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,45,233,70"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_data.html#ae6e0b889fecbf67d77b604339408bb23" title=" " alt="" coords="281,37,452,77"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,55,266,55,266,60,234,60"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_save_system.html#a28b7e2764125430c47b71b24c721e54a" title=" " alt="" coords="500,5,687,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="452,43,484,38,485,43,452,48"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_data.html#a4d5b993f55e3c9d61989690057df8f44" title=" " alt="" coords="509,69,678,109"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="452,67,494,73,493,78,452,72"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_save_system.html#a74414b969301712fd42b451b9dae5149" title=" " alt="" coords="735,5,931,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="687,23,719,23,719,28,687,28"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_save_system.html#a95b3169603d77eb133167764e69e2752" title=" " alt="" coords="743,69,922,109"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="678,87,728,87,728,92,678,92"/>
+</map>

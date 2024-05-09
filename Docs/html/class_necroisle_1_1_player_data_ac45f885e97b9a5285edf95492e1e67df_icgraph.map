@@ -1,8 +1,12 @@
 <map id="Necroisle.PlayerData.NewGame" name="Necroisle.PlayerData.NewGame">
-<area shape="rect" id="Node000001" title=" " alt="" coords="505,29,713,55"/>
-<area shape="poly" id="edge3_Node000001_Node000001" title=" " alt="" coords="654,17,639,11,609,8,582,10,568,15,565,20,572,27,568,31,559,21,564,11,581,5,609,3,641,5,656,13"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="505,55,713,80"/>
+<area shape="poly" id="edge4_Node000001_Node000001" title=" " alt="" coords="654,43,639,36,609,33,582,35,568,40,565,45,572,52,568,56,559,46,564,36,581,30,609,28,641,31,656,38"/>
 <area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_data.html#a2f4f16b1d46373b1cdfa5684f3452af0" title=" " alt="" coords="255,29,457,55"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,45,458,45,458,39,490,39"/>
-<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_data.html#add7921d87fd08e02ea8353d2afae1f91" title=" " alt="" coords="5,29,207,55"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,45,207,45,207,39,239,39"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="490,58,458,55,458,50,490,53"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_the_game.html#a4a09c61cefff6a9e6f5dfaf76129af6a" title=" " alt="" coords="256,79,456,104"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="490,81,457,85,456,79,490,76"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_the_game.html#ad3c43cb50ffc373ce0565a7eb4b8f70f" title=" " alt="" coords="22,5,190,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,33,190,29,191,23,239,28"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_data.html#add7921d87fd08e02ea8353d2afae1f91" title=" " alt="" coords="5,55,207,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="239,56,207,60,207,54,239,51"/>
 </map>

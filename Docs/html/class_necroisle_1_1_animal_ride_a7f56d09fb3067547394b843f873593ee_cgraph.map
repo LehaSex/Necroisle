@@ -1,0 +1,17 @@
+<map id="Necroisle.AnimalRide.RemoveRider" name="Necroisle.AnimalRide.RemoveRider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,101,201,141"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_ride.html#aff3d714299cb1629c74163fc2ce07003" title=" " alt="" coords="249,101,423,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,119,234,119,234,124,202,124"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_controller.html#a5bc1cf3c26900796d3db8d3de8df06fe" title=" " alt="" coords="484,5,660,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="375,98,470,55,487,48,488,53,472,60,377,103"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_controller.html#a107b436e4c929d538599f833a5d22583" title=" " alt="" coords="484,69,660,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="423,107,468,101,469,106,423,112"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_controller.html#a482aa4974e237f4f1ae5870294224bc9" title=" " alt="" coords="484,133,660,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="423,130,469,137,468,142,423,136"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_animal_ride.html#a3e617b7f9c3e606fca8c38598858ef83" title=" " alt="" coords="471,198,673,223"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="376,140,421,162,472,183,497,191,495,196,470,188,419,167,374,144"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_animal_ride.html#a5866de08a02a219e71b84fc2d3845a17" title=" " alt="" coords="721,198,928,223"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="674,208,706,208,706,213,674,213"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_character.html#a0e4e432711b3a28e9f458ad7fe3a3325" title=" " alt="" coords="976,198,1143,223"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="928,208,960,208,960,213,928,213"/>
+</map>

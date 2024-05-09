@@ -1,0 +1,7 @@
+<map id="Necroisle.PlayerControls.IsPressAction" name="Necroisle.PlayerControls.IsPressAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="239,35,408,75"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_selector.html#af1c3a402a94dc5d71aa6820e6beffab5" title=" " alt="" coords="13,5,183,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,44,183,39,183,34,224,39"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_craft_panel.html#a68b3df7c2e26c003bddc8aefe7687e05" title=" " alt="" coords="5,70,191,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,70,192,74,191,68,223,64"/>
+</map>

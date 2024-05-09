@@ -1,0 +1,6 @@
+<map id="Necroisle.Lure.Kill" name="Necroisle.Lure.Kill">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,132,55"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_selectable.html#a8c5739ec4ce7293a47e8a1e05ec52eec" title=" " alt="" coords="180,29,371,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,39,164,39,164,45,132,45"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="241,30,234,21,238,11,252,5,275,3,301,5,314,12,311,17,299,10,275,8,254,10,242,15,239,20,245,27"/>
+</map>

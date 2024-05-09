@@ -1,0 +1,5 @@
+<map id="Necroisle.Character.IsDead" name="Necroisle.Character.IsDead">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,185,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_destructible.html#a8d379474023260f276febfa1b397b6f5" title=" " alt="" coords="233,5,427,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="186,15,218,15,218,21,186,21"/>
+</map>

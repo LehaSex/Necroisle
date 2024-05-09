@@ -1,0 +1,45 @@
+<map id="Necroisle.UIPanel" name="Necroisle.UIPanel">
+<area shape="rect" id="Node000001" title="Generic script for any UI panel, can be inherited." alt="" coords="567,119,684,444"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_black_panel.html" title=" " alt="" coords="5,752,144,877"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="553,297,462,320,355,358,300,384,248,415,200,451,158,494,137,523,120,555,96,624,83,693,77,753,72,752,77,692,91,623,115,553,132,520,154,490,197,447,245,410,298,379,353,353,460,315,552,292"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_craft_info_panel.html" title="Panel that contain the detailed information of a single crafting item." alt="" coords="168,642,320,987"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="555,318,500,349,440,389,383,437,334,494,313,528,296,565,271,643,266,641,291,563,309,526,330,490,379,433,437,384,497,344,552,313"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_map_u_i.html" title="UI that displays the map." alt="" coords="344,722,453,907"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="559,357,510,421,468,493,446,550,429,610,409,723,404,722,424,609,441,549,463,491,505,418,555,354"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_minimap.html" title=" " alt="" coords="478,712,599,917"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="599,459,558,713,553,712,594,458"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_player_u_i.html" title="In&#45;Game UI, specific to one player." alt="" coords="623,542,803,1087"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="657,458,671,542,666,543,652,459"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_read_panel.html" title=" " alt="" coords="827,692,962,937"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="696,341,760,409,791,449,817,491,839,540,857,591,882,692,876,693,852,593,835,542,812,493,787,452,756,412,692,344"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_tooltip_panel.html" title=" " alt="" coords="986,602,1129,1027"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="699,305,766,333,841,374,914,426,947,457,975,490,1007,543,1030,601,1025,603,1002,546,971,494,943,460,910,430,838,378,763,338,697,310"/>
+<area shape="rect" id="Node000010" href="$class_necroisle_1_1_u_i_slot_panel.html" title="Basic class for any panel containing slots that can be selected." alt="" coords="1153,492,1293,1137"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="699,289,799,309,858,325,919,346,980,372,1039,405,1094,444,1142,490,1155,506,1151,510,1138,494,1091,448,1036,409,978,377,917,351,856,330,798,314,698,294"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="574,5,677,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="628,85,628,119,623,119,623,85"/>
+<area shape="rect" id="Node000011" href="$class_necroisle_1_1_action_selector.html" title="ActionSelector is the panel that popup and allow you to pick an action to do when you click on a sele..." alt="" coords="595,1495,752,1761"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="1144,1137,1142,1139,1118,1157,1094,1169,1069,1176,1045,1178,998,1174,950,1163,904,1152,857,1148,834,1151,811,1157,789,1169,766,1187,738,1219,715,1254,698,1292,684,1333,669,1416,665,1496,660,1496,664,1416,679,1332,693,1290,710,1251,733,1215,762,1183,786,1165,809,1152,833,1145,857,1143,904,1147,952,1158,999,1169,1045,1173,1068,1171,1092,1164,1115,1153,1138,1135,1140,1133"/>
+<area shape="rect" id="Node000012" href="$class_necroisle_1_1_action_selector_u_i.html" title="ActionSelectorUI is similar to ActionSelector, but for items in the player&#39;s inventory in the UI Canv..." alt="" coords="777,1505,946,1751"/>
+<area shape="poly" id="edge11_Node000010_Node000012" title=" " alt="" coords="1145,1136,1142,1139,1119,1156,1095,1164,1071,1165,1048,1164,1025,1162,1003,1163,981,1171,959,1187,932,1221,910,1258,892,1299,879,1341,863,1426,858,1506,853,1505,858,1425,874,1340,887,1297,905,1256,928,1218,955,1183,978,1166,1002,1158,1025,1157,1048,1158,1072,1160,1094,1159,1116,1152,1138,1135,1141,1132"/>
+<area shape="rect" id="Node000013" href="$class_necroisle_1_1_craft_panel.html" title="The top level crafting bar that contains all the crafting categories." alt="" coords="970,1465,1121,1791"/>
+<area shape="poly" id="edge12_Node000010_Node000013" title=" " alt="" coords="1152,1115,1136,1186,1078,1466,1073,1465,1131,1185,1147,1114"/>
+<area shape="rect" id="Node000014" href="$class_necroisle_1_1_craft_sub_panel.html" title="Second level crafting bar, that contains the items under a category." alt="" coords="1145,1445,1300,1811"/>
+<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="1225,1152,1225,1445,1220,1445,1220,1152"/>
+<area shape="rect" id="Node000015" href="$class_necroisle_1_1_game_over_panel.html" title=" " alt="" coords="1325,1545,1491,1711"/>
+<area shape="poly" id="edge14_Node000010_Node000015" title=" " alt="" coords="1299,1116,1315,1185,1394,1545,1388,1546,1309,1186,1293,1117"/>
+<area shape="rect" id="Node000016" href="$class_necroisle_1_1_item_slot_panel.html" title="Generic parent UI panel that manages multiple item slots (Inventory/Equip/Storage,..." alt="" coords="1516,1185,1711,2071"/>
+<area shape="poly" id="edge15_Node000010_Node000016" title=" " alt="" coords="1305,899,1355,958,1409,1028,1461,1104,1505,1184,1519,1214,1514,1216,1500,1187,1456,1107,1405,1031,1351,961,1300,902"/>
+<area shape="rect" id="Node000022" href="$class_necroisle_1_1_pause_panel.html" title=" " alt="" coords="1735,1485,1889,1771"/>
+<area shape="poly" id="edge21_Node000010_Node000022" title=" " alt="" coords="1307,851,1406,904,1520,977,1577,1022,1632,1071,1682,1125,1725,1184,1762,1256,1787,1334,1803,1412,1812,1485,1807,1486,1798,1413,1782,1335,1757,1258,1720,1187,1678,1129,1628,1075,1574,1026,1517,982,1403,908,1305,856"/>
+<area shape="rect" id="Node000017" href="$class_necroisle_1_1_bag_panel.html" title="Main UI panel for storages boxes (chest)" alt="" coords="1220,2239,1348,2404"/>
+<area shape="poly" id="edge16_Node000016_Node000017" title=" " alt="" coords="1509,2068,1505,2073,1487,2087,1469,2095,1433,2098,1397,2101,1379,2108,1362,2121,1340,2147,1323,2176,1300,2240,1295,2238,1318,2174,1336,2144,1358,2117,1377,2103,1396,2096,1432,2093,1467,2090,1484,2083,1501,2069,1505,2065"/>
+<area shape="rect" id="Node000018" href="$class_necroisle_1_1_equip_panel.html" title="Shows currently equipped items." alt="" coords="1372,2229,1511,2414"/>
+<area shape="poly" id="edge17_Node000016_Node000018" title=" " alt="" coords="1515,2035,1467,2230,1461,2229,1510,2034"/>
+<area shape="rect" id="Node000019" href="$class_necroisle_1_1_inventory_panel.html" title="Main Inventory bar that list all items in your inventory." alt="" coords="1535,2239,1691,2404"/>
+<area shape="poly" id="edge18_Node000016_Node000019" title=" " alt="" coords="1616,2086,1616,2239,1611,2239,1611,2086"/>
+<area shape="rect" id="Node000020" href="$class_necroisle_1_1_mixing_panel.html" title="Main UI panel for storages boxes (chest)" alt="" coords="1715,2119,1866,2524"/>
+<area shape="poly" id="edge19_Node000016_Node000020" title=" " alt="" coords="1717,2038,1725,2070,1738,2118,1733,2119,1720,2071,1712,2039"/>
+<area shape="rect" id="Node000021" href="$class_necroisle_1_1_storage_panel.html" title="Main UI panel for storages boxes (chest)" alt="" coords="1890,2199,2041,2444"/>
+<area shape="poly" id="edge20_Node000016_Node000021" title=" " alt="" coords="1722,2066,1724,2069,1743,2083,1761,2091,1799,2094,1838,2096,1859,2103,1879,2117,1911,2154,1934,2198,1930,2200,1907,2157,1876,2121,1856,2107,1837,2101,1798,2099,1760,2096,1740,2088,1721,2073,1718,2070"/>
+</map>

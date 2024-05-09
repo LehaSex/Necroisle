@@ -1,0 +1,7 @@
+<map id="Necroisle.PlayerCharacterJump.IsJumping" name="Necroisle.PlayerCharacterJump.IsJumping">
+<area shape="rect" id="Node000001" title=" " alt="" coords="229,37,403,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_controller.html#ad0500f607b971c9c47ae7743555be41e" title=" " alt="" coords="5,5,181,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,45,182,41,182,35,214,40"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_character_jump.html#a5c93e2ecd4a3d4d34cd27d26c157d39c" title=" " alt="" coords="7,69,180,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,75,181,79,180,74,213,69"/>
+</map>

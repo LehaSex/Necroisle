@@ -1,0 +1,9 @@
+<map id="Necroisle.PlayerControlsMouse.IsMouseInsideCamera" name="Necroisle.PlayerControlsMouse.IsMouseInsideCamera">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,199,95"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_camera_controller.html#a88e028239b1b810c6ee5a3d33347bd10" title=" " alt="" coords="247,5,452,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,52,276,32,277,37,192,57"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_controls_mouse.html#a77b0a94ff86f9090cd2a85156f5aec7d" title=" " alt="" coords="263,55,435,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="199,73,248,73,248,78,199,78"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_camera_controller.html#a88b7ce28b1cf6ed1db48cbf972d8f232" title=" " alt="" coords="257,119,441,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,93,255,112,254,118,181,99"/>
+</map>

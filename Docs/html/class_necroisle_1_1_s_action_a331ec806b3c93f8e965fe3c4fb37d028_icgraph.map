@@ -1,0 +1,7 @@
+<map id="Necroisle.SAction.CanDoAction" name="Necroisle.SAction.CanDoAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,45,429,70"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_selector.html#aa06b46eae2d5dc02031ebcedeeed9f54" title=" " alt="" coords="5,5,175,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,45,175,39,176,34,213,39"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_action_selector_u_i.html#ad02b072507bf54bccac888f5d546102d" title=" " alt="" coords="7,69,173,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,75,173,81,173,75,212,70"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Necroisle.PlayerCharacterCombat.CanAttack" name="Necroisle.PlayerCharacterCombat.CanAttack">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,179,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_destructible.html#a8eda69ff0a9ddf6c818f5fd2f65019a7" title=" " alt="" coords="227,5,403,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,42,211,38,211,43,179,48"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_inventory_data.html#a7766be877b24d80675baea651aba3cc9" title=" " alt="" coords="233,69,396,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,67,218,73,218,78,179,72"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_inventory_data.html#af9e07eda77207cb2916068fe8b50d695" title=" " alt="" coords="451,69,613,109"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="397,87,435,87,435,92,397,92"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_item_data.html#ace6ab6611cc54017e60f3985708ba674" title=" " alt="" coords="681,51,838,77"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="614,78,665,72,666,77,614,83"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_craft_data.html#a0c031bb80ead6a148e4b207cde7f1711" title=" " alt="" coords="661,101,857,126"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="614,95,646,99,645,104,614,101"/>
+</map>

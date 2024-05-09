@@ -1,0 +1,9 @@
+<map id="Necroisle.TheAudio.PlaySFX" name="Necroisle.TheAudio.PlaySFX">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,70,193,95"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_the_audio.html#ab20a513cfb54c85a81268ababe76e11a" title=" " alt="" coords="257,5,433,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,67,241,47,243,52,158,72"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_data.html#a3a1b590972f900f8d1e6813ef3f48f8b" title=" " alt="" coords="260,70,429,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,80,244,80,244,85,194,85"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_the_audio.html#a4d9967877826fa876ea1de4710d7d023" title=" " alt="" coords="241,119,448,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="166,93,264,113,263,118,165,99"/>
+</map>

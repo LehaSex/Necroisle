@@ -9,5 +9,6 @@ public class PixelPostProcess : MonoBehaviour
     void OnRenderImage(RenderTexture src, RenderTexture dest)
     {
         Graphics.Blit(src, dest, mat);
+        
     }
 }

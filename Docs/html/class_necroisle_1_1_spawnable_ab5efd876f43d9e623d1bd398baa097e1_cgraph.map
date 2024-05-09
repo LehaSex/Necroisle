@@ -1,0 +1,13 @@
+<map id="Necroisle.Spawnable.Create" name="Necroisle.Spawnable.Create">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,70,191,95"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_spawnable.html#a31f83a9d3052f04e56c1a450494102cb" title=" " alt="" coords="239,70,424,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,80,223,80,223,85,191,85"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_data.html#a8709ab25fb23155263188beddb4301ba" title=" " alt="" coords="489,5,660,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="388,67,474,46,475,52,389,72"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_data.html#a3a1b590972f900f8d1e6813ef3f48f8b" title=" " alt="" coords="490,70,659,95"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="424,80,474,80,474,85,424,85"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_scene_nav.html#a35c3e3a890ec681ba6ac7aaa09685fb6" title=" " alt="" coords="472,120,677,160"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="389,93,473,113,471,118,388,99"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_unique_i_d.html#ab3d93d1b811b1084f9e6e39e4bca8cea" title=" " alt="" coords="725,5,915,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="661,23,710,23,710,28,661,28"/>
+</map>

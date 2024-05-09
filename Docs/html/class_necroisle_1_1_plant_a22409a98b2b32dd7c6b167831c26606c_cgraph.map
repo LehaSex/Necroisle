@@ -1,0 +1,11 @@
+<map id="Necroisle.Plant.GetNearest" name="Necroisle.Plant.GetNearest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,185,56"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_plant.html#a7163c9924220aa5bbb156824526a06a4" title=" " alt="" coords="233,31,384,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,41,217,41,217,46,185,46"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_buildable.html#aaf2d9256111f0f7f6838c07f4cc211f5" title=" " alt="" coords="432,5,625,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="384,32,416,28,417,34,384,37"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_plant.html#a7fa60409e6a23a451af4a9bc947cf9ca" title=" " alt="" coords="451,55,606,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="384,49,436,55,436,60,384,54"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_destructible.html#a8d379474023260f276febfa1b397b6f5" title=" " alt="" coords="673,55,867,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="606,65,658,65,658,70,606,70"/>
+</map>

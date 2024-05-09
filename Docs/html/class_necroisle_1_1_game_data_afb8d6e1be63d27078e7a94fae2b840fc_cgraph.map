@@ -1,0 +1,5 @@
+<map id="Necroisle.GameData.Get" name="Necroisle.GameData.Get">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,172,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_the_data.html#ae069cdb56c3f6233a51f69bd0d46eff1" title=" " alt="" coords="220,5,373,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,15,205,15,205,21,172,21"/>
+</map>

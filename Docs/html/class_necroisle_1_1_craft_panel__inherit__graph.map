@@ -1,0 +1,9 @@
+<map id="Necroisle.CraftPanel" name="Necroisle.CraftPanel">
+<area shape="rect" id="Node000001" title="The top level crafting bar that contains all the crafting categories." alt="" coords="5,1185,156,1511"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot_panel.html" title="Basic class for any panel containing slots that can be selected." alt="" coords="11,492,151,1137"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,1152,83,1186,78,1186,78,1152"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_u_i_panel.html" title="Generic script for any UI panel, can be inherited." alt="" coords="25,119,137,444"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,459,83,492,78,492,78,459"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="29,5,132,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,85,83,119,78,119,78,85"/>
+</map>

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38d63eba896e0f144b66d0da66265db1, type: 3}
+  m_Name: PlentyPlainAnimals
+  m_EditorClassIdentifier: 
+  density: 5
+  variance: 50
+  random_rotation: 1
+  random_scale: 0
+  spawns:
+  - prefab: {fileID: 8109450083773324641, guid: 1103b640b1c957747a90f99b1593d2b9, type: 3}
+    probability: 1.6
+  - prefab: {fileID: 5608548162705373942, guid: a51e0a56da156244cbccc4161acd7102, type: 3}
+    probability: 1

@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerCharacterInventory.GetEquipAttachment" name="Necroisle.PlayerCharacterInventory.GetEquipAttachment">
+<area shape="rect" id="Node000001" title=" " alt="" coords="261,5,460,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_combat.html#a777237024e2d6c98a25e10e3e6c4cce6" title=" " alt="" coords="5,5,213,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,28,214,28,214,23,246,23"/>
+</map>

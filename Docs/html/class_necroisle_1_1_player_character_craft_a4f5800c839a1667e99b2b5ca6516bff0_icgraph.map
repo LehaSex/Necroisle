@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerCharacterCraft.GetCraftStation" name="Necroisle.PlayerCharacterCraft.GetCraftStation">
+<area shape="rect" id="Node000001" title=" " alt="" coords="241,5,415,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_craft_panel.html#ab3277d34d0060311e9fba414e62771e6" title=" " alt="" coords="5,5,193,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,28,194,28,194,23,226,23"/>
+</map>

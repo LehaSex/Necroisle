@@ -1,0 +1,7 @@
+<map id="Necroisle.ItemSlotPanel.IsInventorySet" name="Necroisle.ItemSlotPanel.IsInventorySet">
+<area shape="rect" id="Node000001" title=" " alt="" coords="221,37,387,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_equip_panel.html#a96d84785084367c2d1e8316cf2071c55" title=" " alt="" coords="6,5,173,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,45,173,40,174,35,206,40"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_inventory_panel.html#a9ff82792524c84c4133161fba67a1fd0" title=" " alt="" coords="5,69,173,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,75,174,79,173,74,205,69"/>
+</map>

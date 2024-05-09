@@ -1,0 +1,5 @@
+<map id="Necroisle.Item.GetByUID" name="Necroisle.Item.GetByUID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,172,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item.html#af7cfefa035e37c89757b45ba05674360" title=" " alt="" coords="220,5,371,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,15,205,15,205,21,172,21"/>
+</map>

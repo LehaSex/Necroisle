@@ -1,0 +1,5 @@
+<map id="Necroisle.WorldGen.Voronoi.DistanceFromPointToPlane" name="Necroisle.WorldGen.Voronoi.DistanceFromPointToPlane">
+<area shape="rect" id="Node000001" title=" " alt="" coords="244,5,435,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_voronoi.html#a58d1ff2bc69cd8732181e8426e84dab5" title=" " alt="" coords="5,5,196,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,28,197,28,197,23,228,23"/>
+</map>

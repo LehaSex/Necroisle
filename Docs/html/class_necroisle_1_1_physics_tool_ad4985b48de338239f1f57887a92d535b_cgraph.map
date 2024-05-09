@@ -1,0 +1,5 @@
+<map id="Necroisle.PhysicsTool.IsLayerInLayerMask" name="Necroisle.PhysicsTool.IsLayerInLayerMask">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,171,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_physics_tool.html#a9d2ac32cbbd17f2ad341b2956c65dfe6" title=" " alt="" coords="219,5,405,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,23,203,23,203,28,171,28"/>
+</map>

@@ -18,13 +18,16 @@ MonoBehaviour:
   constructions_folder: Resources/Constructions
   plants_folder: Resources/Plants
   characters_folder: Resources/Characters
-  outline: {fileID: 0}
-  death_fx: {fileID: 0}
-  craft_audio: {fileID: 0}
-  take_fx: {fileID: 0}
-  take_audio: {fileID: 0}
-  attack_audio: {fileID: 0}
-  build_audio: {fileID: 0}
-  build_fx: {fileID: 0}
-  player_avatar: {fileID: 9000000, guid: 839cbf7f96941b842b2aa5a57308545d, type: 3}
-  player_animator: {fileID: 9100000, guid: 1143e564b318d5345b247bf1b8fc63b3, type: 2}
+  outline: {fileID: 2100000, guid: b09a02aadc7f5cc4f9cbad8e29cbb0fd, type: 2}
+  death_fx: {fileID: 1782698244953427790, guid: 0f7e8731917f821428e959c7292e99a7, type: 3}
+  craft_audio: {fileID: 8300000, guid: 4d94bbef739d431428c55a32685cd11e, type: 3}
+  take_fx: {fileID: 771872157719671656, guid: 1a814065da11ec0418bf279217727054, type: 3}
+  take_audio: {fileID: 8300000, guid: 06db5aed9ea0afe458f59a0b1d5f7524, type: 3}
+  attack_audio: {fileID: 8300000, guid: 65a3565b8b773194793add136ecfbf4d, type: 3}
+  build_audio: {fileID: 8300000, guid: 16761a0931becbc48ac9e16da253d402, type: 3}
+  build_fx: {fileID: 1782698244953427790, guid: 0f7e8731917f821428e959c7292e99a7, type: 3}
+  item_actions:
+  - {fileID: 11400000, guid: 925a6e1b7dcbc764cb15f91d825e9437, type: 2}
+  - {fileID: 11400000, guid: b116f3b69981762499597fee1be4496a, type: 2}
+  equip_action: {fileID: 11400000, guid: 0efc65a5b0a6b0f44a5755e78d6a2421, type: 2}
+  eat_action: {fileID: 11400000, guid: 79908829347664c49b1b67cb0bac0db2, type: 2}

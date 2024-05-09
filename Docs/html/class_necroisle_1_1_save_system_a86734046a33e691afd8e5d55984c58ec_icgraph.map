@@ -1,5 +1,7 @@
 <map id="Necroisle.SaveSystem.SetLastSave" name="Necroisle.SaveSystem.SetLastSave">
-<area shape="rect" id="Node000001" title=" " alt="" coords="229,5,407,45"/>
-<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_data.html#a34da474ec9078a3b0f3e58213fe09759" title=" " alt="" coords="5,13,181,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,28,182,28,182,23,214,23"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="229,23,407,63"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_data.html#aa9d5d1ac2ecaf6899d28d92fae2d4b02" title=" " alt="" coords="11,5,175,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,34,176,30,176,25,214,29"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_player_data.html#a34da474ec9078a3b0f3e58213fe09759" title=" " alt="" coords="5,55,181,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,57,182,61,181,55,214,52"/>
 </map>

@@ -1,0 +1,7 @@
+<map id="Necroisle.Furnace.CountItemSpace" name="Necroisle.Furnace.CountItemSpace">
+<area shape="rect" id="Node000001" title=" " alt="" coords="221,37,412,77"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_furnace.html#afcbb9d2385e0e653ff44b4f1f9a578f7" title=" " alt="" coords="5,5,173,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,44,173,40,174,35,206,39"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_action_furnace.html#acc2210a78c8a124113922833413452bc" title=" " alt="" coords="5,69,173,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,76,174,80,173,75,205,70"/>
+</map>

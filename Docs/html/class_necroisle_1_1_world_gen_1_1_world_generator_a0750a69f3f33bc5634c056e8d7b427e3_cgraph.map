@@ -1,0 +1,11 @@
+<map id="Necroisle.WorldGen.WorldGenerator.GenerateNavmesh" name="Necroisle.WorldGen.WorldGenerator.GenerateNavmesh">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,195,109"/>
+<area shape="rect" id="Node000002" href="$class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#aadb98970a0eab4c02bf9d9b5fced4393" title=" " alt="" coords="243,69,456,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,87,227,87,227,92,195,92"/>
+<area shape="rect" id="Node000003" href="$class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#a59cb54cd1345b7f9f5ec569740249fbc" title=" " alt="" coords="504,5,717,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="433,66,511,47,512,52,435,71"/>
+<area shape="rect" id="Node000004" href="$class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#a29b3013714ce2cb0f40489b0094cde15" title=" " alt="" coords="504,69,717,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="457,87,489,87,489,92,457,92"/>
+<area shape="rect" id="Node000005" href="$class_unity_engine_1_1_a_i_1_1_nav_mesh_surface.html#ab172d2aeaa1fc33361ec519b34e30bda" title=" " alt="" coords="504,133,717,173"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="435,107,512,127,511,132,433,113"/>
+</map>

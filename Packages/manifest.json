@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "com.caseydecoder.doxygengenerator": "https://github.com/CaseyHofland/DoxygenGenerator.git",
+    "com.caseydecoder.doxygengenerator": "https://github.com/MrVester/BlockSchemeGenerator.git",
+    "com.unity.2d.sprite": "1.0.0",
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.15",
@@ -12,6 +13,7 @@
     "com.unity.toonshader": "0.8.5-preview",
     "com.unity.ugui": "1.0.0",
     "com.unity.visualscripting": "1.7.8",
+    "me.ameye.prefab-painter": "https://github.com/alexanderameye/prefab-painter.git",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

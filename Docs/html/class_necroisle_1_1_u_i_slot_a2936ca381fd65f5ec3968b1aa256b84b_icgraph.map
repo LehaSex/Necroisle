@@ -1,0 +1,7 @@
+<map id="Necroisle.UISlot.ClickSlot" name="Necroisle.UISlot.ClickSlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="223,35,393,60"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot.html#aaa5e505053c2fea9355d4c4cf42c018d" title=" " alt="" coords="17,5,163,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,36,163,31,164,25,207,31"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_action_selector.html#af1c3a402a94dc5d71aa6820e6beffab5" title=" " alt="" coords="5,55,175,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,63,176,67,175,62,207,58"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerUI.Awake" name="Necroisle.PlayerUI.Awake">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,177,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_panel.html#ae5ae64091d18f4ab546d73ce67dd04d1" title=" " alt="" coords="225,5,387,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,15,210,15,210,21,178,21"/>
+</map>

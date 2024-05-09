@@ -1,0 +1,5 @@
+<map id="Necroisle.Spawnable.GetUID" name="Necroisle.Spawnable.GetUID">
+<area shape="rect" id="Node000001" title=" " alt="" coords="259,5,448,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_spawnable.html#aab05a74efe305c33babb2f16d3d04d43" title=" " alt="" coords="5,5,211,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="243,21,211,21,211,15,243,15"/>
+</map>

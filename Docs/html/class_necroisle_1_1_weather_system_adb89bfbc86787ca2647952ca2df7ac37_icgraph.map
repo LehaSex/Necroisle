@@ -1,0 +1,5 @@
+<map id="Necroisle.WeatherSystem.HasWeatherEffect" name="Necroisle.WeatherSystem.HasWeatherEffect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,5,431,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_the_game.html#a81d9007233798a1622dd44d60962f08f" title=" " alt="" coords="5,13,204,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,28,204,28,204,23,236,23"/>
+</map>

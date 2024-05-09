@@ -1,0 +1,17 @@
+<map id="Necroisle.NObject" name="Necroisle.NObject">
+<area shape="rect" id="Node000001" title="Base class for either Craftables or Spawnables, has generic static useful functions." alt="" coords="375,119,525,244"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_craftable.html" title="Base class for Items, Constructions, Characters, Plants." alt="" coords="288,292,444,557"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="426,258,414,293,409,291,421,257"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_spawnable.html" title="Generic object that can be spawned, but that is not craftable, all spawns are saved in the save file." alt="" coords="468,302,603,547"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="479,257,495,301,490,303,474,259"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="399,5,501,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,86,453,119,447,119,447,86"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_character.html" title="Characters are allies or npc that can be given orders to move or perform actions." alt="" coords="5,605,188,2071"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="279,502,236,551,202,607,190,631,186,629,197,604,232,548,275,499"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_construction.html" title="Constructions are objects that can be placed on the map by the player (by crafting or with items)" alt="" coords="212,1085,357,1591"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="356,572,310,1086,304,1085,350,572"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_item.html" title="Items are objects that can be picked, dropped and held into the player&#39;s inventory." alt="" coords="381,1035,516,1641"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="382,572,424,1035,419,1036,377,572"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_plant.html" title="Plants can be sowed (from a seed) and their fruit can be harvested." alt="" coords="541,865,674,1811"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="456,553,458,555,478,569,497,577,514,586,531,604,563,665,588,730,607,797,620,865,615,866,601,798,583,731,558,667,526,607,511,590,494,582,475,574,455,559,452,557"/>
+</map>

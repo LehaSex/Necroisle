@@ -1,0 +1,10 @@
+<map id="Necroisle.PlayerUI" name="Necroisle.PlayerUI">
+<area shape="rect" id="Node000001" title="In&#45;Game UI, specific to one player." alt="" coords="39,523,219,1028"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_panel.html" title="Generic script for any UI panel, can be inherited." alt="" coords="5,120,117,445"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,460,97,522,92,523,83,460"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="78,5,181,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="119,86,109,121,104,120,114,84"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_u_i_panel.html" title="Generic script for any UI panel, can be inherited." alt="" coords="141,120,259,445"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="145,84,156,120,150,121,140,86"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,446,171,506,165,506,174,445"/>
+</map>

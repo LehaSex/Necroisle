@@ -1,0 +1,16 @@
+<map id="Necroisle.WorldGen.Triangle" name="Necroisle.WorldGen.Triangle">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,341,184,467"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_world_gen_1_1_vertex.html" title=" " alt="" coords="111,5,283,151"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,123,61,162,39,187,21,214,13,242,15,270,23,298,37,326,32,328,18,300,9,271,8,241,16,212,34,184,57,159,110,119"/>
+<area shape="poly" id="edge9_Node000002_Node000002" title=" " alt="" coords="284,57,302,64,310,78,307,86,301,92,298,89,303,84,305,78,299,68,282,62"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_world_gen_1_1_half_edge.html" title=" " alt="" coords="56,213,243,279"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="156,152,148,175,145,197,140,196,143,174,151,150"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_world_gen_1_1_triangle.html" title=" " alt="" coords="224,341,403,467"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="285,123,332,162,353,186,369,212,378,240,378,270,372,299,362,327,357,325,367,298,373,269,372,241,364,214,349,189,329,165,281,127"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="122,279,108,304,101,326,96,324,103,302,118,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,213,165,189,172,166,177,168,171,190,163,215"/>
+<area shape="poly" id="edge7_Node000003_Node000003" title=" " alt="" coords="243,232,261,237,269,246,261,255,257,251,264,246,259,241,242,238"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="170,277,199,316,214,329,210,333,195,319,165,280"/>
+<area shape="poly" id="edge8_Node000002_Node000004" title=" " alt="" coords="370,340,389,311,404,279,409,247,403,214,384,183,359,157,329,135,297,117,300,112,332,130,363,153,389,180,408,212,415,247,409,281,394,313,374,343"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="290,343,278,323,263,305,246,290,249,286,267,301,282,320,295,340"/>
+</map>

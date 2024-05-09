@@ -1,0 +1,15 @@
+<map id="Necroisle.UISlot" name="Necroisle.UISlot">
+<area shape="rect" id="Node000001" title="Basic class for any type of slot (item, other)" alt="" coords="274,119,409,1024"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_action_selector_button.html" title="One of the buttons on the ActionSelector." alt="" coords="5,1245,163,1405"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="272,784,113,1246,108,1244,267,782"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_category_slot.html" title="A button slot for one of the crafting categories." alt="" coords="187,1242,333,1407"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="293,1039,271,1242,266,1242,288,1039"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_item_slot.html" title="Item slot that shows a single item, in your inventory or equipped bar." alt="" coords="357,1072,488,1577"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="395,1039,398,1072,393,1072,389,1039"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_menu_button.html" title="Generic Menu button script (for handling with keyboard/gamepad)" alt="" coords="513,1202,655,1447"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="416,794,547,1201,542,1203,411,796"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="290,5,393,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="344,86,344,119,339,119,339,86"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_equip_slot_u_i.html" title="Allow to set the EquipSlot for the EquipPanel." alt="" coords="353,1625,493,1691"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="425,1592,425,1626,420,1626,420,1592"/>
+</map>

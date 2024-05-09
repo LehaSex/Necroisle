@@ -1,0 +1,13 @@
+<map id="Necroisle.KeyControlsUI.IsPanelFocusItem" name="Necroisle.KeyControlsUI.IsPanelFocusItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,172,103"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_slot_panel.html#ad524b436326932d640684cf2ba24acfa" title=" " alt="" coords="223,5,396,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,60,214,47,216,52,169,65"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_slot.html#a88607add8173b22760cfac68cab5aa70" title=" " alt="" coords="220,70,399,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,80,205,80,205,85,172,85"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_u_i_slot_panel.html#a83ddd4e2770008cf821ef3b1874f42ab" title=" " alt="" coords="223,120,396,160"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="169,101,216,113,214,118,167,106"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_craft_data.html#ae0d03ab4f5acfb0bc9b202dd83b16aa5" title=" " alt="" coords="453,70,637,95"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="399,80,437,80,437,85,399,85"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_u_i_slot_panel.html#ab7ebbb78ce11f7e1c2e4ccbbddfefea0" title=" " alt="" coords="447,127,643,153"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="397,137,431,137,431,143,397,143"/>
+</map>

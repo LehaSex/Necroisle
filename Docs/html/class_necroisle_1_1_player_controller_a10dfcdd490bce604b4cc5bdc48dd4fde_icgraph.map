@@ -1,0 +1,53 @@
+<map id="Necroisle.PlayerController.FaceTorward" name="Necroisle.PlayerController.FaceTorward">
+<area shape="rect" id="Node000001" title=" " alt="" coords="929,248,1105,288"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_craft.html#aa057ee168baf7378dd657382b7eec3a9" title=" " alt="" coords="707,5,880,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="999,236,952,152,919,106,880,66,852,48,855,44,883,62,923,103,957,149,1003,233"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_action_fish.html#a40ae2417b475cafd48b37e73f89cd3c4" title=" " alt="" coords="456,98,655,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="997,236,977,203,951,168,919,135,880,110,846,98,810,89,736,84,666,90,608,100,607,95,665,84,736,79,811,84,847,92,883,106,922,131,955,165,982,200,1002,233"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_controller.html#ab3f8c028ec9c18956de641bc7d5f96d7" title=" " alt="" coords="705,184,881,224"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="930,246,865,227,867,222,931,241"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_player_controller.html#ab8da368e61c1dae0dae313af468cf0e6" title=" " alt="" coords="705,120,881,160"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="978,240,932,207,880,174,856,163,858,158,883,170,935,202,981,236"/>
+<area shape="rect" id="Node000010" href="$class_necroisle_1_1_action_selector.html#aa06b46eae2d5dc02031ebcedeeed9f54" title=" " alt="" coords="709,248,878,288"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="914,271,878,271,878,265,914,265"/>
+<area shape="rect" id="Node000011" href="$class_necroisle_1_1_player_character_craft.html#a601a601c3e25c6d9af14e10e794e55b2" title=" " alt="" coords="707,312,880,352"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="931,295,867,314,865,309,930,290"/>
+<area shape="rect" id="Node000012" href="$class_necroisle_1_1_player_character_climb.html#ad74b34ce14742917c636c1bd767218c2" title=" " alt="" coords="707,376,880,416"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="981,300,935,334,883,366,858,378,856,373,880,362,932,329,978,296"/>
+<area shape="rect" id="Node000014" href="$class_necroisle_1_1_player_character_inventory.html#a7ebecf35b6d334f2badd7e0ae73291d7" title=" " alt="" coords="707,440,880,480"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="998,303,950,367,918,401,883,430,863,442,860,437,880,426,915,397,946,363,993,300"/>
+<area shape="rect" id="Node000015" href="$class_necroisle_1_1_player_controller.html#a6cd76ba7b65aea9582808b9aa1d248f2" title=" " alt="" coords="705,605,881,645"/>
+<area shape="poly" id="edge16_Node000001_Node000015" title=" " alt="" coords="999,303,884,493,811,606,806,603,879,491,994,300"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_controller.html#a900b803fda698d057cfe3cc5bb4e0f6c" title=" " alt="" coords="467,184,643,224"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="690,207,644,207,644,201,690,201"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_controller.html#af9c450a7fff787a76ad3bbed12626c35" title=" " alt="" coords="229,184,405,224"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="452,207,406,207,406,201,452,201"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_player_controller.html#a9ce8ba93b104dbe42285f9238b1a8990" title=" " alt="" coords="5,184,181,224"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="214,216,182,215,182,210,214,210"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_action_attack.html#a2b779080708ae37ca37c25e67472364b" title=" " alt="" coords="6,248,181,288"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="231,231,167,250,165,245,230,226"/>
+<area shape="poly" id="edge7_Node000007_Node000006" title=" " alt="" coords="197,192,229,193,229,198,197,198"/>
+<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="689,130,655,126,656,120,690,125"/>
+<area shape="rect" id="Node000013" href="$class_necroisle_1_1_player_character_climb.html#a81e5413ebe09fa8f9e0a985b38a483d0" title=" " alt="" coords="469,312,642,352"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="701,374,632,355,633,350,702,369"/>
+<area shape="rect" id="Node000016" href="$class_necroisle_1_1_action_dig.html#acfa38c990edf106c575f41cba7965223" title=" " alt="" coords="459,377,652,402"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="768,594,703,493,683,451,673,434,656,417,634,405,637,400,659,413,678,430,688,448,708,491,773,591"/>
+<area shape="rect" id="Node000017" href="$class_necroisle_1_1_action_repair.html#a6ae4237abf442ec8a24a6b81288fa7a4" title=" " alt="" coords="468,427,643,467"/>
+<area shape="poly" id="edge18_Node000015_Node000017" title=" " alt="" coords="768,595,721,537,690,507,656,481,634,470,637,465,659,476,693,503,724,533,772,591"/>
+<area shape="rect" id="Node000018" href="$class_necroisle_1_1_action_cook.html#aa1e188fe7d454a33b105bacf652fadbb" title=" " alt="" coords="453,491,657,517"/>
+<area shape="poly" id="edge19_Node000015_Node000018" title=" " alt="" coords="756,597,710,563,656,532,623,520,625,515,658,527,713,558,759,593"/>
+<area shape="rect" id="Node000019" href="$class_necroisle_1_1_action_repair.html#a43f9b7c2991bd7f7e53e34d9a923b57b" title=" " alt="" coords="468,541,643,581"/>
+<area shape="poly" id="edge20_Node000015_Node000019" title=" " alt="" coords="701,603,632,584,633,579,702,598"/>
+<area shape="rect" id="Node000020" href="$class_necroisle_1_1_action_cut_plant.html#a560d04effa359a540d3b7b1d30cdeb06" title=" " alt="" coords="470,605,641,645"/>
+<area shape="poly" id="edge21_Node000015_Node000020" title=" " alt="" coords="689,628,641,628,641,623,689,623"/>
+<area shape="rect" id="Node000021" href="$class_necroisle_1_1_action_destroy.html#a6c25132f348d873dc9dbf74e9cc14b29" title=" " alt="" coords="472,669,639,709"/>
+<area shape="poly" id="edge22_Node000015_Node000021" title=" " alt="" coords="702,653,633,671,632,666,701,647"/>
+<area shape="rect" id="Node000022" href="$class_necroisle_1_1_action_dig_auto.html#a774e0eb15e68003a393af1515ca29f4d" title=" " alt="" coords="472,733,639,773"/>
+<area shape="poly" id="edge23_Node000015_Node000022" title=" " alt="" coords="758,658,712,692,659,724,632,735,630,730,656,719,709,687,755,653"/>
+<area shape="rect" id="Node000023" href="$class_necroisle_1_1_action_drink_pond.html#ab7b6110712fd83456c3076d185e77903" title=" " alt="" coords="465,797,646,837"/>
+<area shape="poly" id="edge24_Node000015_Node000023" title=" " alt="" coords="774,660,727,725,695,758,659,788,637,799,635,794,656,783,691,755,723,721,770,657"/>
+<area shape="rect" id="Node000024" href="$class_necroisle_1_1_action_harvest.html#af0db00f0d5236590b5bdbe93c01ab5ea" title=" " alt="" coords="473,861,637,901"/>
+<area shape="poly" id="edge25_Node000015_Node000024" title=" " alt="" coords="783,661,765,704,738,755,703,807,659,851,639,864,637,859,656,847,699,804,734,753,760,702,778,659"/>
+<area shape="rect" id="Node000025" href="$class_necroisle_1_1_action_water_plant.html#ada2ea4090e4fdf95321ac2cfbedaaffd" title=" " alt="" coords="462,925,649,965"/>
+<area shape="poly" id="edge26_Node000015_Node000025" title=" " alt="" coords="788,661,773,717,748,785,711,855,687,887,659,915,642,927,639,923,656,911,683,884,706,852,743,783,768,715,783,660"/>
+</map>

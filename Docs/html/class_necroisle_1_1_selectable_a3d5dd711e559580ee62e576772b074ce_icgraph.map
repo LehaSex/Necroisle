@@ -1,0 +1,17 @@
+<map id="Necroisle.Selectable.GetUseRange" name="Necroisle.Selectable.GetUseRange">
+<area shape="rect" id="Node000001" title=" " alt="" coords="971,69,1137,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_mixing_panel.html#ac9ff4492b71de96fe4c513076d7770b7" title=" " alt="" coords="720,5,919,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="963,67,895,48,896,43,964,62"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_storage_panel.html#a7107b8643210fd079eec378bf0a99676" title=" " alt="" coords="716,69,923,109"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="955,92,923,92,923,87,955,87"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_action_selector.html#af1c3a402a94dc5d71aa6820e6beffab5" title=" " alt="" coords="735,133,904,173"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="964,117,896,135,895,130,963,111"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_mixing_panel.html#aa911a17ba4a7bbd047a751e1608e0333" title=" " alt="" coords="477,5,664,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="704,28,664,28,664,23,704,23"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_storage_panel.html#add94f1cd697fc3a9d019c67896c40fff" title=" " alt="" coords="473,69,668,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="700,92,668,92,668,87,700,87"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_storage.html#a1aa8a9b89811ed25877f97e2a618061a" title=" " alt="" coords="220,77,425,102"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="457,92,426,92,426,87,457,87"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_action_storage.html#ac1296fc18e17f05d97770919c36b799f" title=" " alt="" coords="5,69,172,109"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="204,92,172,92,172,87,204,87"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Necroisle.PlayerController.FishItem" name="Necroisle.PlayerController.FishItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,181,103"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_controller.html#a10dfcdd490bce604b4cc5bdc48dd4fde" title=" " alt="" coords="243,5,419,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,60,230,47,231,52,179,65"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_provider.html#acf81c2764be76afebdbe73d86ba7a52a" title=" " alt="" coords="229,70,432,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,80,213,80,213,85,181,85"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_controller.html#a091c05ae2e7d1811313c89d4504382df" title=" " alt="" coords="243,120,419,160"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="179,101,231,113,230,118,178,106"/>
+</map>

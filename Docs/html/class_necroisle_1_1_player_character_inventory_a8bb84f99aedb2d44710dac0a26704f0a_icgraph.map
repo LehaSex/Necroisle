@@ -1,0 +1,6 @@
+<map id="Necroisle.PlayerCharacterInventory.EatItem" name="Necroisle.PlayerCharacterInventory.EatItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="248,29,421,69"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="373,16,359,10,335,8,312,10,299,15,294,21,296,28,291,30,289,20,296,10,311,5,335,3,360,5,375,11"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_eat.html#aa360eb520b7d204b3c14ff160257e5ba" title=" " alt="" coords="5,37,200,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,52,201,52,201,47,233,47"/>
+</map>

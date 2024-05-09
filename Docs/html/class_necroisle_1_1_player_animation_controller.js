@@ -2,8 +2,25 @@ var class_necroisle_1_1_player_animation_controller =
 [
     [ "SetAnimBool", "class_necroisle_1_1_player_animation_controller.html#a319ccb65b4e036bb3188fae254d86a4a", null ],
     [ "SetAnimFloat", "class_necroisle_1_1_player_animation_controller.html#abcce4f3414d2cd2da8255b0a984414fd", null ],
+    [ "SetAnimTrigger", "class_necroisle_1_1_player_animation_controller.html#ae47eb7f00544379d0e42879a9ada37ad", null ],
+    [ "attack_anim", "class_necroisle_1_1_player_animation_controller.html#ad075a3c3df759335c0db1b799236a671", null ],
+    [ "attack_speed", "class_necroisle_1_1_player_animation_controller.html#af0d06147fdf64d08db0e8c65b5faad06", null ],
+    [ "build_anim", "class_necroisle_1_1_player_animation_controller.html#ac36d9abf752c07dcd635d62b99b3106c", null ],
+    [ "climb_anim", "class_necroisle_1_1_player_animation_controller.html#ac953c2adaf5287a576a4462e1a5e23f0", null ],
+    [ "craft_anim", "class_necroisle_1_1_player_animation_controller.html#a86a2a96a5826a5d0eafc40a46cea7e94", null ],
+    [ "damaged_anim", "class_necroisle_1_1_player_animation_controller.html#ab13e4bb5d499da60b1d1a46ba9b671f8", null ],
+    [ "death_anim", "class_necroisle_1_1_player_animation_controller.html#a9aca353fa59711d3e9e619d40590da86", null ],
+    [ "dig_anim", "class_necroisle_1_1_player_animation_controller.html#acf6cdf93d80593bd98d58f14aad9e426", null ],
+    [ "fish_anim", "class_necroisle_1_1_player_animation_controller.html#a15ca04510003c02e88f170b0a36c45ac", null ],
+    [ "hoe_anim", "class_necroisle_1_1_player_animation_controller.html#a68576349ec4764afbfe1b2d82f2e1fd9", null ],
     [ "idle_anim", "class_necroisle_1_1_player_animation_controller.html#a96cd032b9a3919aa1f6df7b900553893", null ],
     [ "move_anim", "class_necroisle_1_1_player_animation_controller.html#a47757148a568198ab857791234b8cd3e", null ],
     [ "move_side_x", "class_necroisle_1_1_player_animation_controller.html#a21f7266e17a2dca846371ef36aefc1ff", null ],
-    [ "move_side_z", "class_necroisle_1_1_player_animation_controller.html#ae0b206db678b8d793a998da1a136e6d5", null ]
+    [ "move_side_z", "class_necroisle_1_1_player_animation_controller.html#ae0b206db678b8d793a998da1a136e6d5", null ],
+    [ "ride_anim", "class_necroisle_1_1_player_animation_controller.html#ac407bfe9d0309c35d92fd4a719dfaf53", null ],
+    [ "sleep_anim", "class_necroisle_1_1_player_animation_controller.html#ab16af726b701cb6c452d6e4b07a1898a", null ],
+    [ "swim_anim", "class_necroisle_1_1_player_animation_controller.html#a49cc139658772f5b7d25255682ce8245", null ],
+    [ "take_anim", "class_necroisle_1_1_player_animation_controller.html#a354f4996bae007f943a72b3e07c45f03", null ],
+    [ "use_anim", "class_necroisle_1_1_player_animation_controller.html#a3a28c37303eaa23ff8b2efdc057b9335", null ],
+    [ "water_anim", "class_necroisle_1_1_player_animation_controller.html#a6d08174948ff2b9f35c95ee1aae4400b", null ]
 ];

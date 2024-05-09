@@ -1,0 +1,5 @@
+<map id="Necroisle.ReadPanel.ClickOK" name="Necroisle.ReadPanel.ClickOK">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,200,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_u_i_panel.html#af70ba9dfa8ef1b37de727957e05504f3" title=" " alt="" coords="248,5,403,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,15,232,15,232,21,200,21"/>
+</map>

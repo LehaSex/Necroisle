@@ -1,0 +1,9 @@
+<map id="Necroisle.PlayerController.DisableCollider" name="Necroisle.PlayerController.DisableCollider">
+<area shape="rect" id="Node000001" title=" " alt="" coords="475,27,651,67"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_ride.html#adea146768233d1ee34af1c4ec65b581b" title=" " alt="" coords="253,27,427,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="459,50,427,50,427,45,459,45"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_action_ride.html#add56df5b65931f3bc36b82665515bfb8" title=" " alt="" coords="5,5,205,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,37,205,33,206,28,238,32"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_character_ride.html#a0636cb2627d2b9f5e1858e9fef548c19" title=" " alt="" coords="19,55,192,95"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="238,62,193,68,192,62,238,57"/>
+</map>

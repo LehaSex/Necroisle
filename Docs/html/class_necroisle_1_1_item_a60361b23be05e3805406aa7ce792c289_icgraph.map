@@ -1,0 +1,7 @@
+<map id="Necroisle.Item.GetAllOf" name="Necroisle.Item.GetAllOf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="447,13,605,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_craftable.html#a7457b7bc83b4aa0c0d3d987f8dd8d0dc" title=" " alt="" coords="228,5,399,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="431,28,399,28,399,23,431,23"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_craft_data.html#a5fcb6e9e722b3bcaf908432f05c5843e" title=" " alt="" coords="5,5,180,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="213,28,181,28,181,23,213,23"/>
+</map>

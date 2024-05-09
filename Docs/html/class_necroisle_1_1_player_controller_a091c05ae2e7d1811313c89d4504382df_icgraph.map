@@ -1,0 +1,19 @@
+<map id="Necroisle.PlayerController.TriggerAction" name="Necroisle.PlayerController.TriggerAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="481,197,657,237"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_craft.html#aa057ee168baf7378dd657382b7eec3a9" title=" " alt="" coords="256,5,429,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="546,186,498,122,467,89,432,60,412,48,414,44,435,55,471,85,503,119,550,183"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_action_cut_plant.html#a560d04effa359a540d3b7b1d30cdeb06" title=" " alt="" coords="257,69,428,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="530,189,484,156,432,124,407,112,409,108,435,119,487,151,533,185"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_action_destroy.html#a6c25132f348d873dc9dbf74e9cc14b29" title=" " alt="" coords="259,133,426,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="480,195,415,176,417,171,482,190"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_action_drink_pond.html#ab7b6110712fd83456c3076d185e77903" title=" " alt="" coords="252,197,433,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="465,220,434,220,434,215,465,215"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_action_harvest.html#af0db00f0d5236590b5bdbe93c01ab5ea" title=" " alt="" coords="261,261,425,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="482,245,417,263,415,258,480,240"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_player_controller.html#ab8da368e61c1dae0dae313af468cf0e6" title=" " alt="" coords="255,325,431,365"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="533,250,487,283,435,316,409,327,407,322,432,311,484,279,530,245"/>
+<area shape="rect" id="Node000009" href="$class_necroisle_1_1_player_character_inventory.html#a7ebecf35b6d334f2badd7e0ae73291d7" title=" " alt="" coords="256,389,429,429"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="550,252,503,316,471,350,435,380,414,391,412,386,432,375,467,346,498,313,546,249"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_action_fish.html#a40ae2417b475cafd48b37e73f89cd3c4" title=" " alt="" coords="5,333,204,358"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="239,348,205,348,205,343,239,343"/>
+</map>

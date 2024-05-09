@@ -1,0 +1,7 @@
+<map id="Necroisle.PlayerCharacterInventory.GetValidInventory" name="Necroisle.PlayerCharacterInventory.GetValidInventory">
+<area shape="rect" id="Node000001" title=" " alt="" coords="256,35,435,75"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_split.html#a6211dddda7c74c844d76d319a3e62085" title=" " alt="" coords="25,5,188,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,44,188,38,189,33,241,39"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_action_take.html#abc10015530b5e06f597d386300f9e89e" title=" " alt="" coords="5,70,208,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="241,70,209,73,208,68,240,64"/>
+</map>

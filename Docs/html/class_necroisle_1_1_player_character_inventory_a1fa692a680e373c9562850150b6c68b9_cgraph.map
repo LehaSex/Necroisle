@@ -1,0 +1,9 @@
+<map id="Necroisle.PlayerCharacterInventory.HasEmptySlot" name="Necroisle.PlayerCharacterInventory.HasEmptySlot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,179,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_inventory_data.html#afdcbc218b1d58b9e22bbb42b3abd85d8" title=" " alt="" coords="227,5,389,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,23,211,23,211,28,179,28"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_inventory_data.html#ae64dc7679b975c56d2e011b0218ac2e5" title=" " alt="" coords="437,5,600,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,23,422,23,422,28,390,28"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_inventory_data.html#afb597580973f8475dba0b65ecd77dcdf" title=" " alt="" coords="648,5,811,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="600,23,632,23,632,28,600,28"/>
+</map>

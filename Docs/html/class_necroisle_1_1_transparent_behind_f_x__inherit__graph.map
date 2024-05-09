@@ -1,0 +1,5 @@
+<map id="Necroisle.TransparentBehindFX" name="Necroisle.TransparentBehindFX">
+<area shape="rect" id="Node000001" title="Add to an object to make it transparent when behind." alt="" coords="5,119,200,224"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="51,5,154,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,85,105,119,100,119,100,85"/>
+</map>

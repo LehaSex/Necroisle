@@ -1,0 +1,9 @@
+<map id="Necroisle.Destructible.GetNearest" name="Necroisle.Destructible.GetNearest">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,69,180,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_selectable.html#ad0530df91c59b655eeb74d4c121ae002" title=" " alt="" coords="240,5,407,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,66,234,47,235,52,168,71"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_selectable.html#adcaae046b6395255fc90e20f55408e1f" title=" " alt="" coords="240,69,407,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,87,224,87,224,92,180,92"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_selectable.html#a9f66f95afca531445221f96fc66d8031" title=" " alt="" coords="228,134,419,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="176,107,255,127,253,132,175,112"/>
+</map>

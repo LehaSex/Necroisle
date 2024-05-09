@@ -1,0 +1,7 @@
+<map id="Necroisle.Spawnable" name="Necroisle.Spawnable">
+<area shape="rect" id="Node000001" title="Generic object that can be spawned, but that is not craftable, all spawns are saved in the save file." alt="" coords="13,292,148,537"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_n_object.html" title="Base class for either Craftables or Spawnables, has generic static useful functions." alt="" coords="5,119,156,244"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,259,83,292,78,292,78,259"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="29,5,132,71"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,86,83,119,78,119,78,86"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Necroisle.Firepit.AddFuel" name="Necroisle.Firepit.AddFuel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,55,173,80"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_data.html#a3a1b590972f900f8d1e6813ef3f48f8b" title=" " alt="" coords="229,5,398,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,52,237,32,238,37,151,57"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_firepit.html#a47fe51cd792297f555f0c17ba67d9afa" title=" " alt="" coords="221,55,405,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,65,206,65,206,70,174,70"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_data.html#adca9253feb776f432d703ed6222e687a" title=" " alt="" coords="229,105,397,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="143,78,218,98,217,103,141,83"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Necroisle.ActionOpen.DoAction" name="Necroisle.ActionOpen.DoAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,68,211,93"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_slot.html#a54e786058158cc7c897b0e266dce8917" title=" " alt="" coords="259,37,463,63"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,66,243,62,243,67,211,71"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_inventory_data.html#a1b29a2109efca7728ee4076396c7f22c" title=" " alt="" coords="279,89,442,129"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="211,89,264,95,264,101,211,95"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_slot_panel.html#ad62e903010bf7a6430e6fe33680b4bb3" title=" " alt="" coords="511,27,676,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="463,46,495,46,495,51,463,51"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_inventory_data.html#a2d6edff569122642fb9d55299a24b488" title=" " alt="" coords="724,35,907,60"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="676,45,708,45,708,50,676,50"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_data.html#a3a1b590972f900f8d1e6813ef3f48f8b" title=" " alt="" coords="955,5,1124,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="907,33,939,28,940,34,908,38"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_data.html#a440389797e76319ba36b1c2b85ccba61" title=" " alt="" coords="955,55,1124,95"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="908,56,940,60,939,65,907,61"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_inventory_data.html#afb597580973f8475dba0b65ecd77dcdf" title=" " alt="" coords="512,91,675,131"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="442,107,497,108,497,113,442,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Necroisle.EquipItem" name="Necroisle.EquipItem">
+<area shape="rect" id="Node000001" title="An item that will appear on the player to display equipped item." alt="" coords="5,119,148,384"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,5,128,71"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,86,79,119,74,119,74,86"/>
+</map>

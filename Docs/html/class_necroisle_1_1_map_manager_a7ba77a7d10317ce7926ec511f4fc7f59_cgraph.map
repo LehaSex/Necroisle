@@ -1,0 +1,5 @@
+<map id="Necroisle.MapManager.AddIcon" name="Necroisle.MapManager.AddIcon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,212,31"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_icon.html#aa27f4dc9d182cbff2ea62f0897e75e18" title=" " alt="" coords="260,5,431,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,15,244,15,244,21,213,21"/>
+</map>

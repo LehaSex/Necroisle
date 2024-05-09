@@ -11,6 +11,8 @@ Shader "Custom/TextureBlendingShader" {
         _NoiseScale ("Noise Scale", Range(0, 0.1)) = 0.05
         _IslandsDensity ("Islands Density", Range(0, 1)) = 0.1
         [MaterialToggle] _AutoDensity ("Auto Density", Float) = 0
+        _ObjectXCoordinate ("Object X Coordinate", Float) = 0
+        _ObjectYCoordinate ("Object Y Coordinate", Float) = 0
     }
     SubShader {
         Tags { "RenderType"="Opaque" }
@@ -24,6 +26,9 @@ Shader "Custom/TextureBlendingShader" {
             float2 uv_MainTex2;
             float2 uv_MainTex3;
             float2 uv_MainTex4;
+            float _ObjectXCoordinate;
+            float _ObjectYCoordinate;
+
         };
 
         sampler2D _MainTex1;
@@ -38,8 +43,8 @@ Shader "Custom/TextureBlendingShader" {
         float _IslandsDensity;
         float _AutoDensity;
 
-        float PerlinNoise(float2 uv) {
-            float2 p = uv * _NoiseScale;
+        float PerlinNoise(float2 uv, float scale) {
+            float2 p = uv * scale;
             return tex2D(_MainTex1, p).r;
         }
 
@@ -56,14 +61,36 @@ Shader "Custom/TextureBlendingShader" {
             finalColor += col3 * (_BlendWeight3 / totalWeight);
             finalColor += col4 * (_BlendWeight4 / totalWeight);
 
-            if (_AutoDensity > 0) {
-                float maxWeight = max(max(max(_BlendWeight1, _BlendWeight2), _BlendWeight3), _BlendWeight4);
-                float sumWeights = totalWeight - maxWeight;
+        float maxWeight = max(max(max(_BlendWeight1, _BlendWeight2), _BlendWeight3), _BlendWeight4);
+        float sumWeights = totalWeight - maxWeight;
+
+        if (_AutoDensity > 0)
+        {
+            // Ensure that sumWeights is not zero to avoid division by zero
+            if (sumWeights > 0)
+            {
                 _IslandsDensity = maxWeight - (sumWeights / 3.0);
             }
+            else
+            {
+                // If sumWeights is zero, set a default islands density or handle it appropriately
+                _IslandsDensity = 0.1; // Adjust this value as needed
+            }
+        }
+
+/*             if (_AutoScale > 0) {
+                _NoiseScale = saturate((_IslandsDensity / 0.1));
+            } */
+            
+            // Используйте константы или свойства шейдера в качестве базового значения для noiseOffset
+            float baseOffset = _BlendWeight1 + _BlendWeight2 + _BlendWeight3 + _BlendWeight4;
+            float noiseOffset = baseOffset;
+
+            // Добавление дополнительных значений к noiseOffset
+            noiseOffset += (IN._ObjectXCoordinate/100) + (IN._ObjectYCoordinate/100);
 
             // Add random islands using Perlin noise
-            float noise = PerlinNoise(IN.uv_MainTex1);
+            float noise = PerlinNoise(IN.uv_MainTex1, noiseOffset);
             float islands = step(noise, _IslandsDensity);
 
             // Select the texture with the highest blend weight for empty areas

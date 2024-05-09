@@ -1,0 +1,9 @@
+<map id="Necroisle.Plant.IsBuilt" name="Necroisle.Plant.IsBuilt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,156,56"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_buildable.html#aaf2d9256111f0f7f6838c07f4cc211f5" title=" " alt="" coords="204,5,397,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="156,32,188,28,189,34,156,37"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_plant.html#a7fa60409e6a23a451af4a9bc947cf9ca" title=" " alt="" coords="223,55,378,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,49,208,55,208,60,156,54"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_destructible.html#a8d379474023260f276febfa1b397b6f5" title=" " alt="" coords="445,55,639,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="378,65,430,65,430,70,378,70"/>
+</map>

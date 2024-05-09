@@ -1,0 +1,12 @@
+<map id="Necroisle.Selectable" name="Necroisle.Selectable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="105,348,277,1293"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,170,108,235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,249,108,426,103,427,64,250"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_s_action.html" title="Selectable Action parent class: Any action selected manually through the Action Selector (Items or Se..." alt="" coords="132,120,251,285"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,285,194,331,189,331,189,285"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="211,5,321,71"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="248,86,231,121,226,119,243,83"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_group_data.html" title="A group doesn&#39;t do anything by itself, but it serves to reference objects as a group instead of refer..." alt="" coords="275,150,409,255"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="289,83,321,149,316,152,285,85"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="332,256,284,452,279,451,327,254"/>
+</map>

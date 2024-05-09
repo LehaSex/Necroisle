@@ -1,0 +1,5 @@
+<map id="Necroisle.Character.DirectMoveTo" name="Necroisle.Character.DirectMoveTo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="228,5,403,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_character.html#ab4fb1a5672e1104789961e03ce32ae0c" title=" " alt="" coords="5,5,180,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,28,180,28,180,23,213,23"/>
+</map>

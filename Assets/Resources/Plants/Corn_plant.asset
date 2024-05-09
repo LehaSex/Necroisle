@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 224b501d4b6584446ac2a8e8ad8a1d58, type: 3}
+  m_Name: Corn_plant
+  m_EditorClassIdentifier: 
+  id: corn_plant
+  title: "\u041A\u0443\u043A\u0443\u0440\u0443\u0437\u0430"
+  icon: {fileID: 21300000, guid: 750f51aed94424949bd3d415053bff7d, type: 3}
+  desc: "\u0420\u0430\u0441\u0442\u0435\u043D\u0438\u0435"
+  groups: []
+  craftable: 0
+  craft_quantity: 1
+  craft_duration: 0
+  craft_sort_order: 0
+  craft_near: {fileID: 0}
+  craft_items: []
+  craft_fillers: []
+  craft_requirements: []
+  craft_xp: 0
+  craft_xp_type: 
+  craft_sound: {fileID: 8300000, guid: 4d94bbef739d431428c55a32685cd11e, type: 3}
+  plant_prefab: {fileID: 6584500741786102551, guid: 0985f45d1c0de674780b583bb4adbad9, type: 3}
+  growth_stage_prefabs:
+  - {fileID: 6584500741786102551, guid: 0985f45d1c0de674780b583bb4adbad9, type: 3}
+  - {fileID: 6779614054353803968, guid: 426e6f74cc554cf4793397e05f52fca6, type: 3}
+  - {fileID: 7904449135149145374, guid: 932f97ab53afe1244b541af7e19e932f, type: 3}
+  - {fileID: 7370896937148047224, guid: f73f23589de182049a2792d275acc85a, type: 3}

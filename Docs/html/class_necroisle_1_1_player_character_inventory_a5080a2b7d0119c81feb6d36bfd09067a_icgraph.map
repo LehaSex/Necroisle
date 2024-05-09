@@ -1,0 +1,5 @@
+<map id="Necroisle.PlayerCharacterInventory.UpdateAllEquippedItemsDurability" name="Necroisle.PlayerCharacterInventory.UpdateAllEquippedItemsDurability">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,5,445,60"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_combat.html#acae7367860e3a634b546090498785011" title=" " alt="" coords="5,13,179,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,35,179,35,179,30,211,30"/>
+</map>

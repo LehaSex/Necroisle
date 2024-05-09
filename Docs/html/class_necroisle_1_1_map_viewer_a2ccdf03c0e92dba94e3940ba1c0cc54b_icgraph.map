@@ -1,0 +1,17 @@
+<map id="Necroisle.MapViewer.GetPixelScale" name="Necroisle.MapViewer.GetPixelScale">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1016,69,1215,109"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_viewer.html#a4cc1dba5d1434994a9c5edfd5ef3ccba" title=" " alt="" coords="759,5,952,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1016,68,939,48,940,43,1017,62"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_viewer.html#af19d506961adf3eb24b6e14aa3760119" title=" " alt="" coords="759,69,952,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="1000,92,952,92,952,87,1000,87"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_map_viewer.html#aedff152970a056c23b0df5fb602ee9f3" title=" " alt="" coords="743,134,968,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1007,116,917,136,916,131,1006,111"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_map_u_i.html#a7b2fc84ba959eb418a2240bc20732871" title=" " alt="" coords="531,109,684,134"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="727,136,684,132,685,127,727,131"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_minimap.html#a2d3e54512521c6b22226fa3e6b0554d2" title=" " alt="" coords="520,158,695,183"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="727,162,695,165,695,160,727,156"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_map_manager.html#a890bfee99d6cc5585c56cfd29aac692e" title=" " alt="" coords="257,109,472,134"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="515,124,473,124,473,119,515,119"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_minimap.html#aac3cf876a4d27a8813cf3de89d6a074f" title=" " alt="" coords="5,109,209,134"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="242,124,210,124,210,119,242,119"/>
+</map>

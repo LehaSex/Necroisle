@@ -1,0 +1,11 @@
+<map id="Necroisle.ItemData.FindMergeAction" name="Necroisle.ItemData.FindMergeAction">
+<area shape="rect" id="Node000001" title=" " alt="" coords="669,35,867,75"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_item_slot_panel.html#accdff2611ee89d33ad4814f035e36dbb" title=" " alt="" coords="455,5,620,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="654,43,620,39,621,33,655,38"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_selectable.html#aac37d3619eb1b9fa457ce218c7fed63a" title=" " alt="" coords="453,70,621,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="655,71,622,75,621,70,654,66"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_controller.html#a82a29009c4d800866c700722466947ed" title=" " alt="" coords="229,63,405,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="438,85,406,85,406,80,438,80"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_player_controller.html#a007f6eb9aeb35a9df0d770c4326a4cce" title=" " alt="" coords="5,63,181,103"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="214,85,182,85,182,80,214,80"/>
+</map>

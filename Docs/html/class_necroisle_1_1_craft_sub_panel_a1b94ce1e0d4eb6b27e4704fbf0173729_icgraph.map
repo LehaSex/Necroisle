@@ -1,0 +1,9 @@
+<map id="Necroisle.CraftSubPanel.RefreshCraftPanel" name="Necroisle.CraftSubPanel.RefreshCraftPanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="467,35,633,75"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_action_learn.html#a737879bca7aa8b5b05fb2a8bf6539d88" title=" " alt="" coords="235,5,404,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="451,45,404,39,405,33,452,40"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_craft_sub_panel.html#aa7f79a3e4b548443d89e513fef9cf6f2" title=" " alt="" coords="220,70,419,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="452,69,420,73,419,68,451,64"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_craft_sub_panel.html#a4182ae6bcd8aca00717b28ec95029a0e" title=" " alt="" coords="5,63,172,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="205,85,173,85,173,80,205,80"/>
+</map>

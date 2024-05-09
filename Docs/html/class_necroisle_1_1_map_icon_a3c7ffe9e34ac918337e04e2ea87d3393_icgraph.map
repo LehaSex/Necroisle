@@ -1,0 +1,7 @@
+<map id="Necroisle.MapIcon.GetZone" name="Necroisle.MapIcon.GetZone">
+<area shape="rect" id="Node000001" title=" " alt="" coords="516,13,699,38"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_renderer.html#a521fc2ed7be3eb2c5bd0c0648f41aae3" title=" " alt="" coords="263,5,468,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="500,28,469,28,469,23,500,23"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_map_renderer.html#a3d89e3f170b548891079deb189cfc81a" title=" " alt="" coords="5,13,215,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="247,28,215,28,215,23,247,23"/>
+</map>

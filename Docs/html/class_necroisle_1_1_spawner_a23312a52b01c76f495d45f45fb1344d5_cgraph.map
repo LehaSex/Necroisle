@@ -1,0 +1,12 @@
+<map id="Necroisle.Spawner.IsFull" name="Necroisle.Spawner.IsFull">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,171,62"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_spawner.html#a60eaef1b78531d990abc5ca17385d9a8" title=" " alt="" coords="219,29,432,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,47,203,47,203,52,171,52"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_craft_data.html#a7e48390e1934905b4a15578b27c3d392" title=" " alt="" coords="480,29,652,69"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="432,47,464,47,464,52,432,52"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_craft_data.html#a7e724da4abbcedeef0ba73995bb0bf60" title=" " alt="" coords="700,29,872,69"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="653,47,685,47,685,52,653,52"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_craftable.html#acb86f92ab9021de29c0a4ec59e3ae2e7" title=" " alt="" coords="920,29,1089,69"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="872,47,904,47,904,52,872,52"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="964,30,961,20,968,10,982,5,1005,3,1029,5,1043,11,1040,16,1027,10,1005,8,984,10,971,15,966,21,969,28"/>
+</map>

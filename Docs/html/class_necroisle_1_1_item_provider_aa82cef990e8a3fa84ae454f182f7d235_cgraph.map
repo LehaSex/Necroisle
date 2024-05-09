@@ -1,0 +1,9 @@
+<map id="Necroisle.ItemProvider.RemoveItem" name="Necroisle.ItemProvider.RemoveItem">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,63,232,88"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_data.html#a3a1b590972f900f8d1e6813ef3f48f8b" title=" " alt="" coords="283,5,453,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,59,294,32,295,37,178,65"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_item_provider.html#a34f48fe9ab5e35d107d44a9dc814ab2a" title=" " alt="" coords="280,55,456,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,73,264,73,264,78,233,78"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_data.html#ad18d2ef2d6b694d3bda62c429b426049" title=" " alt="" coords="284,119,452,159"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="172,86,274,112,272,118,170,91"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="Necroisle.PlayerController.IsMovementEnabled" name="Necroisle.PlayerController.IsMovementEnabled">
+<area shape="rect" id="Node000001" title=" " alt="" coords="477,75,653,115"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_player_character_climb.html#a127463c629e94068dc00e98704dca880" title=" " alt="" coords="255,5,428,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="483,72,408,49,409,43,484,67"/>
+<area shape="rect" id="Node000004" href="$class_necroisle_1_1_player_character_ride.html#adea146768233d1ee34af1c4ec65b581b" title=" " alt="" coords="255,75,428,115"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="462,97,429,97,429,92,462,92"/>
+<area shape="rect" id="Node000007" href="$class_necroisle_1_1_player_controller.html#a96a28261860d4f605b74cba34e5875a3" title=" " alt="" coords="253,149,429,189"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="489,123,405,151,403,146,488,118"/>
+<area shape="rect" id="Node000003" href="$class_necroisle_1_1_ladder.html#a3b2c6425c93a5eb8d57fec725be0b05c" title=" " alt="" coords="8,7,203,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,26,203,25,203,20,239,20"/>
+<area shape="rect" id="Node000005" href="$class_necroisle_1_1_action_ride.html#add56df5b65931f3bc36b82665515bfb8" title=" " alt="" coords="5,57,205,82"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="239,86,205,83,206,77,240,81"/>
+<area shape="rect" id="Node000006" href="$class_necroisle_1_1_player_character_ride.html#a0636cb2627d2b9f5e1858e9fef548c19" title=" " alt="" coords="19,107,192,147"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="240,111,193,118,192,112,239,106"/>
+<area shape="rect" id="Node000008" href="$class_necroisle_1_1_action_sleep.html#ab2883f7b803c355aaafb502e7c1f8820" title=" " alt="" coords="20,171,191,211"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="238,181,192,186,191,180,238,176"/>
+</map>

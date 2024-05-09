@@ -16,7 +16,7 @@
 <meta name="twitter:title" content="Doxygen Awesome" />
 <meta name="twitter:description" content="Custom CSS theme for doxygen html-documentation with lots of customization parameters." />
 <!-- END twitter metadata -->
-<title>NecroIsle: Documentation Generator Unity</title>
+<title>NecroIsle: Basic Information</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -120,33 +120,66 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 </div>
 
 <div><div class="header">
-  <div class="headertitle"><div class="title">Documentation Generator Unity </div></div>
+  <div class="headertitle"><div class="title">Basic Information </div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p><a class="anchor" id="md__c_1_2unity__proj_2_diplom_2_docs_2_r_e_a_d_m_e"></a> <b>Lorem ipsum</b> dolor sit amet, consectetur adipiscing elit. Ut consequat consectetur nibh et tincidunt.</p>
-<p>Quisque quis viverra libero, nec aliquet lectus. Mauris eu vulputate lacus. Vivamus mauris lacus, sollicitudin sit amet nisl in, laoreet bibendum mi.</p>
-<p>Nam in sem sed ligula molestie lacinia. Nunc tempor, ligula tempor sagittis rhoncus, nulla leo vulputate enim, vestibulum volutpat ex erat et ligula. Fusce euismod sit amet turpis in consequat.</p>
-<p>Cras eu leo libero. Praesent eros erat, tristique sit amet tristique in, feugiat ut magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin vitae porta augue, ut gravida nulla. Fusce dictum est odio, id porta metus gravida a. Curabitur a viverra nisi.</p>
+<div class="textblock"><p><a class="anchor" id="md__c_1_2unity__proj_2_diplom_2_docs_2_r_e_a_d_m_e"></a> <b><a class="el" href="namespace_necroisle.html">Necroisle</a></b> is an exciting open-world game where every adventure is unique thanks to a deterministic procedurally generated map. In this game you will be able to immerse yourself in the fantasy world, exploring it from a third person view from above.</p>
+<p>One of the key aspects of <a class="el" href="namespace_necroisle.html">Necroisle</a> is its open world, which offers endless possibilities for research. You can explore a variety of locations, meet a variety of characters and complete various quests, revealing the secrets of the world around you.</p>
+<p>The game is presented in a cartoon style, which gives it brightness and a unique character. This style creates a unique atmosphere and makes the game world attractive and fascinating.</p>
+<p>In addition, <a class="el" href="namespace_necroisle.html">Necroisle</a> is a cross-platform game, which means that you can play it on different devices, be it a PC, console or mobile device, saving your progress and enjoying the gameplay anywhere, anytime.</p>
+<p>However, the most exciting thing about <a class="el" href="namespace_necroisle.html">Necroisle</a> is the support for custom modifications in the LUA language. This allows players to create and add their own elements to the game, making unique changes and expanding the possibilities of the <a class="el" href="namespace_necroisle.html">Necroisle</a> world according to their imagination. Thus, each player can contribute to the development of the game, making it even more diverse and exciting for all participants.</p>
 <h1><a class="anchor" id="autotoc_md1"></a>
-Ut eu mi ut dolor ornare porta</h1>
-<p>Donec condimentum urna nisi, quis imperdiet ex semper at. Quisque iaculis feugiat ipsum suscipit elementum. Nunc eleifend tellus massa, eu fringilla est cursus sed. Phasellus imperdiet quis odio a vestibulum. Nunc mollis vulputate eros, et laoreet nulla eleifend a. Cras et quam in odio ultrices lobortis.</p>
+LUA Mod System</h1>
+<p>The Lua modification system in Unity has several advantages over standard modification methods:</p>
 <h1><a class="anchor" id="autotoc_md2"></a>
 Features</h1>
 <ul>
-<li>🌈 Suspendisse hendrerit ex sollicitudin quam maximus</li>
-<li>🚀 Fusce luctus, diam nec tempor egestas</li>
-<li>🧩 Morbi placerat enim at porttitor congue</li>
-<li>📱 Proin tellus nisl, aliquam id posuere vel, mattis nec urna</li>
-<li>🌘 Maecenas commodo cursus nisl vel elementum</li>
-<li>🥇 Aliquam quis dui varius, maximus dolor eu, <b>vestibulum turpis</b>. </li>
+<li>🌈 Flexibility and ease of use</li>
+<li>🚀 Dynamic loading and updating</li>
+<li>🧩 Less dependency on compilation</li>
+<li>📱 Improved scalability and support</li>
 </ul>
-</div></div><!-- PageDoc -->
+<p>In the Lua mod system, which mimics the behavior of MonoBehaviour in Unity, users can define their scripts in the Lua language, which must contain three main functions: <code>start()</code>, <code>update()</code>, and <code>ondestroy()</code>. Here is a brief description of each of these functions:</p>
+<h1><a class="anchor" id="autotoc_md3"></a>
+Functions</h1>
+<ul>
+<li><b>start()</b>: This function is called once at the beginning of the lifecycle of the object to which the Lua script is bound. It is used to initialize an object, perform any initial actions or settings.</li>
+<li><b>update()</b>: This function is called every frame and allows you to execute logic that needs to be updated or checked on each frame. This function usually implements the basic game logic, updating the position of objects, checking collisions, etc.</li>
+<li><b>ondestroy()</b>: This function is called before the object is destroyed or removed from the scene. It is used to free up resources, cancel event subscriptions, or perform any final actions before destroying an object.</li>
+</ul>
+<p>The mandatory presence of these three functions in Lua scripts ensures structuring and consistency in the development of user modifications and facilitates the integration of these scripts into the gaming environment.</p>
+<p>Example of a custom Lua script:</p>
+<h1><a class="anchor" id="autotoc_md4"></a>
+Example LUA Script</h1>
+<div class="fragment"><div class="line">local text = &quot;Hello World&quot;</div>
+<div class="line"> </div>
+<div class="line">function start()</div>
+<div class="line">    -- This equals Debug.Log(&quot;lua start...&quot;)</div>
+<div class="line">    print(&quot;lua start...&quot;)</div>
+<div class="line">    print(&quot;injected object&quot;, GameSingleton)</div>
+<div class="line">    -- Find class GameSingleton </div>
+<div class="line">    GameSingletonComponent= GameSingleton:GetComponent(typeof(CS.Necroisle.GameSingleton))</div>
+<div class="line">    print(&quot;GameSingletonComponent&quot;, GameSingletonComponent)</div>
+<div class="line">end</div>
+<div class="line"> </div>
+<div class="line">function update()</div>
+<div class="line">    -- Call Function From GameSingleton class</div>
+<div class="line">    GameSingletonComponent:CallDebugLog(text)</div>
+<div class="line">    -- Change position of GameSingleton object</div>
+<div class="line">    local pos = GameSingleton.transform</div>
+<div class="line">    pos.position = pos.position + CS.UnityEngine.Vector3(0, 1, 0)</div>
+<div class="line">end</div>
+<div class="line"> </div>
+<div class="line">function ondestroy()</div>
+<div class="line">    print(&quot;lua destroy&quot;)</div>
+<div class="line">end</div>
+</div><!-- fragment --> </div></div><!-- PageDoc -->
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sat Dec 9 2023 23:26:44 for NecroIsle by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
+    <li class="footer">Generated on Fri Apr 26 2024 23:59:36 for NecroIsle by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.8 </li>
   </ul>
 </div>
 </body>

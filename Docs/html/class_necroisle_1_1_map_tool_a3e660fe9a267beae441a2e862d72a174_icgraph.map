@@ -1,0 +1,5 @@
+<map id="Necroisle.MapTool.GetClosestFogPointMap" name="Necroisle.MapTool.GetClosestFogPointMap">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,5,451,45"/>
+<area shape="rect" id="Node000002" href="$class_necroisle_1_1_map_tool.html#ace08819f22b59741cf2fa3aac3a1c9b2" title=" " alt="" coords="5,5,204,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="236,28,205,28,205,23,236,23"/>
+</map>

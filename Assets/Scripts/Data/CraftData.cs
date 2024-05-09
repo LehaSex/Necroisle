@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -9,13 +9,13 @@ namespace Necroisle
     /// </summary>
 
     [System.Serializable]
-/*     public class CraftCostData
+    public class CraftCostData
     {
         public Dictionary<ItemData, int> craft_items = new Dictionary<ItemData, int>();
         public Dictionary<GroupData, int> craft_fillers = new Dictionary<GroupData, int>();
         public Dictionary<CraftData, int> craft_requirements = new Dictionary<CraftData, int>();
         public GroupData craft_near;
-    } */
+    }
 
     /// <summary>
     /// Parent data class for craftable items (items, constructions, plants)
@@ -30,7 +30,7 @@ namespace Necroisle
         public string desc;
 
         [Header("Groups")]
-/*         public GroupData[] groups; */
+        public GroupData[] groups;
 
         [Header("Crafting")]
         public bool craftable; //Can be crafted? If false, can still be learn through the learn action
@@ -39,9 +39,9 @@ namespace Necroisle
         public int craft_sort_order = 0; //Which items appear first in crafting menu
 
         [Header("Crafting Cost")]
-/*         public GroupData craft_near; //Group of selectable required near the player to craft this (ex: fire source, water source)
+        public GroupData craft_near; //Group of selectable required near the player to craft this (ex: fire source, water source)
         public ItemData[] craft_items; //Items needed to craft this
-        public GroupData[] craft_fillers; //Items needed to craft this (but that can be any item in group) */
+        public GroupData[] craft_fillers; //Items needed to craft this (but that can be any item in group)
         public CraftData[] craft_requirements; //What needs to be built before you can craft this
 
         [Header("XP")]
@@ -53,7 +53,7 @@ namespace Necroisle
 
         protected static List<CraftData> craft_data = new List<CraftData>();
 
-/*         public bool HasGroup(GroupData group)
+        public bool HasGroup(GroupData group)
         {
             foreach (GroupData agroup in groups)
             {
@@ -136,7 +136,7 @@ namespace Necroisle
                 cost.craft_near = craft_near;
 
             return cost;
-        } */
+        }
 
         public static void Load(string folder = "")
         {
@@ -144,7 +144,7 @@ namespace Necroisle
             craft_data.AddRange(Resources.LoadAll<CraftData>(folder));
         }
 
-/*         public static List<CraftData> GetAllInGroup(GroupData group)
+        public static List<CraftData> GetAllInGroup(GroupData group)
         {
             List<CraftData> olist = new List<CraftData>();
             foreach (CraftData item in craft_data)
@@ -153,9 +153,9 @@ namespace Necroisle
                     olist.Add(item);
             }
             return olist;
-        } */
+        }
 
-/*         public static List<CraftData> GetAllCraftableInGroup(PlayerCharacter character, GroupData group)
+        public static List<CraftData> GetAllCraftableInGroup(PlayerController character, GroupData group)
         {
             List<CraftData> olist = new List<CraftData>();
             foreach (CraftData item in craft_data)
@@ -168,7 +168,7 @@ namespace Necroisle
                 }
             }
             return olist;
-        } */
+        }
 
         public static CraftData Get(string id)
         {
@@ -186,7 +186,7 @@ namespace Necroisle
         }
 
         //Count objects of type in scene
-/*         public static int CountSceneObjects(CraftData data)
+        public static int CountSceneObjects(CraftData data)
         {
             return Craftable.CountSceneObjects(data); //All objects in scene
         }
@@ -194,10 +194,10 @@ namespace Necroisle
         public static int CountSceneObjects(CraftData data, Vector3 pos, float range)
         {
             return Craftable.CountSceneObjects(data, pos, range);
-        } */
+        }
 
         //Compability with older version
-/*         public static int CountObjectInRadius(CraftData data, Vector3 pos, float radius) { return CountSceneObjects(data, pos, radius); }
+        public static int CountObjectInRadius(CraftData data, Vector3 pos, float radius) { return CountSceneObjects(data, pos, radius); }
 
         //Return all scenes objects with this data
         public static List<GameObject> GetAllObjectsOf(CraftData data)
@@ -208,6 +208,6 @@ namespace Necroisle
         public static GameObject Create(CraftData data, Vector3 pos)
         {
             return Craftable.Create(data, pos);
-        } */
+        }
     }
 }
