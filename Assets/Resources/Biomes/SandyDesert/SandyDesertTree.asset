@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 38d63eba896e0f144b66d0da66265db1, type: 3}
   m_Name: SandyDesertTree
   m_EditorClassIdentifier: 
-  density: 5
+  density: 7
   variance: 50
   random_rotation: 1
   random_scale: 0.1
@@ -24,4 +24,6 @@ MonoBehaviour:
   - prefab: {fileID: 769415072399224641, guid: 6823fb50460c2ae44a065415546f1d58, type: 3}
     probability: 1
   - prefab: {fileID: 4068601829528759194, guid: a855471b17dcd9b4986d5e49def56158, type: 3}
+    probability: 1
+  - prefab: {fileID: 3452791566693165654, guid: 1e206875679752440ac9355ed0321aab, type: 3}
     probability: 1

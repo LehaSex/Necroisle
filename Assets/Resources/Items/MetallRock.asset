@@ -53,6 +53,7 @@ MonoBehaviour:
   actions:
   - {fileID: 11400000, guid: 925a6e1b7dcbc764cb15f91d825e9437, type: 2}
   - {fileID: 11400000, guid: b116f3b69981762499597fee1be4496a, type: 2}
+  - {fileID: 11400000, guid: f05290e7d8576f74daf57b998d1676c3, type: 2}
   buy_cost: 0
   sell_cost: 0
   container_data: {fileID: 0}

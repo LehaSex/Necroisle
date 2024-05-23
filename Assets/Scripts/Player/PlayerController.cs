@@ -826,7 +826,7 @@ namespace Necroisle
             fall_vect = fall;
         }
 
-        [Command("suicide", "Kills player")]
+        [Command("kill", "Kills player")]
         public void Kill()
         {
             character_combat.Kill();

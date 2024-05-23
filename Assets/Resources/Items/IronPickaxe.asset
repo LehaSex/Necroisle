@@ -19,6 +19,7 @@ MonoBehaviour:
   groups:
   - {fileID: 11400000, guid: 4723df1d872dc754188b96c803a1bcf4, type: 2}
   - {fileID: 11400000, guid: e8b56f12c6315fe46aa88beea8997010, type: 2}
+  - {fileID: 11400000, guid: 41a0cf25dfac9754f96cf3b83921cfa8, type: 2}
   craftable: 1
   craft_quantity: 1
   craft_duration: 0
@@ -27,7 +28,10 @@ MonoBehaviour:
   craft_items:
   - {fileID: 11400000, guid: ede2b643758395842ab1574efeab871c, type: 2}
   - {fileID: 11400000, guid: ede2b643758395842ab1574efeab871c, type: 2}
-  - {fileID: 11400000, guid: ede2b643758395842ab1574efeab871c, type: 2}
+  - {fileID: 11400000, guid: af4682b381c093e40b817288559826e3, type: 2}
+  - {fileID: 11400000, guid: 6675ff050c7e97c4898a9edfe7cf6d43, type: 2}
+  - {fileID: 11400000, guid: 6675ff050c7e97c4898a9edfe7cf6d43, type: 2}
+  - {fileID: 11400000, guid: 6675ff050c7e97c4898a9edfe7cf6d43, type: 2}
   craft_fillers: []
   craft_requirements: []
   craft_xp: 0

@@ -102,12 +102,15 @@ MonoBehaviour:
   hp_regen: 0
   attack_group: 0
   team_group: {fileID: 0}
-  required_item: {fileID: 11400000, guid: e8b56f12c6315fe46aa88beea8997010, type: 2}
+  required_item: {fileID: 11400000, guid: 41a0cf25dfac9754f96cf3b83921cfa8, type: 2}
   attack_melee_only: 1
   hit_range: 1.5
   xp: 0
   xp_type: 
-  loots: []
+  loots:
+  - {fileID: 11400000, guid: 365db25704cd32d448da6ecb55e0f121, type: 2}
+  - {fileID: 11400000, guid: 365db25704cd32d448da6ecb55e0f121, type: 2}
+  - {fileID: 11400000, guid: 365db25704cd32d448da6ecb55e0f121, type: 2}
   shake_on_hit: 1
   destroy_delay: 0
   attack_center: {fileID: 0}

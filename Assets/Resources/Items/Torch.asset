@@ -26,6 +26,7 @@ MonoBehaviour:
   craft_items:
   - {fileID: 11400000, guid: ede2b643758395842ab1574efeab871c, type: 2}
   - {fileID: 11400000, guid: 43814ff9d30b3694aa001b0e0872c729, type: 2}
+  - {fileID: 11400000, guid: af4682b381c093e40b817288559826e3, type: 2}
   craft_fillers: []
   craft_requirements: []
   craft_xp: 0

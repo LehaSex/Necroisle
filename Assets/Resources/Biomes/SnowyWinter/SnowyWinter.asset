@@ -12,10 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7fa7018b319149f4eb8d049f8996db61, type: 3}
   m_Name: SnowyWinter
   m_EditorClassIdentifier: 
-  id: 
-  probability: 0
+  id: winter
+  probability: 0.5
   starting_zone: 0
-  floor_material: {fileID: 0}
+  floor_material: {fileID: 2100000, guid: 29ba46121edbce748b6edd6545bd3f1b, type: 2}
   elevation: 0
   is_water: 0
-  spawns: []
+  spawns:
+  - {fileID: 11400000, guid: c37864dcdf58e1f4d817a8eef1b9edaa, type: 2}
+  - {fileID: 11400000, guid: 2960402909f643d4b849dcf9d4a7ad96, type: 2}
+  - {fileID: 11400000, guid: 84402933851f97d49940e9cd193f16c9, type: 2}

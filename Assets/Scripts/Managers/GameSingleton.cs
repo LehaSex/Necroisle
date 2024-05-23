@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using AptabaseSDK;
 
 namespace Necroisle
 {
@@ -53,6 +54,10 @@ namespace Necroisle
 
         protected void Start()
         {
+            Aptabase.TrackEvent("app_started", new Dictionary<string, object>
+            {
+                {"hello", "world"}
+            });
             resolutionInfo = new ResolutionInfo();
             resolutionInfo.width = Screen.width;
             resolutionInfo.height = Screen.height;

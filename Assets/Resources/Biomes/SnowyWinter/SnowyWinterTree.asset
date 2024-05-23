@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38d63eba896e0f144b66d0da66265db1, type: 3}
+  m_Name: SnowyWinterTree
+  m_EditorClassIdentifier: 
+  density: 10
+  variance: 50
+  random_rotation: 1
+  random_scale: 0.1
+  spawns:
+  - prefab: {fileID: 2456482016177338324, guid: e6be2f0c74caa4f4a9ac089fd091d5df, type: 3}
+    probability: 1
+  - prefab: {fileID: 4957020352677539802, guid: 09f8c8fc0271cac47959130bb7762efc, type: 3}
+    probability: 1
+  - prefab: {fileID: 3615999394943325594, guid: 1a3ef8ae143dd1e46b8583a43ea2c765, type: 3}
+    probability: 1
+  - prefab: {fileID: 7424510461569742074, guid: 45ace8b22f228aa4198a01243e7cb1e6, type: 3}
+    probability: 1
+  - prefab: {fileID: 3452791566693165654, guid: 1e206875679752440ac9355ed0321aab, type: 3}
+    probability: 1
+  - prefab: {fileID: 5536351305968178497, guid: 54c9ef459f0469f45a3185848a346e28, type: 3}
+    probability: 0.5
+  - prefab: {fileID: 4246493912501627660, guid: cc3c2f604a200844a8df5dd3e9ea7498, type: 3}
+    probability: 0.2

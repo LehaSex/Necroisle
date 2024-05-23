@@ -633,6 +633,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 25177ed654cdb0e4e9dbe24d4f909be9, type: 2}
   - {fileID: 11400000, guid: e5f47f549588b4a40bdc94d08556378b, type: 2}
   - {fileID: 11400000, guid: b11927b05d481d846b6ee7e98fe222f8, type: 2}
+  - {fileID: 11400000, guid: cd2100f228dc6f54199e769f0d1648b7, type: 2}
   minimap_prefab: {fileID: 0}
   iterations: 1000
   walls_mat: {fileID: 2100000, guid: ce02116c4737cce49a21fdb38878ade7, type: 2}
@@ -1238,7 +1239,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8099998919857585190, guid: f9479192b223e554585334c926ba75a4, type: 3}
       propertyPath: attributes.Array.size
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 8099998919857585190, guid: f9479192b223e554585334c926ba75a4, type: 3}
       propertyPath: attributes.Array.data[0]
@@ -1255,7 +1256,7 @@ PrefabInstance:
     - target: {fileID: 8099998919857585190, guid: f9479192b223e554585334c926ba75a4, type: 3}
       propertyPath: attributes.Array.data[3]
       value: 
-      objectReference: {fileID: 11400000, guid: 1d30e421f3d2fff4d87f63ba4040ed1f, type: 2}
+      objectReference: {fileID: 11400000, guid: 297fb69742d7003418f79e022810870a, type: 2}
     - target: {fileID: 8099998919857585190, guid: f9479192b223e554585334c926ba75a4, type: 3}
       propertyPath: attributes.Array.data[4]
       value: 

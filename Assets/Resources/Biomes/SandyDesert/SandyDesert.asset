@@ -15,7 +15,7 @@ MonoBehaviour:
   id: desert
   probability: 2
   starting_zone: 0
-  floor_material: {fileID: 2100000, guid: caa03fea667dcd74a914e3726619dad9, type: 2}
+  floor_material: {fileID: 2100000, guid: 7ad713dfa608b674caa7d1d1bd0df064, type: 2}
   elevation: 0
   is_water: 0
   spawns:

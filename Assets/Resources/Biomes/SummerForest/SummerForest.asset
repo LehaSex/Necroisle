@@ -15,7 +15,7 @@ MonoBehaviour:
   id: forest
   probability: 3
   starting_zone: 1
-  floor_material: {fileID: 2100000, guid: c4e148e93fe3b3e40b3d587152c0d60e, type: 2}
+  floor_material: {fileID: 2100000, guid: eaa9eb78f12d5d047b111091530b89a1, type: 2}
   elevation: 0
   is_water: 0
   spawns:
